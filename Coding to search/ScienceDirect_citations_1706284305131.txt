@@ -1,0 +1,297 @@
+Meriam Chaal, Xin Ren, Ahmad BahooToroody, Sunil Basnet, Victor Bolbot, Osiris A. Valdez Banda, Pieter Van Gelder,
+Research on risk, safety, and reliability of autonomous ships: A bibliometric review,
+Safety Science,
+Volume 167,
+2023,
+106256,
+ISSN 0925-7535,
+https://doi.org/10.1016/j.ssci.2023.106256.
+(https://www.sciencedirect.com/science/article/pii/S0925753523001984)
+Abstract: The safety and reliability of autonomous ships are critical for the successful realization of an autonomous maritime ecosystem. Research and collaboration between governments, industry, and academia are vital in achieving this goal. This paper conducts a bibliometric review of the research on the risk, safety, and reliability of autonomous ships aiming to provide researchers and maritime stakeholders with a structured overview of the topics, development trends, and collaboration networks in this research field. 417 papers published between 2011 and 2022 were identified covering 940 authors, 31 countries, and 227 journals. Three main themes were determined in this research domain: “safety engineering and risk assessment for decision making”, “navigation safety and collision avoidance”, and “cybersecurity risk analysis”. Meanwhile, it was identified that research on cybersecurity in autonomous shipping is moving to overlap with safety, which requires future co-analysis methods. Additionally, the analysis of the most cited 30 papers suggests that further research is needed in the topics of unmanned machinery operation risks, online risk tools, system-theoretic safety analysis, human factor, and the determination of suitable risk acceptance criteria for safety assessment of autonomous ships. Furthermore, the analysis revealed that the development of unambiguous COLREGs regulation is crucial for the development of safe collision avoidance algorithms for MASS. It was identified that the publication by Fan et al., (2020) is a key publication in this research field, while the journals of Ocean Engineering, Reliability Engineering & System Safety, and Safety Science are the key journals publishing on autonomous ship safety and reliability.
+Keywords: MASS; Literature Review; Policymaking; Safety; Cyber Security; Reliability
+
+Concetta Semeraro, Haya Aljaghoub, Mohammad Ali Abdelkareem, Abdul Hai Alami, Michele Dassisti, A.G. Olabi,
+Guidelines for designing a digital twin for Li-ion battery: A reference methodology,
+Energy,
+Volume 284,
+2023,
+128699,
+ISSN 0360-5442,
+https://doi.org/10.1016/j.energy.2023.128699.
+(https://www.sciencedirect.com/science/article/pii/S0360544223020935)
+Abstract: The integration of digital technologies is causing a significant change in the energy sector. These innovations have transformed traditional energy grids into intelligent grids. As a result, the digital replica of Battery Energy Storage Systems (BESS) has become one of the most crucial components in the energy sector. Digital twin technology enables the seamless integration of BESS into intelligent grids and offers numerous benefits, such as easy identification and prediction of faults, real-time system monitoring, optimization, temperature regulation, and estimation of parameters. As a result, the overall performance of BESS is improved by the digital twin technology. Consequently, this paper discusses the general guidelines that must be followed to develop a digital twin for a Li-ion BESS successfully. The main function is to define how to design a digital twin able to optimize the system and facilitate early and predictive fault detection and diagnosis.
+Keywords: Digital twin; Lithium battery; Battery energy storage systems; Unsupervised machine learning; Formal concept analysis
+
+Pablo Otero, Águeda Cabrero, Fernando Alonso-Pérez, Jesús Gago, Enrique Nogueira,
+Temperature and salinity trends in the northern limit of the Canary Current Upwelling System,
+Science of The Total Environment,
+Volume 901,
+2023,
+165791,
+ISSN 0048-9697,
+https://doi.org/10.1016/j.scitotenv.2023.165791.
+(https://www.sciencedirect.com/science/article/pii/S0048969723044145)
+Abstract: Thermohaline time series are crucial for detecting and quantifying abiotic changes in the marine environment, and even more so in the present global change scenario. This is particularly relevant for the Ría the Vigo and its adjacent shelf, a highly productive ecosystem at the northern limit of the Canary Current Upwelling System (CanCUS). This study analyses a 34-year time series (1987–2020) of Conductivity-Temperature-Depth (CTD) casts, the longest series available to date in the region. Long-term trends, shifts, and seasonal variability of temperature and salinity were assessed and investigated in relation to regional meteorological variability and basin-scale atmospheric teleconnection indices. Generalized Additive Models (GAM) allowed us to determine that monthly thermohaline variability can be largely explained by regional meteo-climatic variability, mainly upwelling index and river discharge. Trends and shifts in some teleconnection patterns, especially the East Atlantic (EA) pattern, may also be related to both the shift in salinity in 2013 and its long-term decrease below 50 m depth. Despite the current global warming context, no statistically significant trend was observed for either the upwelling index or temperature. The spatial analysis of sea surface temperature trends suggests that our study area has been responding to climate change differently from other surrounding near-shore areas, as the Finisterre Cape or the southern Bay of Biscay. Overall, this study highlights the importance of long-term observations to elucidate the impact of climate change in the northern limit of the CanCUS and encourages caution when extrapolating conclusions from ecosystem studies on a regional scale.
+
+Awadesh Kumar Mallik,
+The future of the technology-based manufacturing in the European Union,
+Results in Engineering,
+Volume 19,
+2023,
+101356,
+ISSN 2590-1230,
+https://doi.org/10.1016/j.rineng.2023.101356.
+(https://www.sciencedirect.com/science/article/pii/S2590123023004838)
+Abstract: The manufacturing industry tries to innovate always to cater to customer-oriented products. The digitization of manufacturing is revolutionizing the future of this industry. The Industrial Internet of Things (IIoT) is bringing down the labor cost, reducing the machine downtime, and overall increasing the production speed. A new technological trend like Machine Learning (ML) is a subset of Artificial Intelligence (AI) that uses computer algorithms based on available data and can improve or decide further, automatically, based on experience, without the need for prior programming commands. ML can improve daily processes for identifying bottlenecks, developing products, controlling quality, providing security to the industry, and using AI robotics in place of humans. On one hand, technologies like ML, AI, IIoT, new materials, photonics, and rapid prototyping are driving the manufacturing sector in adopting a future version of Industry 4.0, and on the other hand, the European Commission (EC) has defined a roadmap until 2050 or more, in achieving the sustainable goal of carbon-neutrality and complete digitalization with resilience across the European continent. However, it is challenging to match the planned and actual roadmaps to the future of the technology-based manufacturing industry. There are uncertainties about how the future will be shaped by technologies in the EU manufacturing industry, in the changing political, environmental and social world environment. Recognizing these difficulties, the current article consults the available literature on this topic to determine the factors that will characterize the future of the manufacturing industry across EU countries. The relevant information about the EU manufacturing sectors has first been collected from various sources like Eurostat data, the EC policy documents, manufacturing company's annual reports, research reviews, journal articles, EU Industry Days annual event, etc. Then the collected data were analyzed to gain insight into the future of the technology-based EU manufacturing industry in the context of the European Commission's outlined policies. Variable factors from different manufacturing sectors are presented from different EU member states and scenario analysis was used for understanding the possible future. It is concluded that the future does not lie in adapting to the changing environment but in creating the future by EU companies themselves - revolution must be met by revolution. Their early experiences and path dependency can be seen as stubbornness, which may act as formidable barriers to building new capabilities. Therefore, companies must step-wise integrate resources to create a new process, and new structure, with personnel motivation, that fits with the broader European context in the coming decades.
+Keywords: Manufacturing; EU; Carbon-neutrality; Digitalization; Management
+
+Ji-Qiang Li, Heng Xu, Jia-Bao Wang, Xiang-Yang Wang, Ji-Chao Li, SoonKi Kwon, Jeong-Tae Kwon, ManSoo Koh,
+A review of methods to study the fatigue life of nodes connecting marine composite hydrogen storage tanks to ships under the action of external forces,
+Journal of Energy Storage,
+Volume 72, Part B,
+2023,
+108367,
+ISSN 2352-152X,
+https://doi.org/10.1016/j.est.2023.108367.
+(https://www.sciencedirect.com/science/article/pii/S2352152X23017644)
+Abstract: The construction of hydrogen ships has emerged as the next area of research after the widespread usage of hydrogen storage tanks in fuel-cell vehicles. Marine hydrogen storage tanks are used differently than those used in the automobile industry because of the challenging sea conditions, which restrict their further use in ships. Current research is focused on finding ways to make marine hydrogen storage tanks stable and safe in these conditions. The use of hydrogen as a source of energy requires four main technologies: production, storage, transportation, and application. In this study, the fastening method for the hydrogen storage tank on the ship, node optimization, failure analysis, and real-time structural inspection of the connection node between the hydrogen storage tank and the ship are all covered. The failure processes and influencing variables of marine hydrogen storage tanks are distinct because in complex sea conditions, the fixed nodes of hydrogen storage tanks on ships are susceptible to hydrodynamic loads from waves and currents. The application of fiber optic nondestructive testing, digital twin technology, and intelligent sensing technology to the deteriorating performance and damage patterns of crucial ship connection nodes is covered in this study. It is anticipated that different technologies will combine to play a larger and larger role in the monitoring of ship life and the fatigue of hydrogen storage tank connecting nodes. The main challenges that marine hydrogen storage tanks face in complex sea conditions are summarized along with the current state of research. Suggestions are then made for the development of marine hydrogen storage tanks in the future, and a wide range of hydrogen energy applications are anticipated.
+Keywords: High pressure hydrogen storage tank; Fatigue failure; Impact failure; Non-destructive testing technology; Intelligent sensing technology; Digital twin technology; Optimal design
+
+Wang Chi Ming, Li Yanan, Min Lanxi, Chen Jiuhu, Lin Zhong, Su Sunxin, Zhang Yuanchao, Chen Qianying, Chen Yugui, Duan Xiaoxue, Wei Jiayi, Zhu shunzhi,
+Intelligent marine area supervision based on AIS and radar fusion,
+Ocean Engineering,
+Volume 285, Part 2,
+2023,
+115373,
+ISSN 0029-8018,
+https://doi.org/10.1016/j.oceaneng.2023.115373.
+(https://www.sciencedirect.com/science/article/pii/S0029801823017572)
+Abstract: A weighted track fusion algorithm is proposed to address the complexity of conventional sea monitoring data and the lack of effective and convenient monitoring methods. The new algorithm uses local information entropy and fuses data from the automatic identification system (AIS) and X-band radar. The new model employs ship monitoring data to detect five types of abnormal ship behavior: speed, course, position, ship spacing, and time abnormalities. The method weights various factors using a weight matrix built up from a distance difference matrix between different track points and calculations of the distance information entropy and residual degree using information entropy theory. We tested the proposed weighted track fusion algorithm the fusion accuracy using actual data for 2813 ships, AIS, and radar track points based on local information entropy. The resulting correlation accuracy was 95.54% for 2716 ship track points and a correlation accuracy of 90.72% for 97 ship tracks. The results indicate that the proposed algorithm is suitable for fusing multiple tracks and is more robust than traditional fusion methods.
+Keywords: Intelligent supervision; AIS; Radar; Abnormal behavior
+
+Jiawei Wei, Lian Feng, Yan Tong, Yang Xu, Kun Shi,
+Long-term observation of global nuclear power plants thermal plumes using Landsat images and deep learning,
+Remote Sensing of Environment,
+Volume 295,
+2023,
+113707,
+ISSN 0034-4257,
+https://doi.org/10.1016/j.rse.2023.113707.
+(https://www.sciencedirect.com/science/article/pii/S0034425723002584)
+Abstract: Thermal discharge from nuclear power plants poses a threat to the received natural water bodies, but the long-term extent and intensity of their surface thermal plumes remain unclear. In this study, we proposed a method to determine the background area for each drainage outlet and delineate the mixed surface thermal plumes based on 7,172 Landsat thermal infrared images. We further used a deep convolutional neural network integrated with prior location knowledge to extract core surface thermal plumes for 74 drainage outlets of 66 nuclear power plants worldwide. Our final model achieved a mean Intersection over Union (mIoU) of 0.8998 and an F1 score of 0.8886. We found that the mean maximal water surface temperature (WST) increment of the studied plants globally was 4.80 K. The Tianwan plant in China experienced the highest WST increase (8.51 K), followed by the Gravelines plant in France and the Ohi plant in Japan (7.91 K and 7.71 K, respectively). The Bruce plant in Canada had the largest thermal-polluted surface area (7.22 km2). We also provided the dataset, Global Coastal Nuclear power plant Thermal Plume (GCNT-Plume), to describe the long-term occurrence of water surface thermal plumes. Three influencing factors of the water surface thermal plume were further analyzed in this study, including total capacity, drainage type, and location type, which were associated with operating power, drainage method, and geographical features, respectively. Total capacity was more statistically related to the maximum of WST increment under shallow drainage condition. The mean WST increment of shallow drainage was 1.22 K higher than that of deep drainage. Surface plumes larger than 4 km2 frequently occurred in the Great Lakes, while small surface thermal plumes (< 1 km2) were primarily found in estuaries. The proposed method provides an important framework for future operational water surface thermal plume detection using remotely sensed observations and deep learning.
+Keywords: Surface thermal plume; Nuclear power plants; Thermal infrared remote sensing; Landsat; WST; Deep learning
+
+Quang Nguyen, Michal Malinowski, Regina Kramarska, Dorota Kaulbarsz, Leslaw Mil, Christian Hübscher,
+Gas - Escape features along the Trzebiatów fault offshore Poland: Evidence for a leaking petroleum system,
+Marine and Petroleum Geology,
+Volume 156,
+2023,
+106431,
+ISSN 0264-8172,
+https://doi.org/10.1016/j.marpetgeo.2023.106431.
+(https://www.sciencedirect.com/science/article/pii/S0264817223003379)
+Abstract: New 2D high-resolution seismic and hydro-acoustic data demonstrate the presence of methane in the shallow sediments and its origin in the Pomeranian Bight, south of the Baltic Sea area. Various shallow gas features including chimneys, bright spots, acoustic blanking, pockmarks, and polarity reversal were identified in the Gryfice block, along the inverted Trzebiatów fault zone. Structural and stratigraphic interpretation with support of seismic attributes shows the potential of fluid migration pathways from the Upper Triassic formation reservoirs to shallow sediments below the seafloor. It also helps in the explanation of how this natural gas escapes to the sea bottom. Amplitude-vs-offset (AVO) analysis proved free gas existence in the potential Upper Triassic reservoir, and helped locate free gas deposits within sediments. Hydro-acoustic data illustrated the gas chimneys’ anomalies and the corresponding free gas accumulation in Pleistocene to Quaternary successions. Leaking of gas to the seafloor was also proved by the exposure of pockmarks on multibeam (bathymetry) data at the seafloor. We combine seismic, hydro-acoustic data, and information on petroleum system from previous studies to explain the signatures of free gas and its migration from lower reservoirs to shallow sediments.
+Keywords: Reflection seismic; Hydro-acoustics; Fluid escape; Shallow gas; Petroleum system
+
+I. Berriban, E. Chham, Abdelhamid Nouayti, M. Azahra, J.A.G. Orza, H. Ziani, T. El Ghalbzouri, T. El Bardouni, M. Hadouachi, A. Milena-Pérez, F. Piñero-García, L. Tositti, E. Brattich, I. Ben Maimoun, M.A. Ferro- García,
+Influence of atmospheric circulation and local parameters on activity concentration of gross alpha and gross beta in Granada, Spain,
+Atmospheric Pollution Research,
+Volume 14, Issue 9,
+2023,
+101857,
+ISSN 1309-1042,
+https://doi.org/10.1016/j.apr.2023.101857.
+(https://www.sciencedirect.com/science/article/pii/S1309104223002118)
+Abstract: This work analyses the influence of local meteorology and air mass origin on radioactivity levels measured in Granada (Southern Spain). To the scope, gross α and gross β activities at ground-level air were weekly recorded from 2006 to 2021, by collecting aerosol filters and successively analysing them by low-level proportional counting. Time series decomposition shows a strong correlation between the seasonal components of gross α and gross β and the local meteorological parameters, in particular temperature and wind speed. Back trajectories reaching the study area during the sampling, calculated at three height levels (750 m, 1500 m, and 3000 m a.s.l.), were analysed by three methods with the aim to determine the main characteristics of air masses reaching Granada, and their impact on airborne radioactivity levels. The results of the residence time and clustering analyses showed that an increase in the radioactivity levels in the southeast of Spain is connected with air masses coming from the Mediterranean at 750 m and from the South (Sahara Desert) at 3000 m. In line with the outcomes obtained by the cluster analysis, the Concentration Weighted Trajectory (WCWT) results highlight that the air masses transported from Mediterranean and African regions are a potential source of gross α and gross β. Moreover, the findings of the WCWT bring a new aspect by revealing that the southern France region can also have a significant contribution to gross alpha and beta activities.
+Keywords: Gross alpha; Gross beta; Air masses; Back-trajectories; Radioactivity
+
+Zipeng Wu, Chu Kiong Loo, Unaizah Obaidellah, Kitsuchart Pasupa,
+A novel online multi-task learning for COVID-19 multi-output spatio-temporal prediction,
+Heliyon,
+Volume 9, Issue 8,
+2023,
+e18771,
+ISSN 2405-8440,
+https://doi.org/10.1016/j.heliyon.2023.e18771.
+(https://www.sciencedirect.com/science/article/pii/S2405844023059790)
+Abstract: In light of the ongoing COVID-19 pandemic, predicting its trend would significantly impact decision-making. However, this is not a straightforward task due to three main difficulties: temporal autocorrelation, spatial dependency, and concept drift caused by virus mutations and lockdown policies. Although machine learning has been extensively used in related work, no previous research has successfully addressed all three challenges simultaneously. To overcome this challenge, we developed a novel online multi-task regression algorithm that incorporates a chain structure to capture spatial dependency, the ADWIN drift detector to adapt to concept drift, and the lag time series feature to capture temporal autocorrelation. We conducted several comparative experiments based on the number of daily confirmed cases in 20 areas in California and affiliated cities. The results from our experiments demonstrate that our proposed model is superior in adapting to concept drift in COVID-19 data and capturing spatial dependencies across various regions. This leads to a significant improvement in prediction accuracy when compared to existing state-of-the-art batch machine learning methods, such as N-Beats, DeepAR, TCN, and LSTM.
+Keywords: Online learning; Multivariate time series; Multi-task learning; COVID-19 prediction
+
+Saima Aijaz, Gary B. Brassington, Prasanth Divakaran, Charly Régnier, Marie Drévillon, Jan Maksymczuk, K. Andrew Peterson,
+Verification and intercomparison of global ocean Eulerian near-surface currents,
+Ocean Modelling,
+Volume 186,
+2023,
+102241,
+ISSN 1463-5003,
+https://doi.org/10.1016/j.ocemod.2023.102241.
+(https://www.sciencedirect.com/science/article/pii/S1463500323000823)
+Abstract: The OceanPredict task team for Intercomparison and Validation (IV-TT) has established the CLASS4 data standard for routine forecast verification against selected reference observing platforms. The set of CLASS4 reference data has been recently extended to include near-surface currents derived from the trajectories of drifting buoys drogued at 15 m. We have applied these data to the Ocean Model, Analysis and Prediction System (OceanMAPS) at the Australian Bureau of Meteorology (ABoM) for verification and inter-comparison with Mercator Océan International ocean forecast system (MOi), the operational models of the Met Office, UK: Forecast Ocean Assimilation Model (FOAM) and Coupled Atmosphere-Land-Ocean-Ice Data Assimilation (CPLDA) systems, and the Global Ice Ocean Prediction System (GDPS-GIOPS) at the Canadian Centre for Meteorological and Environmental Prediction (CCMEP). The aims for this verification analysis are to extend the routine monitoring of the operational system; to assess the OceanMAPS skill against other models; and to inform our stakeholders of the OceanMAPS performance. We have evaluated the impacts of adding Stokes drift and tidal currents from separate global wave and global tide models to the model currents on the verification of currents. Including Stokes drift leads to significant improvements in representation and the metrics for model skill while inclusion of tides has no significant impact on the global statistics. Zonal currents have a stronger signal than the meridional currents as indicated by their high correlation with observations, and lower errors. This indicates zonal currents on average are more predictable and persistent than the meridional currents, resulting in improved representation in the models. Overall, MOi, and the new version of OceanMAPS (4.0i), and FOAM show marginally better performance against the observations relative to other models. Although there are significant differences in the configurations of the eight models under evaluation, all the models are shown to be remarkably statistically equivalent with consistent spatial and temporal patterns indicating the main differences are attributable to unrepresented processes. We therefore conclude that there is significant scope to further improve the representation of the modelled currents with the observations.
+Keywords: Ocean currents verification; Intercomparison of global ocean models; Ocean modelling; Global drifter program
+
+Mujib Jimoh,
+Critiquing the U.S. characterization, attribution and retaliation laws and policies for cyberattacks,
+Computer Law & Security Review,
+Volume 50,
+2023,
+105847,
+ISSN 0267-3649,
+https://doi.org/10.1016/j.clsr.2023.105847.
+(https://www.sciencedirect.com/science/article/pii/S0267364923000572)
+Abstract: This paper critiques the U.S. characterization, attribution, and retaliation laws and policies for cyberattacks. Characterization, attribution, and retaliation are part of the most important aspects of responding to cyberattacks. The U.S. does not have a clearly defined characterization process, other than the Government Accountability Office (GAO), Cybersecurity and Infrastructure Security Agency (CISA) and the Department of Homeland Security (DHS)’s Threat Table which characterizes the different motivations for carrying out cyberattacks by cyber threat actors. This Threat Table has hardly changed since 2005, yet, cyber threat actors continually develop their tactics, techniques, and procedures (TTPs) and conceal their real motivations for carrying out cyberattacks. Like characterization, the U.S. does not have a known attribution procedure, nor is a single agency tasked with the function of attribution. Different agencies – the Department of Justice (DoJ), the Federal Bureau of Investigation (FBI), the National Cyber Investigative Joint Task Force (NCIJTF), and the Office of the Director of National Intelligence (ODNI) – and even private sectors companies, participate in the attribution process. This invites potential contradiction and interference with the attribution process. Though, unlike characterization and attribution, the U.S. retaliation policies are contained in different documents, none has the preciseness required to be effective. This paper thus, makes recommendations for each of these aspects of cyberattack response.
+Keywords: U.S.; Cyberattack; Characterization; Attribution; Retaliation; Law; Policy
+
+Lorenzo Morroni, Arnold Rakaj, Luca Grosso, Gaia Flori, Alessandra Fianchini, David Pellegrini, Francesco Regoli,
+Echinoderm larvae as bioindicators for the assessment of marine pollution: Sea urchin and sea cucumber responsiveness and future perspectives,
+Environmental Pollution,
+Volume 335,
+2023,
+122285,
+ISSN 0269-7491,
+https://doi.org/10.1016/j.envpol.2023.122285.
+(https://www.sciencedirect.com/science/article/pii/S0269749123012873)
+Abstract: Echinoderms play a crucial role in the functioning of marine ecosystems and due to their extensive distribution, rapid response, and the high sensitivity of their planktonic larvae to a large range of stressors, some species are widely used as biological indicators. In addition to sea urchins, sea cucumbers have recently been implemented in embryotoxicity bioassays showing high potential in ecotoxicological studies. However, the use of this species is still hindered by a lack of knowledge regarding their comparative responsiveness. The present study aimed to investigate the responsiveness of different echinoderm species to environmental pollution in order to develop their integration in batteries of ecotoxicological bioassays. To this end, the embryos of two sea urchins (Paracentrotus lividus and Arbacia lixula) and two sea cucumbers (Holothuria polii and Holothuria tubulosa) were incubated with inorganic and organic toxicants (cadmium, copper, mercury, lead, sodium dodecyl sulphate and 4-n-Nonhyphenol) and elutriates from contaminated marine sediments, chosen as a case study model. The results obtained, expressed through the percentage of abnormal embryos and Integrative Toxicity Indices (ITI), indicated species-specific sensitivities to pollutants, with comparable and correlated responsiveness between sea urchins and sea cucumbers. More specifically, sea cucumber larvae exposed to elutriates appear to be more sensitive than sea urchins, especially when incubated with samples containing trace metals, PCB and TBT. These results indicate that toxic responses in embryos exposed to environmental matrices are probably modulated by interactions between different variables, including additive, synergistic and antagonistic effects. These findings suggest that performing a larval test using different echinoderm classes can integrate the interactive effects of bioavailable fraction of contaminants on various levels, providing sensitive, representative and all year-round batteries of bioassays to apply in ecotoxicological studies.
+Keywords: Sea urchins; Sea cucumbers; Marine sediments; Bioassays; Echinoderms; Larvae
+
+Na Cheng, Zhixuan Sun, Xuanbing Zhu, Hongyu Wang,
+A transformer-based network for perceptual contrastive underwater image enhancement,
+Signal Processing: Image Communication,
+Volume 118,
+2023,
+117032,
+ISSN 0923-5965,
+https://doi.org/10.1016/j.image.2023.117032.
+(https://www.sciencedirect.com/science/article/pii/S0923596523001145)
+Abstract: Vision-based underwater image enhancement methods have received much attention for application in the fields of marine engineering and marine science. The absorption and scattering of light in real underwater scenes leads to severe information degradation in the acquired underwater images, thus limiting further development of underwater tasks. To solve these problems, a novel transformer-based perceptual contrastive network for underwater image enhancement methods (TPC-UIE) is proposed to achieve visually friendly and high-quality images, where contrastive learning is applied to the underwater image enhancement (UIE) task for the first time. Specifically, to address the limitations of the pure convolution-based network, we embed the transformer into the UIE network to improve its ability to capture global dependencies. Then, the limits of the transformer are then taken into account as convolution is reintroduced to better capture local attention. At the same time, the dual-attention module strengthens the network’s focus on the spatial and color channels that are more severely attenuated. Finally, a perceptual contrastive regularization method is proposed, where a multi-loss function made up of reconstruction loss, perceptual loss, and contrastive loss jointly optimizes the model to simultaneously ensure texture detail, contrast, and color consistency. Experimental results on several existing datasets show that the TPC-UIE obtains excellent performance in both subjective and objective evaluations compared to other methods. In addition, the visual quality of the underwater images is significantly improved by the enhancement of the method and effectively facilitates further development of the underwater task.
+Keywords: Underwater image enhancement; Transformer; Multi-loss function; Contrastive learning
+
+Diyar Khan, Rafał Burdzik,
+Measurement and analysis of transport noise and vibration: A review of techniques, case studies, and future directions,
+Measurement,
+Volume 220,
+2023,
+113354,
+ISSN 0263-2241,
+https://doi.org/10.1016/j.measurement.2023.113354.
+(https://www.sciencedirect.com/science/article/pii/S0263224123009181)
+Abstract: This review article provides a detailed overview of the measurement and analysis requirements for transport noise and vibration. It highlights the recommended measurement parameters as per the international standards, including ISO 1996–2:2016, ANSI S12.9–2014, and AS/NZS 2107:2016. The article discusses various techniques for measuring transport noise and vibration, such as sound level meters, vibration meters, and noise mapping, as well as advanced analysis techniques like frequency analysis, statistical analysis, and signal processing. Additionally, it summarizes the measurement requirements outlined in several guidelines and standards, including the Environmental Noise Directive, FTA Transit Noise and Vibration Impact Assessment, US EPA, Ontario Ministry of Environment, AS/NZS 2107:2016, and Japan Ministry of Environment. The article also compares a number of noise prediction models, including the CoRTN model, RLS 90 model, ASJ RTN-Model 2008, Harmonoise model, Son Road model, Nord 2000 model, NMPB-Routes-2008 model, and CNOSSOS-EU model. The review also highlights experimental and numerical studies in this field and discusses the effects of noise and vibration on human health. The article concludes with a discussion of the shortcomings of existing research and possible future research directions. Overall, this review article offers a comprehensive guide for researchers and professionals working on the measurement and analysis of vibration and noise in transportation.
+Keywords: Transport noise; Transport vibration; Measurement techniques; Analysis techniques; Regulations and standards
+
+Xuri Xin, Kezhong Liu, Sean Loughney, Jin Wang, Huanhuan Li, Nduka Ekere, Zaili Yang,
+Multi-scale collision risk estimation for maritime traffic in complex port waters,
+Reliability Engineering & System Safety,
+Volume 240,
+2023,
+109554,
+ISSN 0951-8320,
+https://doi.org/10.1016/j.ress.2023.109554.
+(https://www.sciencedirect.com/science/article/pii/S0951832023004684)
+Abstract: Ship collision risk estimation is an essential component of intelligent maritime surveillance systems. Traditional risk estimation approaches, which can only analyze traffic risk in one specific scale, reveal a significant challenge in quantifying the collision risk of a traffic scenario from different spatial scales. This is detrimental to understanding the traffic situations and supporting effective anti-collision decision-making, particularly as maritime traffic complexity grows and autonomous ships emerge. In this study, a systematic multi-scale collision risk estimation approach is newly developed to capture traffic conflict patterns under different spatial scales. It extends the application of the complex network theory and a node deletion method to quantify the interactions and dependencies among multiple ships within encounter scenarios, enabling collision risk to be evaluated at any spatial scale. Meanwhile, an advanced graph-based clustering framework is introduced to search for the optimal spatial scales for risk evaluation. Extensive numerical experiments based on AIS data in Ningbo_Zhoushan Port are implemented to evaluate the model performance. Experimental results reveal that the proposed approach can strengthen maritime situational awareness, identify high-risk areas and support strategic maritime safety management. This work therefore sheds light on improving the intelligent levels of maritime surveillance and promoting maritime traffic automation.
+Keywords: Maritime safety; Intelligent maritime surveillance; Multi-scale collision risk; Network theory; Graph clustering
+
+Ludmiła Polechońska, Agnieszka Klink,
+Estimation of background concentrations of macro- and trace elements in an aquatic plant as a basis for the passive biomonitoring of pollution,
+Science of The Total Environment,
+Volume 899,
+2023,
+165652,
+ISSN 0048-9697,
+https://doi.org/10.1016/j.scitotenv.2023.165652.
+(https://www.sciencedirect.com/science/article/pii/S0048969723042754)
+Abstract: Chemical pollution was indicated as a global environmental problem since elevated concentrations of toxic substances were recorded in almost all ecosystems worldwide. Trace elements, released to environment due to industrial, agricultural and urban activities, are of special concern due to their non-degradability, persistence, bioaccumulation in organisms and potential toxicity. Reliable methods for assessing the level of pollution are essential for proper monitoring and control of pollution. A useful tool for this purpose is the geochemical background (GB), which enables to differentiate between unpolluted and polluted areas as well as calculate pollution indices. The study presents the first attempt to estimate the background values for aquatic plants using cosmopolitan submerged aquatic macrophyte Ceratophyllum demersum as a model species. Water and plant samples were collected from 117 water bodies. Contents of 15 elements (As, Ca, Cd, Co, Cr, Cu, Fe, K, Li, Mg, Mn, Na, Ni, Pb, V, Zn) were determined using atomic absorption spectrometry and flame photometry. Four methods were tested for estimation of the background concentrations: Median ± 2Median Absolute Deviation, Iterative 2σ technique, Tukey box-plot, Grouping of data with 60 % coefficient of variation (CV). Wide ranges of element concentrations in water and various values of Contamination Factor indicated to a variety of natural and anthropogenic impacts in the studied area, which confirmed that the database covered a real environmental variability. Very different estimates of background concentrations were obtained depending on the method. The highest background values were usually given by Me±2MAD method. Grouping of data with 60 % CV was most exigent in defining a site as undisturbed, therefore this method was recommended as the most suitable for estimation of the background values for C. demersum. Pollution Load Index validated the use of estimated background concentrations as reliable for bioindication of pollution in aquatic reservoirs.
+Keywords: Chemical fingerprinting; Trace metals; Environmental contamination; Submerged macrophyte; Ceratophyllum demersum; Pollution Load Index
+
+Feng Jin, Hao Wu, Yang Liu, Jun Zhao, Wei Wang,
+Varying-scale HCA-DBSCAN-based anomaly detection method for multi-dimensional energy data in steel industry,
+Information Sciences,
+Volume 647,
+2023,
+119479,
+ISSN 0020-0255,
+https://doi.org/10.1016/j.ins.2023.119479.
+(https://www.sciencedirect.com/science/article/pii/S0020025523010642)
+Abstract: The quality of the acquisition data in the energy system of steel industry is the basis of prediction analysis and scheduling operation. Facing with its multi-dimensional and high-noise characteristics, in this study, an anomaly detection method based on a varying-scale hypercube accelerated density based spatial clustering for applications with noise (VHCA-DBSCAN) is proposed. An HCA-DBSCAN model based on the Gaussian probability density estimation is firstly established, in which the searching radius is adaptively calculated to identify the suspected outliers efficiently. Then, a traversal search strategy for hypercube segmentation is designed, where the lengths of the edges are varying according to the characteristics of each dimension. Finally, a modified local outlier factor (LOF) by using the approximate upper boundary is presented to evaluate the degree of the suspected outliers, and the confirmed ones are identified by collaboratively considering the manufacturing signals. Validation experiments by employing real-world data from a typical steel enterprise are carried out, and the results indicate that the proposed method exhibits reliable performance and high efficiency when facing with the anomaly detection problem of multi-dimensional industrial data.
+Keywords: Varying-scale HCA-DBSCAN; Anomaly detection; Multi-dimensional energy data; Steel industry
+
+Tolga Ahmet Gülcan, Kadir Emrah Erginer,
+National and international maritime situational awareness model examples and the effects of North Stream Pipelines sabotage,
+International Journal of Critical Infrastructure Protection,
+Volume 42,
+2023,
+100624,
+ISSN 1874-5482,
+https://doi.org/10.1016/j.ijcip.2023.100624.
+(https://www.sciencedirect.com/science/article/pii/S1874548223000379)
+Abstract: While many countries and international organizations with maritime security interests and rights at sea have developed new security strategies or policies in the wake of the 9/11 terrorist attacks in the United States of America, they have accordingly changed or created new maritime security strategies or doctrines with appropriate Maritime Situational Awareness (MSA) models as well. Maritime deterioration, climate change, cyberattacks, serious and organized crime, epidemics, and state-made threats are just some of the new and growing concerns affecting maritime security. The sabotage of the Nord Stream gas pipelines in the Baltic Sea has given maritime security doctrines and frameworks a new dimension. In this article, the current maritime security approaches and maritime domain or situational awareness (MDA/MSA) model examples of some countries and international organizations from different geographic regions and also the ones that are located in the maritime choke point regions where global maritime trade routes are located and also the effects of the Nord Stream Pipelines sabotages on these are examined in light of the new threats and risks. The principle result reached in this study is that countries and international structures should have a cross governmental maritime security strategy, or at least a doctrine, in order to guide their own maritime situational awareness models and identify information sharing architectures. The most important result of the sabotages on Nord Stream Pipelines for MSA models in this study is that the fastest and most cost-effective method for protecting critical infrastructure under the seas is the concept of systems such as Mothership controlled autonomous and unmanned underwater vehicles, extra large unmanned undersea vehicles and Synthetic-aperture radar (SAR) satellites.
+Keywords: Maritime security; Strategy; Maritime domain awereness; Maritime situational awareness; Sabotage
+
+Abdalmenem Owda, Jørgen Dall, Merete Badger, Dalibor Cavar,
+Improving SAR wind retrieval through automatic anomalous pixel detection,
+International Journal of Applied Earth Observation and Geoinformation,
+Volume 122,
+2023,
+103444,
+ISSN 1569-8432,
+https://doi.org/10.1016/j.jag.2023.103444.
+(https://www.sciencedirect.com/science/article/pii/S1569843223002686)
+Abstract: Satellite observations are increasingly in demand and valuable for monitoring the ocean and coastal winds in near-real-time and analyzing the data historically. However, soared up human activities, man-made constructions, and marine traffics negatively interfere and affect the reliability of observations and raise concerns about the trustworthiness of using satellite winds for many applications, such as offshore wind energy, even though Sentinel synthetic aperture radar (SAR) data is freely and easily accessible. In this paper, we presented a novel methodological framework for localization and suppression of anomalous pixels (APs), which deteriorate the confidence and accuracy of the retrieved SAR wind speeds. The backbone of the implementation relied on the constant false alarm rate (CFAR) algorithm, one of the automatic target recognition algorithms. We used a large dataset of SAR subscenes to model different sea clutter conditions after removing the potential targets. We selected the suitable distribution model that maintains a constant probability of false alarm (pfa) for the entire SAR scene. The proper pfa was optimized in various SAR scenes ranging from scenes with a considerable number of APs, such as ships and wind park clusters, to scenes with no visible APs under different wind speed conditions. The pfa optimization process prevented real wind pixels from being misidentified as APs. Applying CFAR to the logarithmic scale of raw digital numbers (log-DNs) domain with a pfa of about 3.17 × 10-5, we extracted SAR wind speeds around each ocean buoy before and after CFAR process, comparing them with their corresponding in situ wind measurements. This led to significant improvement in the quality and accuracy of SAR wind data retrieval, especially in regions with numerous man-made constructions and high marine traffics. We tested and validated our approach in the North Sea and two regions along the eastern coast of the U.S. The enclosed region, serving as a marine route for harbors in Delaware Bay, showed a substantial improvement in RMSE and BIAS after applying our approach, reducing RMSE from 2.4 m/s to 1.6 m/s and the BIAS from −1.5 m/s to −0.3 m/s. The open ocean region demonstrated stable RMSE and BIAS, indicating preservation of real wind data, as only APs affecting SAR wind speed were considered during the process.
+Keywords: SAR; CFAR; Anomalous pixel; Sentinel-1; Offshore wind farm; Coastal environment
+
+Yuhang Chen, Tieshan Li, Yue Long, Weiwei Bai,
+Attacks detection and security control for cyber-physical systems under false data injection attacks,
+Journal of the Franklin Institute,
+Volume 360, Issue 14,
+2023,
+Pages 10476-10498,
+ISSN 0016-0032,
+https://doi.org/10.1016/j.jfranklin.2023.07.020.
+(https://www.sciencedirect.com/science/article/pii/S0016003223004507)
+Abstract: This paper is concerned with the attack detection and security control problem for discrete-time nonlinear cyber-physical systems (CPSs) under false data injection (FDI) attacks, which can bypass the traditional error detection mechanism. With the help of the T–S fuzzy models, a novel robust extended state observer with H∞ performance is proposed to estimate this kind of attack. The attacks are included inside the observer as an internal state variable and the estimation of the FDI attack can be obtained from the outputs of the observer. By utilizing the observation of the FDI attack, a compensator is designed to negate the attack. Additionally, a controller is proposed to bring on the attack ineffective. Finally, simulation examples are given to illustrate the effectiveness of the developed schemes.
+
+Jean-Paul A. Yaacoub, Hassan N. Noura, Benoit Piranda,
+The internet of modular robotic things: Issues, limitations, challenges, & solutions,
+Internet of Things,
+Volume 23,
+2023,
+100886,
+ISSN 2542-6605,
+https://doi.org/10.1016/j.iot.2023.100886.
+(https://www.sciencedirect.com/science/article/pii/S2542660523002093)
+Abstract: The world is becoming more digitised with the rise of modular robotic systems. Therefore, with the increasing demands and needs for robotics, the modular robotic domain was introduced as an essential key part of Internet-of-Things (IoT). Modular self-configurable robotic systems (E.g. swarms) are classed as “smart” autonomous machines with kinematic properties, defined by a set of interconnected links, modules and algorithms to achieve the required three-dimensional (3D) or two-dimensional (2D) complex shape or hierarchical structure. Due to its “intelligent” concept, it beame suitable for its deployment in the Internet of Robotic Things (IoRT) domain. Thus, becoming a key part of it and establishing itself as the newly revolutionised Internet of Modular Robotic Things (IoMRT). This paper presents a survey that highlights and discusses this novel IoMRT concept that focuses on self-reconfigurable modular robots and robotic systems by discussing their criteria, characteristics, architecture, and design. The security, safety, and privacy aspects are also presented and discussed, making it among the first papers to focus on this topic and its future. Moreover, the main drawbacks and challenges are also highlighted, while the already available solutions are also presented and analysed. A brief analysis regarding each solution is also presented with an insight into their future work. Additionally, more work was presented regarding the security aspect(s) of modular robotic systems to protect them from possible cyber or/and physical attacks. Thus, covering all possible aspects of the IoMRT.
+Keywords: Modular robotics; Modular self-reconfigurable robotics; Soft robotics; Self-reconfiguration; Swarmanoids; IoT security; IoMRT; Swarm robotics; Modular autonomous warfare; Counter-terrorism
+
+I.M. Animashaun, P.G. Oguntunde, O.O. Olubanjo, A.S. Akinwumiju,
+Analysis of variations and trends of temperature over Niger central hydrological area, Nigeria, 1911–2015,
+Physics and Chemistry of the Earth, Parts A/B/C,
+Volume 131,
+2023,
+103445,
+ISSN 1474-7065,
+https://doi.org/10.1016/j.pce.2023.103445.
+(https://www.sciencedirect.com/science/article/pii/S147470652300089X)
+Abstract: Adequate information about the variations and trends of climatic variables is indispensable for the better management of the water resources and agricultural sectors. In this study, the variability and trends of the monthly, seasonal and annual temperatures ((TMIN, TMAX and TMEAN) time series were studied over Niger Central Hydrological Area, Nigeria (NCHA) during 1911–2015 using the Climate Research Unit (CRU) data. Different statistical operations analysis comprising descriptive statistics, linear regression model, Mann–Kendall test, Pettitt's test and standard normal homogeneity test (SNHT) were employed for the analysis. The tests were used to examine the temperature variability, presence of monotonic trends and change points of the time series. The monthly TMEAN variability over the entire area was between 2.10% and 3.61%. Periods 1914–1925 and 1974–1980 showed cooling trends, while 1930–1935, 1981–1988 and 2001–2015 exhibited warming trends. The annual TMIN and TMEAN showed positive trends across the 33 sub-basins of NCHA, while the TMAX showed mixed trends. The increasing trend was most significant on the monthly, seasonal and annual timescales of the TMIN, followed by TMEAN. In contrast, the mixed trends in TMAX were not significant. The global rate of change trends of TMIN, TMAX and TMEAN are 0.091, −0.007 and 0.043 °C/decade respectively. The overall warming of TMEAN also had a significant upward shift change of 0.43 °C since 1980 and the change spatially is characterized by a SW-NE orientation. There is a need to embrace green settlement and a green economy to reduce the impact of the ever-increasing warming trend over the region.
+Keywords: Temperature; Shift change; Trend analysis; SWAT and Nigeria
+
+Chuiyi Deng, Shuangxin Wang, Jingyi Liu, Hongrui Li, Boce Chu, Jin zhu,
+Graph Signal Variation Detection: A novel approach for identifying and reconstructing ship AIS tangled trajectories,
+Ocean Engineering,
+Volume 286, Part 1,
+2023,
+115452,
+ISSN 0029-8018,
+https://doi.org/10.1016/j.oceaneng.2023.115452.
+(https://www.sciencedirect.com/science/article/pii/S002980182301836X)
+Abstract: Tangles are a common anomaly in Automatic Identification System (AIS) data, resulting from disorder in time sequences. They increase the spatial complexity of trajectories, making existing methods unable to fully recognize and process them. This will seriously affect the analysis of ship behavior. Furthermore, existing methods often directly remove after recognition, resulting in a significant loss of local information. To address these challenges, this paper proposes an algorithm called Graph Signal Variation Detection (GSVD) to recognize and reconstruct tangles. Initially, data preprocessing is conducted to remove redundant and stationary points. Then, construct the vertices and edges of the graph using indicators integrating AIS data features and ship trajectories, respectively. The tangled region is identified by calculating the total variation theory of the graph. The tangled region is reconstructed using the greedy heuristic, and the optimal reconstruction path is determined by combining total variation quantization. Finally, the GSVD is compared with four prevailing methods, through qualitative and quantitative analyses. The results demonstrate that the GSVD surpasses the other methods in terms of recognition accuracy, recall rates, and false alarm rates. Additionally, the GSVD can effectively reconstruct the tangle.
+Keywords: AIS data; Trajectory preprocessing; Total variation; Graph signal; Greedy algorithm
+
+He-Wen-Xuan Li, Lin Lu, Qianying Cao,
+Motion estimation and system identification of a moored buoy via physics-informed neural network,
+Applied Ocean Research,
+Volume 138,
+2023,
+103677,
+ISSN 0141-1187,
+https://doi.org/10.1016/j.apor.2023.103677.
+(https://www.sciencedirect.com/science/article/pii/S0141118723002183)
+Abstract: This paper explores the use of physics-informed neural networks (PINNs) to estimate motion and identify system parameters of a moored buoy under three different sea states. PINNs are a deep learning architecture that incorporates physical information to provide an interpretable and physically-meaningful neural network model, making it well-suited for modeling offshore moored structures with high nonlinearity. The moored buoy is modeled as a nonlinear ordinary differential equation (ODE), and the general formulation of PINN for the system of ODEs is established. Two new metrics for motion estimation and system identification are proposed to evaluate the accuracy and efficiency of the implementation of PINN. The results demonstrate that PINN can accurately estimate motion and identify system parameters by choosing appropriate hyperparameters (HPs). This paper also investigates the effects of the number of layers, nodes, and learning rate on motion estimation and system identification to provide a benchmark for selecting optimal HPs. This study finds that hyperparameter optimization can reduce the relative error of identified parameters by up to two thousand times compared to no optimization. Motion estimation prefers large neural networks for all sea states, while at least three layers of neural networks are needed for accurate parameter identification. The paper also provides a look-up table to investigate further implementing PINN on moored floating offshore structures. Proper selection of HPs is crucial as it can incur up to three orders of magnitude PINN loss and exceedingly-high identification error. Overall, this study highlights the applicability of PINN in modeling complex offshore structures and provides insights into selecting optimal HPs for accurate and efficient estimation of motion and system parameters.
+Keywords: Physics-informed neural networks; System identification; Buoy motion estimation; Hyperparameter optimization; Deep learning

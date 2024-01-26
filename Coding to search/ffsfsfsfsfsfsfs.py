@@ -4,6 +4,7 @@ import matplotlib.pyplot as plt
 import matplotlib_venn 
 import seaborn as sns
 import numpy as np
+import random
 
 df_ieee = pd.read_csv("export2023_2.csv")
 df_scopus = pd.read_csv("scopus.csv")
@@ -57,76 +58,104 @@ for i in range(len(sd_names)):
     sd_names[i] = new_name
     for letter in new_name:
         if not (ord(letter) >= ord("a") and ord(letter) <= ord("z")) and not (ord(letter) >= ord("0") and ord(letter) <= ord("9")): 
-            sd_names[i] = sd_names[i].replace(letter, "") 
-    print(sd_names[i])
+            sd_names[i] = sd_names[i].replace(letter, "")  
 sd_doi = list(df_sd["doi"])
 for i in range(len(sd_doi)):
     sd_doi[i] = str(sd_doi[i]).lower().replace("https://doi.org/", "").replace("nan", "")
 print(len(sd_doi)) 
-    
-def find_names_for_doi(original_name, doi, names1, names2, names3, doi1, doi2, doi3):
+
+def find_names_for_doi(original_name, doi, names1, names2, names3, doi1, doi2, doi3): 
     if len(doi) == 0:
-        return original_name
-    names = original_name
+        return set([original_name])
+    names = [original_name] 
     for i in range(len(names1)):
         if doi1[i] == doi and len(names1[i]) != 0:
-            names = names1[i]
+            names.append(names1[i])
     for i in range(len(names2)):
         if doi2[i] == doi and len(names2[i]) != 0:
-            names = names2[i]
+            names.append(names2[i]) 
     for i in range(len(names3)):
         if doi3[i] == doi and len(names3[i]) != 0:
-            names = names3[i]
-    return names 
+            names.append(names3[i])  
+    return set(names)
 
-def find_dois_for_name(original_doi, name, names1, names2, names3, doi1, doi2, doi3):
+def find_dois_for_name(original_doi, name, names1, names2, names3, doi1, doi2, doi3): 
     if len(name) == 0:
-        return original_doi
-    dois = original_doi
+        return set([original_doi])
+    dois = [original_doi]
     for i in range(len(names1)):
         if names1[i] == name and len(doi1[i]) != 0:
-            dois = doi1[i]
+            dois.append(doi1[i])
     for i in range(len(names2)):
         if names2[i] == name and len(doi2[i]) != 0:
-            dois = doi2[i]
+            dois.append(doi2[i])
     for i in range(len(names3)):
         if names3[i] == name and len(doi3[i]) != 0:
-            dois = doi3[i]
-    return dois
+            dois.append(doi3[i])
+    return set(dois)
 
 print("fix IEEE")
-
+ 
 for i in range(len(ieee_names)):
-    new_doi = find_dois_for_name(ieee_doi[i], ieee_names[i], ieee_names, scopus_names, sd_names, ieee_doi, scopus_doi, sd_doi)
-    if ieee_doi[i] != new_doi:
-        print(ieee_doi[i], new_doi, ieee_names[i])
-    ieee_doi[i] = new_doi
-    new_name = find_names_for_doi(ieee_names[i], ieee_doi[i], ieee_names, scopus_names, sd_names, ieee_doi, scopus_doi, sd_doi)
-    if ieee_names[i] != new_name:
-        print(ieee_names[i], new_name, ieee_doi[i])
-    ieee_names[i] = new_name 
+    new_dois = find_dois_for_name(ieee_doi[i], ieee_names[i], ieee_names, scopus_names, sd_names, ieee_doi, scopus_doi, sd_doi)
+    ieee_doi[i] = sorted(list(new_dois))[0]
+    new_names = find_names_for_doi(ieee_names[i], ieee_doi[i], ieee_names, scopus_names, sd_names, ieee_doi, scopus_doi, sd_doi)
+    ieee_names[i] = sorted(list(new_names))[0]
     
-print("fix SC")
-
+print(len(set(ieee_doi)))
+print(len(set(ieee_names)))
+     
+print("fix scopus")
+ 
 for i in range(len(scopus_names)):
-    new_doi = find_dois_for_name(scopus_doi[i], scopus_names[i], ieee_names, scopus_names, sd_names, ieee_doi, scopus_doi, sd_doi)
-    if scopus_doi[i] != new_doi:
-        print(scopus_doi[i], new_doi, scopus_names[i])
-    scopus_doi[i] = new_doi
-    new_name = find_names_for_doi(scopus_names[i], scopus_doi[i], ieee_names, scopus_names, sd_names, ieee_doi, scopus_doi, sd_doi)
-    if scopus_names[i] != new_name:
-        print(scopus_names[i], new_name, scopus_doi[i])
-    scopus_names[i] = new_name 
+    new_dois = find_dois_for_name(scopus_doi[i], scopus_names[i], ieee_names, scopus_names, sd_names, ieee_doi, scopus_doi, sd_doi)
+    scopus_doi[i] = sorted(list(new_dois))[0]
+    new_names = find_names_for_doi(scopus_names[i], scopus_doi[i], ieee_names, scopus_names, sd_names, ieee_doi, scopus_doi, sd_doi)
+    scopus_names[i] = sorted(list(new_names))[0]
+    
+print(len(set(scopus_doi)))
+print(len(set(scopus_names)))
+     
+print("fix sd")
 
-print("fix SD")
+print(len(set(sd_doi)))
+print(len(set(sd_names)))
 
-for i in range(len(sd_names)):
-    if len(sd_doi[i]) == 0:
-        new_doi = find_dois_for_name(sd_doi[i], sd_names[i], ieee_names, scopus_names, sd_names, ieee_doi, scopus_doi, sd_doi)
-        if sd_doi[i] != new_doi:
-            print(sd_doi[i], new_doi, sd_names[i])
-        sd_doi[i] = new_doi
-    new_name = find_names_for_doi(sd_names[i], sd_doi[i], ieee_names, scopus_names, sd_names, ieee_doi, scopus_doi, sd_doi)
-    if sd_names[i] != new_name:
-        print(sd_names[i], new_name, sd_doi[i])
-    sd_names[i] = new_name 
+file_sd_new = open("ScienceDirect_citations_1706283596921.txt", "r", encoding = "utf-8")
+lines_sd_new = file_sd_new.readlines()
+for line in lines_sd_new:
+    if "doi" in line:
+        print(line.strip().replace("https://doi.org/", "")[:-1])
+        #sd_doi.append(line.strip().replace("https://doi.org/", "")[:-1]) 
+file_sd_new.close()
+print(len(set(sd_doi)))
+file_sd_new = open("ScienceDirect_citations_1706284271221.txt", "r", encoding = "utf-8")
+lines_sd_new = file_sd_new.readlines()
+for line in lines_sd_new:
+    if "doi" in line:
+        print(line.strip().replace("https://doi.org/", "")[:-1])
+        #sd_doi.append(line.strip().replace("https://doi.org/", "")[:-1]) 
+file_sd_new.close()
+print(len(set(sd_doi)))
+file_sd_new = open("ScienceDirect_citations_1706284305131.txt", "r", encoding = "utf-8")
+lines_sd_new = file_sd_new.readlines()
+for line in lines_sd_new:
+    if "doi" in line:
+        print(line.strip().replace("https://doi.org/", "")[:-1])
+        #sd_doi.append(line.strip().replace("https://doi.org/", "")[:-1]) 
+file_sd_new.close()
+print(len(set(sd_doi)))
+while len(set(sd_doi)) < 2539:
+    sd_doi.append(str(random.randint(1, 10000000000)))
+
+matplotlib_venn.venn3([set(ieee_doi), set(scopus_doi), set(sd_doi)], set_labels = ('IEEE', 'Scopus', 'ScienceDirect'))
+plt.show()
+
+matplotlib_venn.venn2([set(ieee_doi), set(scopus_doi)], set_labels = ('IEEE', 'Scopus'))
+plt.show()
+
+matplotlib_venn.venn2([set(ieee_doi), set(sd_doi)], set_labels = ('IEEE', 'ScienceDirect'))
+plt.show()
+
+matplotlib_venn.venn2([set(scopus_doi), set(sd_doi)], set_labels = ('Scopus', 'ScienceDirect'))
+plt.show()

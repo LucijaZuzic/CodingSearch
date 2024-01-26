@@ -1,0 +1,567 @@
+TY  - JOUR
+T1  - Variational Bayesian-based robust adaptive filtering for GNSS/INS tightly coupled positioning in urban environments
+AU  - Ma, Chun
+AU  - Pan, Shuguo
+AU  - Gao, Wang
+AU  - Wang, Hao
+AU  - Liu, Liwei
+JO  - Measurement
+VL  - 223
+SP  - 113668
+PY  - 2023
+DA  - 2023/12/01/
+SN  - 0263-2241
+DO  - https://doi.org/10.1016/j.measurement.2023.113668
+UR  - https://www.sciencedirect.com/science/article/pii/S0263224123012320
+KW  - Variational Bayesian
+KW  - Robust estimation
+KW  - Adaptive filtering
+KW  - GNSS/INS
+KW  - Tightly coupled positioning
+AB  - Kalman filter (KF) is an efficient approach for state estimation in integrated positioning systems of global navigation satellite systems and inertial navigation systems (GNSS/INS). Unfortunately, GNSS/INS integrated positioning systems are susceptible to state model perturbations and measurement outliers, which can severely degrade KF performance, especially in complex urban environments. To solve this problem, a robust adaptive filtering algorithm based on variational Bayesian (VBRAKF) is presented that can be employed in GNSS/INS tightly coupled positioning systems. In VBRAKF, the robust estimation approach is first introduced into the filter, followed by modeling the predicted covariance matrix using the inverse Wishart distribution, and finally the state is estimated using Variational Bayesian. The robustness is achieved by adjusting the noise by an equivalent weight matrix to reduce gross errors in observations, while the adaptiveness is realized by the variational Bayesian estimation method for the uncertain predicted noise covariance matrix. The positioning performance of the proposed algorithm in urban environments is verified through two sets of land vehicle experiments. The experimental results demonstrate that the 3D positioning accuracy of the VBRAKF algorithm is improved by 32.1 % and 23.5 % in experiment 1 and by 37.1 % and 17.3 % in experiment 2 when compared to KF and Robust Kalman Filter (RKF). The proposed VBRAKF algorithm has better positioning performance in all schemes, can simultaneously control the influence of measurement outliers and inaccurate noise statistics and improves the accuracy of filter estimation.
+ER  - 
+
+TY  - JOUR
+T1  - Blockchain meets Internet of Things (IoT) forensics: A unified framework for IoT ecosystems
+AU  - Brotsis, Sotirios
+AU  - Grammatikakis, Konstantinos P.
+AU  - Kavallieros, Dimitrios
+AU  - Mazilu, Antonio I.
+AU  - Kolokotronis, Nicholas
+AU  - Limniotis, Konstantinos
+AU  - Vassilakis, Costas
+JO  - Internet of Things
+VL  - 24
+SP  - 100968
+PY  - 2023
+DA  - 2023/12/01/
+SN  - 2542-6605
+DO  - https://doi.org/10.1016/j.iot.2023.100968
+UR  - https://www.sciencedirect.com/science/article/pii/S2542660523002913
+KW  - Blockchain
+KW  - Cyber-security
+KW  - Digital forensics
+KW  - Edge computing
+KW  - Internet of Things
+AB  - With the continuously increasing number of security incidents targeting sensors, embedded devices, and other electronics appliances and systems that comprise the so-called Internet of things (IoT), the field of IoT forensics emerged as a branch of digital forensics focusing on the investigation of attacks in the IoT ecosystem. Digital evidence authenticity, integrity, confidentiality, and privacy are among the factors affecting the investigation process in IoT forensics, which can be addressed by employing the blockchain as the means not only for the preservation of digital evidence, but also for other steps of a digital forensics investigation process. The high-level goal of the paper is three-fold: to establish a holistic IoT forensics process as a reference point against which blockchain integration patterns and best practices will be identified in order to yield a robust, widely accepted and scalable architecture of the blockchain-enabled solution; to integrate the blockchain with the proposed IoT forensics process for addressing the above challenges; and to evaluate the overall solution highlighting improvements and potential performance bottlenecks. The proposed blockchain-enabled platform leverages multi-access edge computing and has been implemented with Hyperledger Fabric on an extensive virtualized testbed providing a realistic smart home environment. A thorough evaluation was conducted with real cyber-attacks generating digital evidence at high rates for testing the platform’s behavior at high load. The experimental results showed that the proposed platform achieved high throughput, excessively low latency, and zero error rate in the operation of the blockchain network.
+ER  - 
+
+TY  - JOUR
+T1  - Spatiotemporal profile and ecological impacts of major and trace elements in surface sediments of marginal seas of the Arctic and Northern Pacific Oceans
+AU  - Rashid, Azhar
+AU  - Fang, Chao
+AU  - Qin, Dan
+AU  - Zhang, Yusheng
+AU  - Nkinahamira, François
+AU  - Bo, Jun
+AU  - Sun, Qian
+JO  - Marine Pollution Bulletin
+VL  - 197
+SP  - 115702
+PY  - 2023
+DA  - 2023/12/01/
+SN  - 0025-326X
+DO  - https://doi.org/10.1016/j.marpolbul.2023.115702
+UR  - https://www.sciencedirect.com/science/article/pii/S0025326X23011372
+KW  - Arctic and Northern Pacific oceans
+KW  - Surface sediments
+KW  - Elements
+KW  - Risk assessment
+AB  - The status and ecological impacts of sedimentary elements of the marginal seas of Arctic and Northern Pacific Oceans was investigated during 2016 to 2018 by using inductively coupled plasma mass spectrometry. Industrial (0.006 mg kg−1–64.6 g kg−1), precious (0.003–43.8 mg kg−1), rare earth (0.006–112.9 mg kg−1), and heavy metal (0.009–398.9 mg kg−1) elements showed spatial variation, and temporal uniformity. The results indicated ΣREEs and light REEs enrichment compared to chondrite and heavy REEs, respectively, while nonsignificant positive and negative δCe and δEu anomalies existed, respectively. High contamination and extreme enrichment of priority control, industrial (As, Mo, Re, Sb), precious (Au, Ir, Pd, Pt, and Ru) and RE elements indicated potential moderate to high ecological and biological risks. The study highlighted the ecological importance and fragile nature of these ecosystems and calls for an urgent action to ensure sustainability of these ecosystems.
+ER  - 
+
+TY  - JOUR
+T1  - A machine learning based predictive maintenance algorithm for ship generator engines using engine simulations and collected ship data
+AU  - Park, Jinkyu
+AU  - Oh, Jungmo
+JO  - Energy
+VL  - 285
+SP  - 129269
+PY  - 2023
+DA  - 2023/12/15/
+SN  - 0360-5442
+DO  - https://doi.org/10.1016/j.energy.2023.129269
+UR  - https://www.sciencedirect.com/science/article/pii/S0360544223026634
+KW  - Ship generator engine
+KW  - Machine learning
+KW  - Predictive maintenance
+KW  - Anomalous symptom
+KW  - Engine simulation
+AB  - Ships are usually operated for more than 20 years, incurring large maintenance costs. Therefore, they require efficient and preemptive maintenance technology. Current research has focused on machine learning for predictive maintenance (PdM) of ships, but PdM data collection is limited because ship undergoes preventive maintenance and access to detailed data is restricted. Therefore, abnormal signs of ship equipment are not easily detected. To enable applications of machine-learning PdM to ship generator engines, this study collected and analyzed the data from operating ships. The abnormal data of the engine needed for machine learning were collected through engine simulations. In addition, generator engine condition criterion value (GCCV) was defined to determine anomalous symptoms based on the exhaust gas temperature by analyzing maintenance items. Next, a factor that corrects the GCCV under specific engine-operating conditions was derived using a regression analysis for establishing revision GCCV (RGCCV). The Mean Absolute Error (MAE) of RGCCV, which is calculated as a correction-factor, showed reliable results of 3.331–4.054 in all cylinders. After configuring and verifying the RGCCV-based engine-anomaly detection algorithm, anomalies during operation could be detected under normal conditions of the engine.
+ER  - 
+
+TY  - JOUR
+T1  - Analysis of the development mechanisms of a large-hail storm event on the Adriatic Sea
+AU  - Ricchi, Antonio
+AU  - Rotunno, Richard
+AU  - Miglietta, Mario Marcello
+AU  - Picciotti, Errico
+AU  - Montopoli, Mario
+AU  - Marzano, F.S.
+AU  - Baldini, Luca
+AU  - Vulpiani, Gianfranco
+AU  - Tiesi, Alessandro
+AU  - Ferretti, Rossella
+JO  - Atmospheric Research
+VL  - 296
+SP  - 107079
+PY  - 2023
+DA  - 2023/12/01/
+SN  - 0169-8095
+DO  - https://doi.org/10.1016/j.atmosres.2023.107079
+UR  - https://www.sciencedirect.com/science/article/pii/S0169809523004763
+KW  - Numerical Weather Prediction
+KW  - Supercell
+KW  - Hailstor
+KW  - Supercell Trigger Mechanisms
+KW  - Supercell structure
+KW  - Supercell development
+AB  - A severe weather event is analyzed in terms of cell development, dynamics, and thermodynamics. The Mediterranean region is sporadically affected by severe weather events causing damage and injuries. An unusual and severe weather event hit Italy on July 9–10, 2019 causing heavy damage. The meteorological structure was characterized by a trough entering the eastern Mediterranean area from northeastern Europe affecting Italy and the Balkans with cold-air advection over the Adriatic Sea. On the morning of 10 July 2019, a supercell developed along the coast north of Pescara (central Italy), producing intense rainfall (130 mm/3 h) and a heavy hailstorm with hailstones larger than 10 cm in diameter. In this work, the dynamics and thermodynamics for triggering and maintenance of the supercell are investigated using the numerical model WRF (Weather Research and Forecasting system), satellite, radar-data, soundings, and ground observations. In the companion paper, the role of SST and orography was investigated assessing that the SST spatial representation, its anomaly distribution and the topography play a key role in triggering the supercell (Ricchi et al., 2023). In this paper, high spatial and temporal-resolution model simulations and observations are used to investigate the characteristics of the supercell by analyzing both its horizontal and vertical structure. The hailstone characteristics are assessed by using the HAILCAST parameterization in which its performance and reliability are discussed.
+ER  - 
+
+TY  - JOUR
+T1  - A novel ship trajectory clustering analysis and anomaly detection method based on AIS data
+AU  - Zhang, Chuang
+AU  - Liu, Songtao
+AU  - Guo, Muzhuang
+AU  - Liu, Yuanchang
+JO  - Ocean Engineering
+VL  - 288
+SP  - 116082
+PY  - 2023
+DA  - 2023/11/15/
+SN  - 0029-8018
+DO  - https://doi.org/10.1016/j.oceaneng.2023.116082
+UR  - https://www.sciencedirect.com/science/article/pii/S0029801823024666
+KW  - Ship trajectory
+KW  - Minimum description length
+KW  - Dynamic time warping
+KW  - Transformer
+AB  - The increasing volume of ship traffic has resulted in new challenges for the supervision of maritime safety administration. The conventional manual monitoring approach for maritime traffic is inefficient and lacks specifics, particularly for supervising ships with abnormal trajectories. To address this issue, this study proposes utilizing the minimum description length criterion to extract features from ship trajectory data provided by the automatic identification system (AIS). This approach simplifies the compression of ship trajectories. Additionally, the dynamic time warping trajectory similarity measurement algorithm is employed to optimize the density-based spatial clustering of applications with noise algorithm. This optimization enables the clustering of ship trajectories and the acquisition of normalized ship motion trajectories. Furthermore, a ship trajectory prediction method based on a transformer model is proposed, and the normalized motion trajectory is used as the training set for model training. The trained ship trajectory prediction model is subsequently utilized to predict the target ship trajectory. The AIS ship trajectory data in the vicinity of Yantai Port were used for experimental verification. The results demonstrate the effectiveness of the proposed approach in identifying abnormal ship trajectories.
+ER  - 
+
+TY  - JOUR
+T1  - Digital twin challenges in biodiversity modelling
+AU  - Trantas, Athanasios
+AU  - Plug, Ruduan
+AU  - Pileggi, Paolo
+AU  - Lazovik, Elena
+JO  - Ecological Informatics
+VL  - 78
+SP  - 102357
+PY  - 2023
+DA  - 2023/12/01/
+SN  - 1574-9541
+DO  - https://doi.org/10.1016/j.ecoinf.2023.102357
+UR  - https://www.sciencedirect.com/science/article/pii/S1574954123003862
+KW  - Digital twin
+KW  - Biodiversity
+KW  - Modelling
+KW  - Orchestration
+KW  - Interoperability
+KW  - High performance computing
+AB  - Digital Twin is a contemporary digital representation paradigm that is capable of encompassing the complex interactions within the natural environment. By building biodiversity Digital Twin solutions we may reveal anthropogenic effects that cause loss in biodiversity and discover the pathways that can better uncover, diminish or prevent these effects. Developing Digital Twin Applications for biodiversity has unique challenges, like the hybrid and heterogeneous nature of biodiversity modelling, model co-simulation, the demand for highly variable computational power and the incorporation of data and models to existing research infrastructures. In this paper a state of the art survey is provided with application to the field of biodiversity. We identify broad categories of challenges that need to be tackled to deliver reliable, sustainable and scalable Digital Twin solutions. Moreover, we propose a disciplined approach towards using the Digital Twin paradigm and related terminologies methodically and responsibly.
+ER  - 
+
+TY  - JOUR
+T1  - Seaweed and climate change: A mapping review
+AU  - Segaran, Thirukanthan Chandra
+AU  - Azra, Mohamad Nor
+AU  - Handayani, Kiki Syaputri
+AU  - Lananan, Fathurrahman
+AU  - Xu, Juntian
+JO  - Marine Environmental Research
+VL  - 192
+SP  - 106216
+PY  - 2023
+DA  - 2023/11/01/
+SN  - 0141-1136
+DO  - https://doi.org/10.1016/j.marenvres.2023.106216
+UR  - https://www.sciencedirect.com/science/article/pii/S0141113623003446
+KW  - Phytoplankton
+KW  - 
+KW  - Photosynthesis
+KW  - 
+KW  - Eutrophication
+KW  - 
+AB  - Seaweed has garnered increasing interest due to its capacity to mitigate climate change by curbing carbon emissions from agriculture, as well as its potential to serve as a supplement or alternative for dietary, livestock feed, or fuel source production. Moreover, seaweed is regarded as one of the earliest plant forms to have evolved on Earth. Owing to the extensive body of literature available and the uncertainty surrounding the future trajectory of seaweed research under evolving climate conditions, this review scrutinizes the structure, dynamics, and progression of the literature pertaining to seaweed and climate change. This analysis is grounded in the Web of Science Core Collection database, augmented by CiteSpace software. Furthermore, we discuss the productivity and influence of individual researchers, research organizations, countries, and scientific journals. To date, there have been 8047 articles published globally (after a series of filters and exclusions), with a notable upswing in publication frequency since 2018. The USA, China, and Australia are among the leading countries contributing to this research area. Our findings reveal that current research on seaweed and climate change encompasses 13 distinct research clusters, including “marine heatwave”, “temperate estuary”, “ocean acidification”, and “macroalgal bloom”. The most frequently cited keywords are “climate change”, “biomass”, “community”, and “photosynthesis”. The seaweed species most commonly referenced in relation to climate change include Gracilaria sp., Sargassum sp., Ecklonia maxima, and Macrocystis pyrifera. These results provide valuable guidance for shaping the direction of specialized topics concerning marine biodiversity under shifting climate conditions. We propose that seaweed production may be compromised during prolonged episodes of reduced water availability, emphasizing the need to formulate strategies to guarantee its continued viability. This article offers fresh perspectives on the analysis of seaweed research in the context of impending climate change.
+ER  - 
+
+TY  - JOUR
+T1  - Consistent mapping of marine structures with an autonomous surface vehicle using motion compensation and submap-based filtering
+AU  - Jung, Jongdae
+AU  - Park, Jeonghong
+AU  - Lee, Yeongjun
+AU  - Yeu, Tae-Kyeong
+AU  - Choi, Jinwoo
+AU  - Han, Jong-bu
+JO  - Ocean Engineering
+VL  - 290
+SP  - 116418
+PY  - 2023
+DA  - 2023/12/15/
+SN  - 0029-8018
+DO  - https://doi.org/10.1016/j.oceaneng.2023.116418
+UR  - https://www.sciencedirect.com/science/article/pii/S0029801823028020
+KW  - Autonomous surface vehicle
+KW  - LiDAR reconstruction
+KW  - Offshore power plant
+KW  - Seafloor mapping
+KW  - Structural monitoring
+AB  - Inspection and maintenance of marine energy farms are becoming increasingly important as more farms are developed and constructed. In this study, structural monitoring system using an autonomous surface vehicle (ASV) has been proposed to enable the inspection of an offshore power plant under harsh ocean disturbances. In particular, the ASV uses guidance and control laws to minimize the deviation from the desired path in waypoint tracking. The ASV was also equipped with multi-modal sensors – sonar and light detection and ranging (LiDAR) – for mapping underwater and surface structures. By utilizing the navigation sensors, the motion of the ASV in ocean disturbances was accurately estimated and incorporated into the mapping process to produce consistent multi-modal maps. Furthermore, dedicated outlier removal methods were proposed to improve the performance over conventional approaches in real offshore data. We considered the sparsity of the sonar and LiDAR data in their respective modality during acquisition and designed novel submap-based filtering to remove the outliers. To validate the proposed system, a field test was conducted on an offshore wave farm structure. It was verified that the ASV can cope with ocean disturbances in its waypoint tracking, and the resulting multi-modal maps are consistent and outlier-free.
+ER  - 
+
+TY  - JOUR
+T1  - Automatic identification system in accelerating decarbonization of maritime transportation: The state-of-the-art and opportunities
+AU  - Ten, Ki Hong
+AU  - Kang, Hooi-Siang
+AU  - Siow, Chee-Loon
+AU  - Goh, Pei Sean
+AU  - Lee, Kee-Quen
+AU  - Huspi, Sharin Hazlin
+AU  - Soares, C. Guedes
+JO  - Ocean Engineering
+VL  - 289
+SP  - 116232
+PY  - 2023
+DA  - 2023/12/01/
+SN  - 0029-8018
+DO  - https://doi.org/10.1016/j.oceaneng.2023.116232
+UR  - https://www.sciencedirect.com/science/article/pii/S0029801823026161
+KW  - AIS data
+KW  - Decarbonization
+KW  - Maritime traffic efficiency
+KW  - Ship emissions
+KW  - Emission estimation
+AB  - This paper presents a review of the state-of-the-art Automatic Identification System (AIS) data-driven studies and applications in effort to control the carbon footprint from maritime transportation, followed by the prospects of decarbonization measures that demand AIS complement. Pertaining critical impact from global anthropogenic emissions, AIS data serves as the primary source of information for the assessment of the ships emission inventories to study their environmental impact against ambient air quality and evoke awareness from the maritime sector. Wide range of information types, transmission coverage and frequency made AIS data outshines other maritime information services in the provision of consistent serial information of ship activities that offer tedious studies of correlations between parameters. As such, it can potentially be further exploited into various approaches of analytical applications, such as Estimated Time of Arrival (ETA) predictions, emission projections, and decision supporting system for ships. Furthermore, AIS data features are flexible for integration with other data sources to achieve a flawless system, such as weather routing and smart inland shipping. Ultimately, the outcomes of these studies aim to contribute piecewise to the fulfilment of ideal concepts – ‘green’ and ‘smart’ in maritime sector, by efficient processes and minimum waste of energy.
+ER  - 
+
+TY  - JOUR
+T1  - Green development of the maritime industry: Overview, perspectives, and future research opportunities
+AU  - Wang, Tingsong
+AU  - Cheng, Peiyue
+AU  - Zhen, Lu
+JO  - Transportation Research Part E: Logistics and Transportation Review
+VL  - 179
+SP  - 103322
+PY  - 2023
+DA  - 2023/11/01/
+SN  - 1366-5545
+DO  - https://doi.org/10.1016/j.tre.2023.103322
+UR  - https://www.sciencedirect.com/science/article/pii/S1366554523003101
+KW  - Green shipping
+KW  - Green ports
+KW  - Technical approach
+KW  - Operation strategy
+KW  - Policy-based measures
+KW  - Review
+AB  - Maritime industry is the artery of the global economy since it carries around 90% of the volume of global trade. However, the fierce environmental problems associated with human activities and economic development cannot be neglected. To systematically analyze the research status and development trend of the maritime industry, this paper collects and reviews literature from Elsevier ScienceDirect, Scopus, Web of Science, and Google Scholar databases related to green shipping management and green port construction. Future research directions are presented based on the analysis. The results show that green shipping management focus on solving practical emission reduction problems. Most work of green port construction establish mathematical optimization models aiming at minimizing total operation costs or maximizing profits. Designing efficient algorithms is a research hotspot in operation management. By comparing the technical measures, operational strategy, and market-based measures, we found technical innovation is the ultimate way for the maritime industry to realize net zero-emission. Support from governments and organizations is the insurance of green development. Future research perspectives include adopting high-tech technologies such as blockchain, big data, and artificial intelligent to improve operation efficiency and reduce emissions, providing more accurate suggestions for constructing green and smart ports, proposing multi-objective optimization models and highlighting the environmental target. This research can improve the existing theoretical frameworks and provide several future research directions for academia and practitioners.
+ER  - 
+
+TY  - JOUR
+T1  - Extreme Mei-yu in 2020: Characteristics, causes, predictability and perspectives
+AU  - Liu, Caihong
+AU  - Hu, Chundi
+AU  - Yang, Song
+AU  - Lian, Tao
+AU  - Zhang, Chengyang
+AU  - Lin, Lifei
+AU  - Cai, Fenying
+JO  - Earth-Science Reviews
+VL  - 246
+SP  - 104597
+PY  - 2023
+DA  - 2023/11/01/
+SN  - 0012-8252
+DO  - https://doi.org/10.1016/j.earscirev.2023.104597
+UR  - https://www.sciencedirect.com/science/article/pii/S0012825223002866
+KW  - Extreme Mei-yu rainfall
+KW  - Yangtze River Valley
+KW  - Western North Pacific subtropical high
+KW  - East Asian upper-level westerly jet
+KW  - Asian monsoon
+KW  - Climate variability
+AB  - The 2020 extreme rainfall was highly unusual with episodes of intensive rains and winds from the middle and lower reaches of the Yangtze River Valley to southern Japan. Given the severe implications and huge forecast spread among different models, the extreme Mei-yu has aroused widespread concern. This study is aimed at synthesizing the latest research on the characteristics and potential climate forcing factors of such extreme Mei-yu and discusses the challenges and outlooks for prediction and numerical modeling. The distinct characteristics of the Yangtze River Valley summer rainfalls in 2020 included record-breaking accumulated precipitation, longest duration, earliest onset, and highest intensity. We summarize the majority of the studies investigating the diverse coupled ocean-atmospheric processes at different timescales. The research consensus is that the anomalous anticyclone spanning the western North Pacific and the mid-high latitude trough-ridge patterns are the two critical circulation features carrying tropical and mid-high latitude signals, jointly affecting the extreme Mei-yu. Potential mechanisms based on the two essential atmospheric circulations during the Mei-yu period are then highlighted. In addition, different climate model simulations are also introduced to reach an inter-model agreement despite certain model biases on the response of atmospheric circulations to these potential forcings among the state-of-the-art atmospheric and coupled general circulation models. This study provides a synthesis to promote the understanding, prediction, and disaster prevention of extreme Mei-yu.
+ER  - 
+
+TY  - JOUR
+T1  - Dynamics of Decapoda larvae communities in a southwest Iberian estuary: Understanding the impact of different thermal regimes
+AU  - Monteiro, Marta
+AU  - Cruz, Joana
+AU  - Azeiteiro, Ulisses
+AU  - Marques, Sónia Cotrim
+AU  - Baptista, Vânia
+AU  - Teodósio, Maria Alexandra
+JO  - Estuarine, Coastal and Shelf Science
+VL  - 294
+SP  - 108547
+PY  - 2023
+DA  - 2023/11/05/
+SN  - 0272-7714
+DO  - https://doi.org/10.1016/j.ecss.2023.108547
+UR  - https://www.sciencedirect.com/science/article/pii/S0272771423003372
+KW  - Temperature
+KW  - Meroplankton
+KW  - Extreme climatic events
+KW  - Guadiana estuary
+KW  - Crustaceans
+AB  - Environmental conditions play a pivotal role in shaping the dynamics of meroplanktonic communities, which represent a vital life stage, crucial for successful recruitment. Specifically, temperature can impact the survival and duration of larval development in decapod crustacean species. The objective of this study is to analyze the community of decapod larvae in the Guadiana estuary, located in southwest Iberia. The analysis focuses on the community's taxonomic composition, temporal variability, and the influence of environmental factors. Particularly, the study emphasizes investigating the impacts of different thermal regimes on the abundance of these assemblages. A comprehensive zooplankton sampling program was conducted at a single station in the lower estuary, from 2014 to 2022. The decapod larvae assemblages are dominated by Upogebia spp., followed by Diogenes pugilator, Panopeus africanus, Afropinnotheres monodi, and Polybius henslowii species. The results of structural equation modeling unveiled a strong influence of water temperature and salinity on the community, while chlorophyll-a concentration, river runoff, and the large-scale climatic mode North Atlantic Oscillation (NAO) revealed no impact on the abundance of these assemblages. Overall, the community and the main taxa displayed a positive linear trend in response to increased salinity. However, the effect of increasing temperature varied among species. In the current climatic scenario, water temperature emerges as a critical factor in predicting seasonal variation of the assemblages' abundances, exhibiting a marked seasonality during spring and summer. Predictive models used to investigate future scenarios, Representative Concentration Pathway (RCP) 2.6 and RCP 8.5, defined by the International Panel on Climate Change (IPCC), where the temperature is expected to rise 2 °C and 4.3 °C by 2100, suggest the possibility for an alteration in assemblages' composition, where the abundances of D. pugilator, the second most abundant species, tend to decrease abruptly. Reported evidence, coupled with the typical Mediterranean climate of the region, where extreme climatic events, like marine heatwaves, are becoming more frequent, the high connectivity with the Mediterranean Sea, where invasion by non-indigenous species is increasing, also connected with changes in freshwater discharges, may trigger significant alterations in species dominance and abundance, with ecological and socio-economic implications.
+ER  - 
+
+TY  - JOUR
+T1  - Editorial Board
+JO  - Alexandria Engineering Journal
+VL  - 83
+SP  - IFC
+PY  - 2023
+DA  - 2023/11/15/
+SN  - 1110-0168
+DO  - https://doi.org/10.1016/S1110-0168(23)01015-3
+UR  - https://www.sciencedirect.com/science/article/pii/S1110016823010153
+ER  - 
+
+TY  - JOUR
+T1  - Branched GDGT source shift identification allows improved reconstruction of an 8,000-year warming trend on Sumatra
+AU  - Hällberg, Petter L.
+AU  - Schenk, Frederik
+AU  - Jarne-Bueno, Guillermo
+AU  - Schankat, Yolanda
+AU  - Zhang, Qiong
+AU  - Rifai, Hamdi
+AU  - Phua, Marcus
+AU  - Smittenberg, Rienk H.
+JO  - Organic Geochemistry
+VL  - 186
+SP  - 104702
+PY  - 2023
+DA  - 2023/12/01/
+SN  - 0146-6380
+DO  - https://doi.org/10.1016/j.orggeochem.2023.104702
+UR  - https://www.sciencedirect.com/science/article/pii/S0146638023001481
+KW  - brGDGTs
+KW  - H-GDGTs
+KW  - Bacterial community shifts
+KW  - Paleothermometry
+KW  - Holocene temperature conundrum
+KW  - Peat core
+AB  - Branched Glycerol Dialkyl Glycerol Tetraethers (brGDGTs) in sedimentary archives are increasingly used for paleotemperature reconstructions due to their strong correlation with mean annual air temperature. However, environmental factors can influence the brGDGT producing bacterial community, potentially affecting the brGDGT-temperature relationship and introducing fundamental errors in reconstructions. Here we assess the reliability of the methylation index of brGDGTs (MBT′5ME) in sediments as a paleotemperature proxy by tracking provenance differences based on brGDGT fractional abundances in a short lake core, two peat cores and surface soils on Sumatra (n = 333 in total). Then, we attempt to reconstruct the Holocene paleotemperatures on Sumatra using the two peat cores. Our results indicate distinct brGDGT and H-shaped brGDGT (H-GDGT) compositions in soil, lake and peat environments, suggesting production by different bacterial communities. We introduce a new index, the isomerization of H-GDGTs (IRH) that can distinguish between these environments. In an 11,000-year long peat core from Diatas, we find that brGDGT composition changes are dominated by bacterial community shifts rather than temperature changes. In contrast, a core from the nearby Padang peatland can be robustly used for a brGDGT-based paleotemperature reconstruction since there are no signs of past environmental or brGDGT source shifts. The results from Padang indicate a gradual warming trend over the past 8,000 years, consistent with climate model simulations and nearby sea surface temperature reconstructions. However, current MBT′5ME calibrations yield larger warming trends compared to simulations and other proxy studies, suggesting the need for tropical and/or peat-specific brGDGT temperature calibrations. Our findings demonstrate the importance of assessing environmental shifts and bacterial source community changes when employing brGDGT paleothermometry. The methodological framework outlined in this study can be used in future research for reliable down-core brGDGT temperature reconstructions. Our proxy reconstruction over the past 8,000 years offers novel insights into the Holocene temperature evolution from a region with low climate seasonality.
+ER  - 
+
+TY  - JOUR
+T1  - A review on models to prevent and control lithium-ion battery failures: From diagnostic and prognostic modeling to systematic risk analysis
+AU  - Yang, Qiaoqiao
+AU  - Xu, Chengshan
+AU  - Geng, Mengyao
+AU  - Meng, Huixing
+JO  - Journal of Energy Storage
+VL  - 74
+SP  - 109230
+PY  - 2023
+DA  - 2023/12/25/
+SN  - 2352-152X
+DO  - https://doi.org/10.1016/j.est.2023.109230
+UR  - https://www.sciencedirect.com/science/article/pii/S2352152X23026282
+KW  - Lithium-ion battery
+KW  - Battery safety
+KW  - Fault diagnosis
+KW  - Risk assessment
+KW  - Systematic risk analysis
+AB  - The lithium-ion batteries (LIBs) are indispensible to fulfill the increasing demand for energy storage. Simultaneously, accidents related to battery-powered facilities have been reported constantly, making it quite essential to prevent and control battery failures. In this paper, we purvey a review of the models used for LIB risk management, from electrical and thermal sub-systems to the whole battery system. Firstly, the literature review of diagnostic and prognostic models for electrical and thermal behaviors of batteries is conducted. Then we overview the application of systematic techniques on LIB-related accidents, which illustrates the root cause and evolution of thermal runaway. Eventually, we suggest research directions for ameliorating LIB safety. This review is expected to be helpful for researchers and engineers in the domain of battery safety.
+ER  - 
+
+TY  - JOUR
+T1  - Unveiling out-of-distribution data for reliable structural damage assessment in earthquake emergency situations
+AU  - Ahmed, Bilal
+AU  - Mangalathu, Sujith
+AU  - Jeon, Jong-Su
+JO  - Automation in Construction
+VL  - 156
+SP  - 105142
+PY  - 2023
+DA  - 2023/12/01/
+SN  - 0926-5805
+DO  - https://doi.org/10.1016/j.autcon.2023.105142
+UR  - https://www.sciencedirect.com/science/article/pii/S0926580523004028
+KW  - Structural damage assessment
+KW  - Earthquake damage-based tagging
+KW  - OOD detection
+KW  - Machine learning
+AB  - To ensure accurate and effective emergency responses following an earthquake, one must promptly and accurately assess damage to structures with minimal manual effort. An advanced approach for evaluating structural damage is to use machine learning techniques for automated tagging or damage classification. However, most previous studies evaluated models using simple and unrealistic datasets limited to in-distribution (ID) datasets for training and testing. Although this approach may yield satisfactory results within the confines of the training dataset, it is not justifiable for real-time scenarios, in which the testing dataset may differ. Hence, a novel methodology is proposed herein that focuses on the detection of out-of-distribution (OOD) data. By subjecting a network to outliers, the model can effectively identify data outside the domain of the training dataset. A custom loss function is adopted, where both the cross-entropy loss from the ID training dataset and the log loss from the outlier dataset are incorporated. The effectiveness of this approach is demonstrated through its application in the post-event rapid damage assessment of bridges and shear walls subjected to seismic loading. A single network is employed to classify ID data into their respective classes, whereas the OOD data are shown to belong to the OOD class. The results highlight the significant accuracy achieved in the simultaneous prediction of ID and OOD data. By incorporating the detection of OOD data, this study enriches the methods for improving the reliability and accuracy of structural damage assessments in earthquake emergency responses, thus enabling more informed decision-making.
+ER  - 
+
+TY  - JOUR
+T1  - Ship hull inspection: A survey
+AU  - Lin, Bosen
+AU  - Dong, Xinghui
+JO  - Ocean Engineering
+VL  - 289
+SP  - 116281
+PY  - 2023
+DA  - 2023/12/01/
+SN  - 0029-8018
+DO  - https://doi.org/10.1016/j.oceaneng.2023.116281
+UR  - https://www.sciencedirect.com/science/article/pii/S0029801823026653
+KW  - Hull inspection
+KW  - Ship survey
+KW  - Defect detection
+KW  - Non-destructive test (NDT)
+KW  - Structural health monitoring (SHM)
+AB  - To ensure the safety of ship navigation, a regular hull inspection is essential, which can identify affected structures and guide the appropriate maintenance. Traditional hull inspections severely rely on inspectors who tour the entire hull and perform close inspections, which are tedious, subjective, dangerous and expensive. The applications of computer algorithms and robots to data processing and data collection respectively have been receiving increasing attention, to facilitate hull inspections and reduce costs. In this paper, we first review the background knowledge of hull inspection. Then we categorize different inspection approaches into three classes: in-dock, underwater and health monitoring based inspections and conduct an extensive, deep survey. In addition to manual inspection approaches, we survey both the automatic data processing methods and automated platforms used to improve the efficiency and effectiveness of hull inspection. Different approaches are reviewed based on the type of Non-destructive Testing (NDT) techniques, data processing methods and automated platforms. Discussions are further made regarding the existing work. To our knowledge, this study is the first survey performed in such an extensive manner, which can help both the research and industry colleagues build up an overall understanding of hull inspection and identify potential directions for future development.
+ER  - 
+
+TY  - JOUR
+T1  - A comprehensive survey on 6G and beyond: Enabling technologies, opportunities of machine learning and challenges
+AU  - Jawad, Aqeel Thamer
+AU  - Maaloul, Rihab
+AU  - Chaari, Lamia
+JO  - Computer Networks
+VL  - 237
+SP  - 110085
+PY  - 2023
+DA  - 2023/12/01/
+SN  - 1389-1286
+DO  - https://doi.org/10.1016/j.comnet.2023.110085
+UR  - https://www.sciencedirect.com/science/article/pii/S1389128623005303
+KW  - 6G
+KW  - Machine learning
+KW  - Deep learning
+KW  - Quantum machine learning
+KW  - Artificial intelligent
+KW  - Internet of things
+KW  - Internet of every thing
+KW  - Internet of space
+KW  - Internet of nano-things
+KW  - Internet of BioNano-things
+AB  - Multiple nations are now in the process of launching 5G mobile networks. All of the telecoms industry has been revolutionized by the concept of 5G networks. Since late 2018, researchers and telecom players have been actively exploring the potential of 6G as a successor to 5G. It is anticipated that the 6G generation would have even more severe performance criteria than the 5G generation had. New sophisticated technologies and paradigms must be included into 6G network designs and procedures to satisfy the requirements and standards of the sixth generation. As a result, several publications and studies covering the relevant technologies, techniques, algorithms, and architectures have appeared in the recent few years. The current paper fills a gap in the literature by offering informative recommendations for further study of 6G networks. Connectivity targets within 6G are outlined, and the study explains the wireless progression toward 6G networks. The technologies are outlined, as are the obstacles that must be surmounted. This chapter also provides a thorough and up-to-date overview of the state of the art. Additionally, multiple classifications of 6G capabilities and techniques are provided, with an emphasis on the advantages and disadvantages of each process. In order to accelerate the advancement of 6G technologies and fulfill their needs, we also identify open problems and potential future possibilities.
+ER  - 
+
+TY  - JOUR
+T1  - The model of vessel trajectory abnormal behavior detection based on graph attention prediction and reconstruction network
+AU  - Liu, Hongdan
+AU  - Jia, Zhicheng
+AU  - Li, Bing
+AU  - Liu, Yan
+AU  - Qi, Zhigang
+JO  - Ocean Engineering
+VL  - 290
+SP  - 116316
+PY  - 2023
+DA  - 2023/12/15/
+SN  - 0029-8018
+DO  - https://doi.org/10.1016/j.oceaneng.2023.116316
+UR  - https://www.sciencedirect.com/science/article/pii/S0029801823027002
+KW  - Abnormal behavior detection
+KW  - Graph attention network
+KW  - Peak over threshold
+KW  - Prediction and reconstruction
+KW  - AIS data
+AB  - The identification of atypical vessel behavior is a crucial factor in ensuring the safety of maritime navigation and enhancing the effectiveness of waterway oversight. The current approach to detecting vessel abnormal behavior lacks consideration for the inter-dependency among different time series and various characteristics associated with abnormal vessel behavior. Additionally, the subjective setting of anomaly detection threshold adversely affects the real-time performance of anomaly detection, resulting in poor detection accuracy. In order to tackle these issues, this paper explores the monitoring and detection mechanism of vessel abnormal behavior based on Graph Attention Prediction and Reconstruction Network. The proposed mechanism employs a sliding window to generate fixed data input. It effectively captures the inter-dependencies among vessel behavior characteristics. Additionally, it dynamically adjusts the threshold for identifying anomalies based on variations in the marine environment, utilizing the Peak Over Threshold (POT) method. In order to achieve real-time detection of abnormal vessel behavior in multivariate, multi-dimensional time series data, it is necessary to complete the task. The results of the paper are derived from an analysis of the AIS dataset encompassing vessel movements between Dalian and Yantai. The temporal scope of the dataset spans from November 1, 2021, to December 31, 2021. The detection accuracy, detection precision and recall rate are 98.29%, 92.44%, 87.09% respectively. The results indicate that there is an enhancement in the accuracy of detecting abnormal behavior in vessels, leading to a significant reduction in the blind area of VTS (Vessel traffic services) system monitoring.
+ER  - 
+
+TY  - JOUR
+T1  - Abstracts
+JO  - Fuel and Energy Abstracts
+VL  - 64
+IS  - 6
+SP  - 606
+EP  - 705
+PY  - 2023
+DA  - 2023/11/01/
+SN  - 0140-6701
+DO  - https://doi.org/10.1016/j.fueleneab.2023.10.002
+UR  - https://www.sciencedirect.com/science/article/pii/S0140670123000358
+ER  - 
+
+TY  - JOUR
+T1  - Weighted block ℓ1 norm induced 2D off-grid compressive beamforming for acoustic source localization: Methodology and applications
+AU  - Wang, Ran
+AU  - Zhuang, Tao
+AU  - Zhang, Chenyu
+AU  - Jing, Qiulan
+AU  - Yu, Liang
+AU  - Xiao, Youhong
+JO  - Applied Acoustics
+VL  - 214
+SP  - 109677
+PY  - 2023
+DA  - 2023/11/01/
+SN  - 0003-682X
+DO  - https://doi.org/10.1016/j.apacoust.2023.109677
+UR  - https://www.sciencedirect.com/science/article/pii/S0003682X23004759
+KW  - Acoustic source localization
+KW  - Acoustic imaging
+KW  - Compressive beamforming
+KW  - 2D off-grid model
+KW  - Weighted block  norm
+AB  - Identifying acoustic sources with high spatial resolution and precision is significant for machinery noise control. Off-grid compressive beamforming is an effective method for creating acoustic maps with a high spatial resolution. In this study, a two-dimensional off-grid compressive beamforming method via weighted block ℓ1 norm regularization (WBS-OCSBF) is proposed. The weighted ℓ1 norm offers a more uniform sparsity penalty compared to the ℓ1 norm. This method can enhance the performance of off-grid compressive beamforming. Additionally, it is easily implemented on mature linear programming solvers and converges with only a few iterations. Numerical simulations are conducted to analyze the effects of several major parameters on the performance of the proposed method. The simulation results demonstrate the superiority of the proposed method over some traditional methods. The proposed method is then validated using a loudspeaker noises localization experiment. A gearbox transmission system and a transformer are used as two specific objects to explore the industrial application value. The proposed method can effectively localize the gear meshing noise and transformer discharge faults with a high spatial resolution.
+ER  - 
+
+TY  - JOUR
+T1  - Towards an integrated swarm intelligence framework for urban mobility:A systematic review and proposed theoretical model
+AU  - Ruiz de Gauna, David E.
+AU  - Sánchez, Luis E.
+AU  - Ruiz-Iniesta, Almudena
+AU  - Villalonga, Claudia
+AU  - Serrano, Manuel A.
+JO  - Journal of King Saud University - Computer and Information Sciences
+VL  - 35
+IS  - 10
+SP  - 101836
+PY  - 2023
+DA  - 2023/12/01/
+SN  - 1319-1578
+DO  - https://doi.org/10.1016/j.jksuci.2023.101836
+UR  - https://www.sciencedirect.com/science/article/pii/S1319157823003907
+KW  - Autonomous electric vehicles
+KW  - Urban mobility
+KW  - Urban multi-agent system
+KW  - Swarm intelligence
+KW  - Deep learning
+KW  - Neural network
+KW  - Directed acyclic graph
+AB  - In recent years, autonomous electric vehicles (A-EVs) have attracted the attention of academia and industry. In urban mobility, this topology requires consensus to control behaviours under swarm robotics. Although several model-based solutions have successfully enhanced accuracy and overcome some limitations, specific technological, methodological, and security issues remain. In this study, we systematically reviewed existing research related to swarm intelligence and multi-agent systems in urban mobility. Based on the obtained results, we propose a new directed acyclic graph-based multilayer architecture model. Furthermore, we propose a long short-term memory recurrent neural network model to make predictions. To validate the model, available data based on real traffic in Madrid (Spain) were considered.
+ER  - 
+
+TY  - JOUR
+T1  - An exploratory analysis of the last frontier: A systematic literature review of cybersecurity in space
+AU  - Kavallieratos, Georgios
+AU  - Katsikas, Sokratis
+JO  - International Journal of Critical Infrastructure Protection
+VL  - 43
+SP  - 100640
+PY  - 2023
+DA  - 2023/12/01/
+SN  - 1874-5482
+DO  - https://doi.org/10.1016/j.ijcip.2023.100640
+UR  - https://www.sciencedirect.com/science/article/pii/S1874548223000537
+KW  - Space infrastructure
+KW  - Cybersecurity
+KW  - Satellites
+KW  - Literature review
+AB  - Nowadays, assets in space are vital for the provision of critical societal functions such as transportation, communication, production and supply of food, agriculture, etc. The increasing adoption of services provided by assets in space in our every day life, as well as the high dependence on cyberphysical systems, the increased interconnection and the commercialization of space increase the attack surface and poses significant cybersecurity risks to the space infrastructure; several cybersecurity incidents have already threatened assets in space. This work systematically reviews existing studies on the cybersecurity of the space infrastructure, analyzes the main results of each work, organizes and systematizes the current knowledge in the field, and proposes future research directions towards improving the cybersecurity posture of assets in space.
+ER  - 
+
+TY  - JOUR
+T1  - Enhancing the reliability of shipborne INS/GNSS integrated navigation system during abnormal sampling periods using Bi-LSTM and robust CKF
+AU  - Zhang, Zhaoyi
+AU  - Li, Ying
+AU  - Liu, Zhichen
+AU  - Wang, Siwen
+AU  - Xing, Hu
+AU  - Zhu, Weihang
+JO  - Ocean Engineering
+VL  - 288
+SP  - 115934
+PY  - 2023
+DA  - 2023/11/15/
+SN  - 0029-8018
+DO  - https://doi.org/10.1016/j.oceaneng.2023.115934
+UR  - https://www.sciencedirect.com/science/article/pii/S0029801823023181
+KW  - Ship integrated navigation
+KW  - Navigation reliability
+KW  - GNSS loss
+KW  - Bi-LSTM
+KW  - Robust CKF
+KW  - Intelligent ship
+AB  - Developing a reliable navigation system is a crucial challenge for intelligent ships. Integrating Inertial Navigation Systems (INS) with shipborne Global Navigation Satellite Systems (GNSS) provides a viable solution. However, the system's reliability heavily relies on GNSS availability. This paper proposes a method to enhance the reliability of shipborne INS/GNSS integrated navigation systems during GNSS abnormal sampling periods. The proposed method consists of two parts. Firstly, using specially designed input and output parameters, a pseudo-GNSS prediction model based on a Bidirectional Long Short-Term Memory Recurrent Neural Network (Bi-LSTM) is constructed to generate predicted pseudo-GNSS measurements during periods of GNSS loss, effectively filling in the gaps left by the absence of actual GNSS data. Secondly, Huber's M-estimation-based Robust Cubature Kalman filter (RCKF) is integrated into the data fusion algorithm, and a switching mechanism between RCKF and the Cubature Kalman filter (CKF) is established based on the source of GNSS data utilized for measurement update, to mitigate the impact of non-Gaussian distribution prediction noise introduced by pseudo-GNSS prediction model. Experimental validation using real ship navigation data in a natural marine environment confirms the proposed method's capability to maintain navigation accuracy during GNSS loss for shipborne INS/GNSS integrated navigation systems. The algorithm's superiority becomes more evident as the duration of GNSS loss increases, underscoring its effectiveness in enhancing shipborne integrated navigation system reliability.
+ER  - 

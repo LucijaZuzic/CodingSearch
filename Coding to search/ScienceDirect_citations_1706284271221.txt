@@ -1,0 +1,294 @@
+Huanhuan Li, Hang Jiao, Zaili Yang,
+Ship trajectory prediction based on machine learning and deep learning: A systematic review and methods analysis,
+Engineering Applications of Artificial Intelligence,
+Volume 126, Part C,
+2023,
+107062,
+ISSN 0952-1976,
+https://doi.org/10.1016/j.engappai.2023.107062.
+(https://www.sciencedirect.com/science/article/pii/S0952197623012460)
+Abstract: Ship trajectory prediction based on Automatic Identification System (AIS) data has attracted increasing interest as it helps prevent collision accidents and eliminate potential navigational conflicts. Therefore, it is necessary and urgent to conduct a systematic analysis of all the prediction methods to help reveal their advantages to ensure safety at sea in different scenarios. It is particularly important and significant within the context of unmanned ships forming a new hybrid maritime traffic together with manned ships in the future. This paper aims to conduct a comparative analysis of the up-to-date ship trajectory prediction algorithms based on machine learning and deep learning methods. To do so, five classical machine learning methods (i.e., Kalman Filter, Gaussian Process Regression, Support Vector Regression, Random Forest, and Back Propagation Network) and eight deep learning methods (i.e., Recurrent Neural Networks, Long Short-Term Memory, Bi-directional Long Short-Term Memory, Gate Recurrent Unit, Bi-directional Gate Recurrent Unit, Sequence to Sequence, Spatio-Temporal Graph Convolutional Network, and Transformer) are thoroughly analysed and compared from the algorithm essence and applications to excavate their features and adaptability for manned and unmanned ships. The findings reveal the characteristics of various prediction methods and provide valuable implications for different stakeholders to guide the best-fit choice of a particular method as the solution under a specific circumstance. It also makes contributions to the extraction of the research difficulties of ship trajectory prediction and the corresponding solutions that are put forward to guide the development of future research.
+Keywords: Trajectory prediction; AIS data; Hybrid maritime traffic; Machine learning; Deep learning; Maritime safety
+
+Riccardo Lazzarini, Huaglory Tianfield, Vassilis Charissis,
+A stacking ensemble of deep learning models for IoT intrusion detection,
+Knowledge-Based Systems,
+Volume 279,
+2023,
+110941,
+ISSN 0950-7051,
+https://doi.org/10.1016/j.knosys.2023.110941.
+(https://www.sciencedirect.com/science/article/pii/S0950705123006913)
+Abstract: The number of Internet of Things (IoT) devices has increased considerably in the past few years, which resulted in an exponential growth of cyber attacks on IoT infrastructure. As a consequence, the prompt detection of attacks in IoT environments through the use of Intrusion Detection Systems (IDS) has become essential. This article proposes a novel approach to intrusion detection in IoT based on a stacking ensemble of deep learning (DL) models. This approach is named Deep Integrated Stacking for the IoT (DIS-IoT) and it combines four different DL models into a fully connected DL layer, creating a standalone ensemble model. DIS-IoT is evaluated on three open-source datasets, namely ToN_IoT, CICIDS2017 and SWaT, in binary and multi-class classification and compared results with other standard DL methods. Experiments demonstrate that DIS-IoT is capable of a high-level accuracy with a very low False Positive rate (FPR) in all datasets. Results were also compared against other state-of-the-art works available in the literature, which used similar methods on the same ToN_IoT dataset. DIS-IoT achieves comparable performance with others in binary classification and outperforms them in multi-class classification.
+Keywords: Internet of things; Intrusion detection systems; Deep learning; Ensemble learning; Stacking
+
+
+Subject Index,
+Fuel and Energy Abstracts,
+Volume 64, Issue 5,
+2023,
+Pages 583-601,
+ISSN 0140-6701,
+https://doi.org/10.1016/j.fueleneab.2023.08.003.
+(https://www.sciencedirect.com/science/article/pii/S0140670123000280)
+
+Ji Yao, Xueliang Wang, Cong Ye, Yanqing Li, Guoqing Wu, Xuekang Gu,
+Long-term life stress mapping algorithm of the deep-sea pressurized spherical shell based on digital-twin technology,
+Ocean Engineering,
+Volume 286, Part 2,
+2023,
+115667,
+ISSN 0029-8018,
+https://doi.org/10.1016/j.oceaneng.2023.115667.
+(https://www.sciencedirect.com/science/article/pii/S0029801823020516)
+Abstract: Aiming at the difficulty of the global stress field monitoring of the deep-sea pressurized spherical shell in real time, this paper proposes a long-term life stress field reverse mapping algorithm based on digital-twin technology. Specifically, a high-fidelity FEM model is established based on the titanium alloy data, structure construction data and model test data. The Elastic modulus E and Poisson's ratio υ are selected as the structure characteristic parameters based on the preliminary small sample test results. The sensitivity analysis is carried out. And then, stress monitoring location selection results is proposed considering the factors such as mutual independence, installation conditions, and economic costs. The Long-Short Term Memory network (LSTM) together with the FEM results is tailored and employed to build the reverse mapping model. The mapping error is below 1% and compared to the FEM model, the efficiency of the proposed model is improved by more than 60 times.
+Keywords: Global stress field; Reverse mapping; FEM analysis; LSTM; Digital twin
+
+Alexander Petrocelli, Robert A. Bettinger, Noah C. Kutz, Carl Hartsfield,
+Atlas of historical and proposed nuclear devices and power systems in the Earth-Moon System and wider Solar System,
+Progress in Nuclear Energy,
+Volume 164,
+2023,
+104857,
+ISSN 0149-1970,
+https://doi.org/10.1016/j.pnucene.2023.104857.
+(https://www.sciencedirect.com/science/article/pii/S0149197023002925)
+Abstract: The 2010s witnessed a renewal in international interest of space operations extending outside geosynchronous orbit to encompass the cislunar environment and beyond with invigorated U.S., Chinese, and Russian lunar mission initiatives; planned commercial lunar projects; and coalescing international efforts to reach Mars and push deeper into the Solar System. With the space beyond the near-Earth orbital regimes likely to become competitive and congested in the coming decades, reliable and high-yield means of generating power and propulsion will be needed to enhance mission assurance and operational responsiveness. Nuclear systems represent a promising technology with a rich heritage and provenance of space-based applications to satisfy emerging requirements for electrical power and propulsive impulse for long-term human development of the Earth-Moon system and its planetary neighbors. In this work, an atlas for defining the varying historical or proposed uses of nuclear power in space operations and exploration is presented according to spatial zone within the Earth-Moon and wider Solar System. Depending on the spatial zone, nuclear power will be discussed with respect to applications such as electrical power generation, propulsion, resource extraction, and weapon testing and employment for the space control and planetary defense missions.
+Keywords: Cislunar; HAND; Lunar resources; Nuclear propulsion; Nuclear pulse; Planetary defense
+
+Jingrong Xie, Hao Jiang, Wei Song, Jinkun Yang,
+A novel quality control method of time-series ocean wave observation data combining deep-learning prediction and statistical analysis,
+Journal of Sea Research,
+Volume 195,
+2023,
+102439,
+ISSN 1385-1101,
+https://doi.org/10.1016/j.seares.2023.102439.
+(https://www.sciencedirect.com/science/article/pii/S1385110123001089)
+Abstract: Quality control (QC) of marine data is a critical aspect in ensuring the usability of oceanic data. In this paper, we propose a novel QC method for time-series ocean wave data, which combines deep learning prediction and statistical analysis. Our method first realizes multi-element LSTM prediction of the time-series ocean wave observation data, capturing both temporal consistency and physical relationships between the multi-element inputs. Then, it applies peak detection on the regional mean difference ratio derived from the predicted and true values of the ocean wave data, and finally labels the anomalous data points based on peak detection results. We conducted experiments on the time-series wave data of four sites from the National Marine Science Center, China, and compared our proposed method with traditional QC method that is currently used for operational marine data quality control, as well as classic anomaly detection models including Isolation Forest and VAE-LSTM. The results show a significant improvement in the Precision, Recall, and F1 Score for erroneous samples using our proposed method. Our proposed method takes advantages of both deep learning and statistical analysis and considers physical correlation of multiple elements of marine data, effectively addressing the problem of erroneous discrimination of abnormal sea conditions in the traditional method, and providing valuable insights for the study of marine time-series observational data.
+Keywords: Quality control; Deep-learning prediction; Statistical analysis; Time-series data
+
+Stephen Kastoryano, Ben Vollaard,
+Unseen annihilation: Illegal fishing practices and nautical patrol,
+Journal of Environmental Economics and Management,
+Volume 122,
+2023,
+102881,
+ISSN 0095-0696,
+https://doi.org/10.1016/j.jeem.2023.102881.
+(https://www.sciencedirect.com/science/article/pii/S0095069623000992)
+Abstract: A host of regulations should protect fish, a common-pool resource, from overexploitation, but detecting violations of these regulations is challenging, both at sea and in port. We present a novel approach to uncover a supposedly widespread and particularly harmful illegal fishing practice, the use of nets with illegally small mesh size. Our approach relies on readily available data on reported fish landings. We focus on bottom trawling, the world’s most widely used fishing method. We exploit the fact that using illegally small mesh size increases the share of small fish in the catch. Using quasi-random variation in nautical patrol as a source of variation in the incentive to comply, we show that in weeks without patrol the share of small fish in the landed catch is systematically larger than in adjacent weeks with patrol. Our results are in line with widespread use of illegally small mesh. The resulting catch and discard of juvenile fish is many times larger than the gain in the catch of marketable fish. This harm has thus far been largely ignored in estimates of the externalities from fishing.
+Keywords: Enforcement; Regulation; Environmental economics; Fisheries
+
+Shubhankar Chaudhary, Pramod Kumar Mishra,
+DDoS attacks in Industrial IoT: A survey,
+Computer Networks,
+Volume 236,
+2023,
+110015,
+ISSN 1389-1286,
+https://doi.org/10.1016/j.comnet.2023.110015.
+(https://www.sciencedirect.com/science/article/pii/S1389128623004607)
+Abstract: As the IoT expands its influence, its effect is becoming macroscopic and pervasive. One of the most discernible effects is in the industries where it is known as Industrial IoT (IIoT). IIoT provides automated, comprehensive, regressive and easy-to-use methods to look over its components. Along with the benefits, it also brings concerns that spawn from the IoT itself. Moreover, the challenges in the industries also add up because they have their own set of requirements and procedures to perform. Among those challenges, one of the prominent is DDoS attacks. So, through this paper, the DDoS attacks in IIoT is studied. This paper has culminated the work done in the domain involving IoT and IIoT. With this different forms of attacks involved in DDoS, the tools involved in generating the attacks and the overall traffic generators is also discussed. To elucidate, IIoT architecture and various layers involved in communication is discussed to correlate the threat of DDoS attacks in IIoT. Further, the studies made in various categories such as machine learning, deep learning, federated learning and transfer learning is elaborated. Finally, the challenges present in IIoT and the security requirements needed to overcome challenges in IIoT is explained.
+Keywords: IoT; IIoT; SDN; DDoS; IIoT architecture; Security
+
+Chunhui Zhou, Jiale Xiang, Hongxun Huang, Yi Yan, Liang Huang, Yuanqiao Wen, Changshi Xiao,
+TTMRN: A topological-geometric two-layer maritime route network modeling for ship intelligent navigation,
+Ocean Engineering,
+Volume 287, Part 2,
+2023,
+115884,
+ISSN 0029-8018,
+https://doi.org/10.1016/j.oceaneng.2023.115884.
+(https://www.sciencedirect.com/science/article/pii/S0029801823022680)
+Abstract: The construction of maritime route networks holds significant importance for autonomous navigation of vessels. In this study, a two-layer maritime route network modeling method based on huge amounts of ship trajectory data was proposed. Firstly, we introduce a novel method for extracting nodes of the marine route network, which identifies feature points in ship trajectories through clustering. Secondly, we use a spatial computing method to transform ship trajectory data into a sequence of waypoint regions and establish a node connection matrix to realize the nodes' connection of the topological layer route network. And routes are extracted between waypoint regions to characterize the connection relationship of the geometric layer network. Finally, by connecting nodes of the topological layer with the support of the connection matrix and waypoint regions of the geometric layer with the route, the two-layer maritime route network that combines topological and geometric layers is constructed. The proposed method was applied to the waters of Vancouver, successfully constructing a topological-geometric two-layer maritime route network. Overall, the proposed method is beneficial for improving the safety and efficiency of autonomous navigation of ships, and has a positive impact on the development of smart shipping industry.
+Keywords: Trajectory feature points; Cluster analysis; Maritime route network; Intelligent navigation; AIS data
+
+Livio Ruffine, Anh Minh Tang, Nick O'Neill, Laurent Toffin, Jean-Daniel Paris, Jinhai Yang, Valentin Georgiev, Peer Fietzek, Michela Giustiniani, Umberta Tinivella,
+Environmental challenges related to methane hydrate decomposition from climate change scenario and anthropic activities: State of the art, potential consequences and monitoring solutions,
+Earth-Science Reviews,
+Volume 246,
+2023,
+104578,
+ISSN 0012-8252,
+https://doi.org/10.1016/j.earscirev.2023.104578.
+(https://www.sciencedirect.com/science/article/pii/S0012825223002672)
+Abstract: Natural gas hydrate deposits (NGHD) have been investigated for decades and represent one of the major methane reservoirs on Earth. They are encountered in sediment of both the continental margins and the permafrost region; areas considered to host amongst the most climate-sensitive ecosystems on Earth. With worldwide temperature increases affecting continental margins and the permafrost, it is important to raise concern about the fate of the NGHD in the coming centuries. Thus, this review presents an overview of the potential consequences of hydrate decomposition on its surrounding areas. It compiles and discusses hydrate-derived methane fluxes measured or inferred from in situ data at several sites by considering both dissociation and dissolution. Depending on the magnitude and the duration of hydrate decomposition, the amounts of methane released can affect to varying degrees the seafloor and the microbial communities that sustain the methane cycle and regulate its transfer from the sediment to the water column; and that aspect is addressed in this review. Here, we also considered the transfer of methane from NGHDs and more broadly from marine emissions to the atmosphere, as it is assumed that such transfer will likely increase in the future. Finally, multi-scale monitoring in space and time is a key element to evaluate the impacts of natural and anthropic perturbations on NGHDs. We thus propose potential engineering solutions for the monitoring of NGHD, mainly based on the long-term deployment of sensor systems.
+Keywords: Continental margins; Gas emissions; Methane flux into the atmosphere; Natural gas hydrate deposits; Permafrost and slope stability
+
+Carolina Díaz, Patricio I. Moreno, Leonardo A. Villacís, Einer A. Sepúlveda-Zúñiga, Nora I. Maidana,
+Freshwater diatom evidence for Southern Westerly Wind evolution since ∼18 ka in northwestern Patagonia,
+Quaternary Science Reviews,
+Volume 316,
+2023,
+108231,
+ISSN 0277-3791,
+https://doi.org/10.1016/j.quascirev.2023.108231.
+(https://www.sciencedirect.com/science/article/pii/S0277379123002792)
+Abstract: We report a fossil diatom record from small closed-basin Lago Lepué (43°S) to examine past changes in freshwater ecosystems and hydrologic balance in northwestern Patagonia since ∼18 ka. The record starts with abundant staurosiroids and the heavily silicified Aulacoseira granulata suggesting deep turbulent mixing during a low lake level stand between ∼18- 16.4 ka. A. distans increased shortly after ∼16.4 ka and achieved maximum abundance between ∼15.4-13.6 ka, while A. granulata disappeared at ∼15.8 ka and A. alpigena rose at ∼14.9 ka to its maximum between ∼13-12 ka. We infer turbulent, cold, and circumneutral to slightly acid lake conditions contemporaneous with a steady lake level rise that started at ∼16.4 ka and culminated between ∼13-12 ka. These trends reversed between ∼11-7.8 ka with the dominance of Discostella stelligera and staurosiroids, suggesting warmer lake conditions and shallower mixing. Subsequent changes include increases of A. distans with D. stelligera between ∼7.8-5.8 ka, dominance of the former between ∼5.8-3.3 ka, a rapid increase in A. perglabra at ∼3.3 ka, and ensuing diversification of benthic acidophilous species. We infer a rapid lake-level decline between ∼11-7.8 ka, with subsequent rising pulses at ∼7.8 ka and ∼5.8 ka, a multimillennial-scale lake acidification trend, and overall high lake levels with centennial-scale reversals between ∼6-0 ka. Coherent variations in terrestrial and aquatic ecosystem changes recorded in the same core suggest negative hydrologic balance between ∼18-16.4 ka and ∼11–7.8 ka, positive balance between ∼14.9-12 ka and ∼6–0 ka, with transitional conditions in the interim, overprinted by millennial-scale changes and enhanced variability since ∼6 ka. Covariation with paleoclimate records at regional, pan-Patagonian, and hemispheric scale suggests millennial to centennial-scale variability superimposed upon a multi-millennial pacing of Southern Westerly Wind evolution since ∼18 ka.
+Keywords: Freshwater diatoms; Patagonia; Southern westerly winds; Last glacial termination; Holocene; Hydrologic balance; Millennial and centennial-scale variability
+
+Kang Yang, Zhien Wang, Min Deng, Brennan Dettmann,
+Improved tropical deep convective cloud detection using MODIS observations with an active sensor trained machine learning algorithm,
+Remote Sensing of Environment,
+Volume 297,
+2023,
+113762,
+ISSN 0034-4257,
+https://doi.org/10.1016/j.rse.2023.113762.
+(https://www.sciencedirect.com/science/article/pii/S0034425723003139)
+Abstract: Tropical deep convective clouds (DCCs) play an essential role in the Earth system. However, separating DCCs from thick anvils with satellite passive measurements is challenging. In this work, a day/night unified tropical DCC detection approach for MODIS observations is developed with a CloudSat active sensor measurement trained machine learning model. This approach combines brightness temperatures (BTs) at 6.7 μm (BT6.7) and 11 μm (BT11) with derived variables describing horizontal structures of DCCs and improves the tropical DCC probability of detection (POD) from 45.0% for the widely-used BT11 < 215 K method to 67.9%, while the false alarm ratio (FAR) decreases from 43.9% to 32.6%. The Heidke skill score (HSS) of the new algorithm is 0.425, which is more than doubled compared to the HSS of the BT11 < 215 K method (0.182). Moreover, the new algorithm has small biases in DCC's total amount and spatial distribution compared with the CloudSat results. The monthly DCC variations from MODIS wide-swath measurements with the new algorithm demonstrate the ability to reliably provide high temporal and spatial resolution DCC distributions to support intra-seasonal to interannual climate variability studies, which the CloudSat narrow-swath measurements lack enough samples to do. Meanwhile, the new algorithm can also be applied to measurements from other satellite passive sensors when BT6.7 and BT11 are available.
+Keywords: Tropical convective cloud detection; Machine learning; Horizontal structure; Passive measurements; MODIS; CloudSat; CALIPSO
+
+Weijia Dong, Lingyan Pan, Qi Zhang, Wentai Zhang,
+Athlete target detection method in dynamic scenario based on nonlinear filtering and YOLOv5,
+Alexandria Engineering Journal,
+Volume 82,
+2023,
+Pages 208-217,
+ISSN 1110-0168,
+https://doi.org/10.1016/j.aej.2023.09.061.
+(https://www.sciencedirect.com/science/article/pii/S1110016823008566)
+Abstract: In this paper firefly optimization algorithm is improved, including the method of relative firefly fluorescence brightness, the method of attraction and the method of firefly position update. The dynamic step size factor and dynamic difference factor are introduced, and the improved firefly algorithm is used to optimize the particle filter, so that the particle swarm can be concentrated to the high likelihood region as much as possible, so as to ensure the overall quality of the particle swarm. In this paper, the most commonly used non-maximum suppression algorithm in the post-processing stage of target detection model is discussed. The original YOLOv5 model and the fusion model of nonlinear filtering and YOLOv5 were respectively used to simulate the two data sets after data enhancement. Some mainstream object detection models and the improved model in this paper are analyzed experimentally in two datasets. In dataset 1, the small increase in mAP value is the addition of CBAM's attention module, which increases by 2.8%. For data set 2, when the original Focal loss was replaced by VFLoss, the mAP increased to 89.8%, an increase of 0.95%. For the case where all the improvements were added, the mAP value increased by 7%.
+Keywords: Athlete target detection; Dynamic scene; Nonlinear filtering; YOLOv5
+
+Wenjin Sun, Lijun Yin, Yufei Pei, Chuang Shen, Yifei Yang, Jinlin Ji, Jingsong Yang, Changming Dong,
+Marine heatwaves in the Western North Pacific Region: Historical characteristics and future projections,
+Deep Sea Research Part I: Oceanographic Research Papers,
+Volume 200,
+2023,
+104161,
+ISSN 0967-0637,
+https://doi.org/10.1016/j.dsr.2023.104161.
+(https://www.sciencedirect.com/science/article/pii/S0967063723002005)
+Abstract: This study investigates the historical characteristics and future trends of marine heatwaves (MHWs) in the Western North Pacific (WNP) region. During the historical period from 1982 to 2014, the WNP region experiences an average MHW frequency of 0.89 ± 0.18 count/year. These events have an average duration of 8.64 ± 1.39 days/count. Annually, the cumulative MHW days amount to 7.76 ± 2.23 days, with an accumulated intensity of 15.73 ± 6.43 °C days. The maximum intensity recorded during this period reaches 2.04 ± 0.54 °C, while the average intensity stands at 1.74 ± 0.48 °C/count. In the evaluation of 14 CMIP6 models, five optimal models, namely GFDL-ESM4, EC-Earth3-Veg, EC-Earth3, BCC-CSM2-MR, and MRI-ESM2-0, are selected for simulating future MHWs. Based on the simulation results of these five models under the SSP2-4.5 and SSP5-8.5 scenarios for the future period (2015–2100), it is found that under the SSP2-4.5, the frequency of MHWs is slightly higher compared to the SSP5-8.5. However, under the SSP5-8.5, MHWs exhibit higher accumulated intensity, maximum intensity, and average intensity, with a predominance of high-intensity MHWs in the Kuroshio Extension region. The occurrence area ratio in the future is significantly larger than in the historical period. Moreover, MHWs intensity displays a seasonal variation, with stronger during summer and weaker during winter. This study provides important insights into MHWs in the WNP region, offering valuable information for decision-makers in formulating response measures and reducing economic losses.
+Keywords: Marine heatwave; Historical characteristics; Future projections; Western north Pacific region; CMIP6
+
+Mamdouh Y. Elgendy, Shimaa E. Ali, Wafaa T. Abbas, Abdelazeem M. Algammal, Mohamed Abdelsalam,
+The role of marine pollution on the emergence of fish bacterial diseases,
+Chemosphere,
+Volume 344,
+2023,
+140366,
+ISSN 0045-6535,
+https://doi.org/10.1016/j.chemosphere.2023.140366.
+(https://www.sciencedirect.com/science/article/pii/S004565352302636X)
+Abstract: Marine pollution and bacterial disease outbreaks are two closely related dilemmas that impact marine fish production from fisheries and mariculture. Oil, heavy metals, agrochemicals, sewage, medical wastes, plastics, algal blooms, atmospheric pollutants, mariculture-related pollutants, as well as thermal and noise pollution are the most threatening marine pollutants. The release of these pollutants into the marine aquatic environment leads to significant ecological degradation and a range of non-infectious disorders in fish. Marine pollutants trigger numerous fish bacterial diseases by increasing microbial multiplication in the aquatic environment and suppressing fish immune defense mechanisms. The greater part of these microorganisms is naturally occurring in the aquatic environment. Most disease outbreaks are caused by opportunistic bacterial agents that attack stressed fish. Some infections are more serious and occur in the absence of environmental stressors. Gram-negative bacteria are the most frequent causes of these epizootics, while gram-positive bacterial agents rank second on the critical pathogens list. Vibrio spp., Photobacterium damselae subsp. Piscicida, Tenacibaculum maritimum, Edwardsiella spp., Streptococcus spp., Renibacterium salmoninarum, Pseudomonas spp., Aeromonas spp., and Mycobacterium spp. Are the most dangerous pathogens that attack fish in polluted marine aquatic environments. Effective management strategies and stringent regulations are required to prevent or mitigate the impacts of marine pollutants on aquatic animal health. This review will increase stakeholder awareness about marine pollutants and their impacts on aquatic animal health. It will support competent authorities in developing effective management strategies to mitigate marine pollution, promote the sustainability of commercial marine fisheries, and protect aquatic animal health.
+Keywords: Bacterial pathogens; Marine pollution; Management strategies; Mariculture; Marine fisheries; Pathogenesis
+
+Bernardo Gomes, José Coelho, Helena Aidos,
+A survey on traffic flow prediction and classification,
+Intelligent Systems with Applications,
+Volume 20,
+2023,
+200268,
+ISSN 2667-3053,
+https://doi.org/10.1016/j.iswa.2023.200268.
+(https://www.sciencedirect.com/science/article/pii/S2667305323000935)
+Abstract: As cities continue to grow and the number of vehicles on the road increases, traffic congestion and pollution have become major issues. Fortunately, significant efforts have been made in recent decades to alleviate these problems through research and the development of Intelligent Transportation Systems (ITS). Governments are now utilizing advanced ITS technologies to better understand traffic patterns and make informed decisions on how to manage traffic. In this paper, we will explore the state-of-the-art methods employed in ITS for predicting traffic flow and speed, as well as classifying different traffic situations. We will also examine the preprocessing techniques used in these tasks, along with the metrics used to evaluate the results. By understanding the latest advancements in ITS, we can work towards creating more efficient and sustainable transportation systems that benefit both individuals and society as a whole.
+Keywords: Road traffic; Prediction; Classification; Europe traffic flow
+
+Xiaodi Hou, Zhi Liu, Xiaobo Li, Xingwang Li, Shengtian Sang, Yijia Zhang,
+MKCL: Medical Knowledge with Contrastive Learning model for radiology report generation,
+Journal of Biomedical Informatics,
+Volume 146,
+2023,
+104496,
+ISSN 1532-0464,
+https://doi.org/10.1016/j.jbi.2023.104496.
+(https://www.sciencedirect.com/science/article/pii/S1532046423002174)
+Abstract: Automatic radiology report generation has the potential to alert inexperienced radiologists to misdiagnoses or missed diagnoses and improve healthcare delivery efficiency by reducing the documentation workload of radiologists. Motivated by the continuous development of automatic image captioning, more and more deep learning methods have been proposed for automatic radiology report generation. However, the visual and textual data bias problem still face many challenges in the medical domain. Additionally, do not integrate medical knowledge, ignoring the mutual influences between medical findings, and abundant unlabeled medical images influence the accuracy of generating report. In this paper, we propose a Medical Knowledge with Contrastive Learning model (MKCL) to enhance radiology report generation. The proposed model MKCL uses IU Medical Knowledge Graph (IU-MKG) to mine the relationship among medical findings and improve the accuracy of identifying positive diseases findings from radiologic medical images. In particular, we design Knowledge Enhanced Attention (KEA), which integrates the IU-MKG and the extracted chest radiological visual features to alleviate textual data bias. Meanwhile, this paper leverages supervised contrastive learning to relieve radiographic medical images which have not been labeled, and identify abnormalities from images. Experimental results on the public dataset IU X-ray show that our proposed model MKCL outperforms other state-of-the-art report generation methods. Ablation studies also demonstrate that IU medical knowledge graph module and supervised contrastive learning module enhance the ability of the model to detect the abnormal parts and accurately describe the abnormal findings. The source code is available at: https://github.com/Eleanorhxd/MKCL.
+Keywords: Medical knowledge graph; Supervised contrastive learning; Radiology report generation
+
+Mohammad Reza Eini, Akbar Rahmati Ziveh, Haniyeh Salmani, Seemab Mujahid, Pouya Ghezelayagh, Mikołaj Piniewski,
+Detecting drought events over a region in Central Europe using a regional and two satellite-based precipitation datasets,
+Agricultural and Forest Meteorology,
+Volume 342,
+2023,
+109733,
+ISSN 0168-1923,
+https://doi.org/10.1016/j.agrformet.2023.109733.
+(https://www.sciencedirect.com/science/article/pii/S0168192323004239)
+Abstract: In this study, the accuracy of two satellite-based datasets is evaluated. The evaluation includes monthly precipitation estimates, spatial detection of precipitation, and drought monitoring against a regional gridded dataset spanning 2007–2019. A study area covering Poland and parts of the neighboring countries in Central Europe was selected for this evaluation. The Standardized Precipitation Index (SPI) at multi-time scales was employed to monitor meteorological (SPI-3), agricultural (SPI-6, SPI-9), and hydrological (SPI-12) droughts over the study region. This study selected PERSIANNCDR as a top-down precipitation dataset and SM2RAIN-ASCAT as a bottom-up dataset. According to the results, both datasets exhibit good accuracy for precipitation estimations, but PERSIANNCDR shows higher accuracy based on the R (coefficient of correlation) and KGE (Kling-Gupta Efficiency) performance indicators. However, SM2RAIN-ASCAT has a lower bias according to PBIAS(%) (percent bias). The reference dataset indicates that the study area experienced dry conditions over 50% of the months. Specifically, based on the reference dataset, 12 (SPI-6) and 16 (SPI-9) severe agricultural droughts were detected. Twenty-four severe agricultural drought events were identified via SPI-6, while the longer SPI window (SPI-9) demonstrated that PERSIANNCDR assessed 20 severe droughts over the study area. SM2RAIN-ASCAT detected 11 severe agricultural droughts via SPI-6 and SPI-9. Furthermore, based on SPI-12, the reference dataset identified 75 hydrological droughts, while the top-down dataset indicated a lower number of hydrological droughts (67 events) than the reference dataset over the studied period. In contrast, the bottom-up dataset detected 84 hydrological droughts. The spatial distribution of severe meteorological droughts showed a clear pattern with predominant occurrence in eastern parts (Vistula River Basin), as shown by the reference dataset, while this pattern changed for agricultural and hydrological droughts (Odra River Basin). Additionally, the results reveal that meteorological drought does not have a similar spatial distribution to agricultural and hydrological droughts.
+Keywords: Baltic Sea; Climate change; Satellite products; Drought; Rainfall
+
+Suzana J. Camargo, Hiroyuki Murakami, Nadia Bloemendaal, Savin S. Chand, Medha S. Deshpande, Christian Dominguez-Sarmiento, Juan Jesús González-Alemán, Thomas R. Knutson, I.-I. Lin, Il-Ju Moon, Christina M. Patricola, Kevin A. Reed, Malcolm J. Roberts, Enrico Scoccimarro, Chi Yung (Francis) Tam, Elizabeth J. Wallace, Liguang Wu, Yohei Yamada, Wei Zhang, Haikun Zhao,
+An update on the influence of natural climate variability and anthropogenic climate change on tropical cyclones,
+Tropical Cyclone Research and Review,
+Volume 12, Issue 3,
+2023,
+Pages 216-239,
+ISSN 2225-6032,
+https://doi.org/10.1016/j.tcrr.2023.10.001.
+(https://www.sciencedirect.com/science/article/pii/S2225603223000437)
+Abstract: A substantial number of studies have been published since the Ninth International Workshop on Tropical Cyclones (IWTC-9) in 2018, improving our understanding of the effect of climate change on tropical cyclones (TCs) and associated hazards and risks. These studies have reinforced the robustness of increases in TC intensity and associated TC hazards and risks due to anthropogenic climate change. New modeling and observational studies suggested the potential influence of anthropogenic climate forcings, including greenhouse gases and aerosols, on global and regional TC activity at the decadal and century time scales. However, there are still substantial uncertainties owing to model uncertainty in simulating historical TC decadal variability in the Atlantic, and the limitations of observed TC records. The projected future change in the global number of TCs has become more uncertain since IWTC-9 due to projected increases in TC frequency by a few climate models. A new paradigm, TC seeds, has been proposed, and there is currently a debate on whether seeds can help explain the physical mechanism behind the projected changes in global TC frequency. New studies also highlighted the importance of large-scale environmental fields on TC activity, such as snow cover and air-sea interactions. Future projections on TC translation speed and medicanes are new additional focus topics in our report. Recommendations and future research are proposed relevant to the remaining scientific questions and assisting policymakers.
+
+Shangbo Han, Yiyan Hua, Yangshu Lin, Longchao Yao, Zhongcheng Wang, ZhengJie Zheng, Jian Yang, Chunhui Zhao, Chenghang Zheng, Xiang Gao,
+Fault diagnosis of regenerative thermal oxidizer system via dynamic uncertain causality graph integrated with early anomaly detection,
+Process Safety and Environmental Protection,
+Volume 179,
+2023,
+Pages 724-734,
+ISSN 0957-5820,
+https://doi.org/10.1016/j.psep.2023.09.058.
+(https://www.sciencedirect.com/science/article/pii/S0957582023008996)
+Abstract: Regenerative thermal oxidizers (RTO) serve as pivotal equipment for the treatment of volatile organic compounds (VOCs). However, a diversity of faults of the RTO system may threaten personnel safety and lead to unscheduled downtime. In this work, we develop a traceability inference method based on dynamic uncertain causality graph (DUCG) to identify root fault cause of RTO at early anomaly alarm. A general expert knowledge base for the fault diagnosis of RTO system is constructed. And the anomaly alarm thresholds are modified according to historical data with n-sigma rules to improve the diagnostic accuracy. Results on different cases show advantages in both triggering early anomaly alarms and avoiding invalid alarms, which is crucial to improve the fault inference accuracy. By applying our method to 35 fault cases of a real RTO for pharmaceutical VOCs treatment, the fault detection rate reaches 94.29%, and the fault inference accuracy is 82.86%. The two scores are 3% and 21% higher than those with the conventional DUCG (with fixed alarms), respectively. This remarkable improvement underlines the significance of our proposed method for RTO maintenance, and it is expected to assure the system’s operational stability and reliability.
+Keywords: Regenerative thermal oxidizer; Dynamic uncertain causality graph; Anomaly detection; Fault diagnosis
+
+Yukuan Wang, Jingxian Liu, Ryan Wen Liu, Weihuang Wu, Yang Liu,
+Interval prediction of vessel trajectory based on lower and upper bound estimation and attention-modified LSTM with bayesian optimization,
+Physica A: Statistical Mechanics and its Applications,
+Volume 630,
+2023,
+129275,
+ISSN 0378-4371,
+https://doi.org/10.1016/j.physa.2023.129275.
+(https://www.sciencedirect.com/science/article/pii/S0378437123008300)
+Abstract: Uncertainty prediction of vessel trajectory is essential to enhance maritime situational awareness and traffic safety. Traditional approaches for trajectory prediction face challenges in accurately quantifying uncertainties, thereby limiting effectiveness in decision-making. To address this challenge, we propose a hybrid interval prediction frame of vessel trajectory using the lower and upper bound estimation (LUBE) and attention-modified long short-term memory (LSTM) network with bayesian optimization (BO). Firstly, trajectory data is preprocessed to solve the scale irregularity. Then, a novel trajectory interval prediction model for perceiving the prediction uncertainties is designed based on an advanced attention-modified LSTM with interval prediction capability. Meanwhile, a supervised training strategy with differentiating the interval widths of latitude and longitude is put forward to devise sample labels for training the model. Additionally, a new prediction interval-based objective function is proposed considering the target of maximizing coverage and minimizing width of trajectory interval. The BO algorithm optimizes the weighted parameters in the LSTM network by minimizing the objective function value. Finally, cases from two water areas are implemented to test and verify the proposed method. The results illustrate the superiority of the proposed approach in (1) outperforming other methods used for comparison in both coverage probability and width criteria of prediction interval. (2) quantifying the prediction uncertainty and improving the reliability of trajectory predictor. (3) performing anomaly detection tasks using visualized trajectory prediction intervals. The research can help maritime traffic participants obtain more reliable trajectory data, which supports making more reasonable traffic supervision decisions.
+Keywords: Vessel trajectory; Interval prediction; Long short-term memory; Lower and upper bound estimation (LUBE); Attention mechanism
+
+Siwatt Pongpiachan, Kanjana Thumanu, Chulalak Chantharakhon, Chunmanus Phoomalee, Teetat Charoenkalunyuta, Kittiphop Promdee, Saran Poshyachinda, Muhammad Zaffar Hashmi,
+Applying synchrotron radiation-based attenuated total reflection-fourier transform infrared to chemically characterise organic functional groups in terrestrial soils of King George Island, Antarctica,
+Heliyon,
+Volume 9, Issue 9,
+2023,
+e19711,
+ISSN 2405-8440,
+https://doi.org/10.1016/j.heliyon.2023.e19711.
+(https://www.sciencedirect.com/science/article/pii/S2405844023069190)
+Abstract: Anthropogenic activities, especially associated with fossil fuel combustion, are raising concerns worldwide, but remote areas with extreme climate conditions, such as Antarctica, are isolated from the adverse influence of human civilisation. Antarctica is considered as the most untouched place on Earth. Such pristine areas, which have extremely low chemical pollutant concentrations owing to restricted anthropogenic impacts, exemplify plausible model environments to test the reliability and sensitivity of advanced analytical techniques employed to chemically characterise and evaluate the spatial distribution of chemical pollutants. Here, synchrotron radiation-based attenuated total reflection-Fourier transform infrared (SR-ATR-FTIR) spectroscopy was employed to evaluate the variations in the organic functional groups (OFGs) of terrestrial soils of King George Island, Antarctica. Second-derivative SR-ATR-FTIR spectroscopy coupled with several multivariate statistical techniques highlighted the influence of anthropogenic activities on the alterations of OFGs in terrestrial soils collected near airports. Moreover, the daily activities of penguins could also have caused fluctuations in some OFGs of the samples the close to the Tombolo area and Ardley Island. The findings proved the effectiveness of SR-ATR-FTIR in evaluating the potential sources of variations in the chemical constituents, especially OFGs, in Antarctic terrestrial soils.
+Keywords: SR-ATR-FTIR; Terrestrial soils; Organic functional groups; King George Island; Chemical pollution
+
+
+Abstracts,
+Fuel and Energy Abstracts,
+Volume 64, Issue 5,
+2023,
+Pages 478-582,
+ISSN 0140-6701,
+https://doi.org/10.1016/j.fueleneab.2023.08.002.
+(https://www.sciencedirect.com/science/article/pii/S0140670123000279)
+
+Janina Beck, Hendrik Birkel, Alexander Spieske, Maximilian Gebhardt,
+Will the blockchain solve the supply chain resilience challenges? Insights from a systematic literature review,
+Computers & Industrial Engineering,
+Volume 185,
+2023,
+109623,
+ISSN 0360-8352,
+https://doi.org/10.1016/j.cie.2023.109623.
+(https://www.sciencedirect.com/science/article/pii/S0360835223006472)
+Abstract: Frequency and severity of supply chain disruptions are increasing, and new solutions for improving supply chain resilience (SCRES) are demanded. Operations managers and scholars place great hopes on recent technological innovations, particularly blockchain technology. However, the current literature lacks a comprehensive review at the intersection of SCRES and blockchain, making it difficult to understand the relations between both fields holistically. This research gap was addressed by systematically analyzing 72 peer-reviewed papers. More specifically, the link between specific blockchain characteristics, SCRES antecedents, and supply chain risk types was explored. The results reveal that visibility and validation are the most relevant blockchain characteristics for improving SCRES. The SCRES antecedents agility, collaboration, and supply chain (re-)engineering can all benefit from blockchain implementation, whereas the effect on risk management culture is widely unexplored. While there is consensus on blockchain’s usability for mitigating security, operational, and supply risks, the effect on demand risks requires further attention. To facilitate the practical implementation of this paper’s results, the findings served as a foundation for discussing SCRES opportunities from well-known blockchain applications such as smart contracts and tracking solutions. Moreover, seven future research avenues and managerial implications are presented.
+Keywords: Blockchain; Distributed ledger; Literature review; Supply chain disruption; Supply chain resilience; Supply chain risk management
+
+Chunteng Bao, Diju Gao, Yi Ding, Lihong Xu, Erik D. Goodman,
+Many-task evolutionary algorithm with adaptive knowledge transfer via density-based clustering,
+Knowledge-Based Systems,
+Volume 278,
+2023,
+110906,
+ISSN 0950-7051,
+https://doi.org/10.1016/j.knosys.2023.110906.
+(https://www.sciencedirect.com/science/article/pii/S0950705123006561)
+Abstract: Evolutionary multitask optimization (EMTO) explores how to solve two or more related optimization tasks simultaneously by exploiting useful knowledge of other related tasks while solving one task, with the goal of enhancing the performance of the algorithm in solving each task. There has been a large body of work in the literature on knowledge transfer and reuse. However, when the number of tasks increases to a certain extent, the potential negative knowledge transfer between tasks becomes a great challenge for most multitask evolutionary algorithms. To allay this threat, this study proposes an adaptive knowledge transfer strategy for evolutionary many-task optimization via density-based clustering (AEMaTO-DC). AEMaTO-DC contains an adaptive mating selection mechanism, a correlation task evaluation and selection mechanism and a cluster-based knowledge interaction mechanism between tasks. Specifically, AEMaTO-DC regulates the probability of knowledge transfer by comparing the relative intensity of the intertask evolution rate and intratask evolution rate. In knowledge transfer, AEMaTO-DC selects related tasks by a maximum mean discrepancy metric, and it determines the intensity of intertask interaction by a density-based clustering method. We compare the performance of AEMaTO-DC with several state-of-the-art multitask evolutionary algorithms on a variety of synthetic benchmarks and a real-world multitask optimization problem. The experimental results demonstrate that AEMaTO-DC shows competitive success rates in solving the many-task problems used, and it takes advantage of synergistic relationships among solution processes for the tasks addressed.
+Keywords: Many-task optimization; Intertask synergies; Knowledge transfer; Evolutionary multitask optimization; Density-based clustering
