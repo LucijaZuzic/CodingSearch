@@ -149,13 +149,33 @@ while len(set(sd_doi)) < 2539:
     sd_doi.append(str(random.randint(1, 10000000000)))
 
 matplotlib_venn.venn3([set(ieee_doi), set(scopus_doi), set(sd_doi)], set_labels = ('IEEE', 'Scopus', 'ScienceDirect'))
-plt.show()
+plt.savefig("venn_IEEE_Scopus_ScienceDirect.png", bbox_inches = "tight")
+plt.close()
 
 matplotlib_venn.venn2([set(ieee_doi), set(scopus_doi)], set_labels = ('IEEE', 'Scopus'))
-plt.show()
+plt.savefig("venn_IEEE_Scopus.png", bbox_inches = "tight")
+plt.close()
 
 matplotlib_venn.venn2([set(ieee_doi), set(sd_doi)], set_labels = ('IEEE', 'ScienceDirect'))
-plt.show()
+plt.savefig("venn_IEEE_ScienceDirect.png", bbox_inches = "tight")
+plt.close()
 
 matplotlib_venn.venn2([set(scopus_doi), set(sd_doi)], set_labels = ('Scopus', 'ScienceDirect'))
-plt.show()
+plt.savefig("venn_Scopus_ScienceDirect.png", bbox_inches = "tight")
+plt.close()
+
+matplotlib_venn.venn3_unweighted([set(ieee_doi), set(scopus_doi), set(sd_doi)], set_labels = ('IEEE', 'Scopus', 'ScienceDirect'))
+plt.savefig("venn_unweighted_IEEE_Scopus_ScienceDirect.png", bbox_inches = "tight")
+plt.close()
+
+matplotlib_venn.venn2_unweighted([set(ieee_doi), set(scopus_doi)], set_labels = ('IEEE', 'Scopus'))
+plt.savefig("venn_unweighted_IEEE_Scopus.png", bbox_inches = "tight")
+plt.close()
+
+matplotlib_venn.venn2_unweighted([set(ieee_doi), set(sd_doi)], set_labels = ('IEEE', 'ScienceDirect'))
+plt.savefig("venn_unweighted_IEEE_ScienceDirect.png", bbox_inches = "tight")
+plt.close()
+
+matplotlib_venn.venn2_unweighted([set(scopus_doi), set(sd_doi)], set_labels = ('Scopus', 'ScienceDirect'))
+plt.savefig("venn_unweighted_Scopus_ScienceDirect.png", bbox_inches = "tight")
+plt.close()
