@@ -1,0 +1,5 @@
+IUU fishing & Arasteh et al. \cite{2020Arasteh}, Ford et al. \cite{Ford2018LoiteringWI}, Marzuki et al. \cite{2018Marzuki}, Shahir et al. \cite{2019Shahir}, Woodill et al. \cite{Woodill2020PredictingIF}, Young \cite{2019Young}, Kroodsma et al. \cite{2018Kroodsma}, Souza et al. \cite{2016Souza}, Jiang et al. \cite{2016Jiang}, Jiang et al. \cite{jiang2017partition} \\ \hline 
+Small vessel attacks & Auslander et al. \cite{Auslander2012MaritimeTD} \\ \hline 
+Piracy & Bouejla et al. \cite{BOUEJLA201422}, Dabrowski and de Villiers \cite{DABROWSKI2015116} \\ \hline 
+Maritime vessel accidents & Dogru and Subasi \cite{2018Dogru}, Zhang et al. \cite{ZHANG2021107674} \\ \hline 
+Smuggling & Sfyridis et al. \cite{2017Sfyridis} \\ \hline 

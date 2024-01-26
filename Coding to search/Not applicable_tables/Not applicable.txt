@@ -1,0 +1,4 @@
+parametric & Pohontu et al. \cite{2023Pohontu}, Pohontu et al. \cite{2023Pohontu1} \\ \hline 
+reinforcement & Hu et al. \cite{2023Hu} \\ \hline 
+iGroup-iDetect & Cai et al. \cite{2018Cai} \\ \hline 
+Lavielle+filtering & Souza et al. \cite{2016Souza} \\ \hline 

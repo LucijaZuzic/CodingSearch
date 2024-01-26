@@ -1,0 +1,30 @@
+\hline 
+\multicolumn{3}{|c|}{Predicting trajectories} \\ \hline 
+Fernandez Arguedas et al. \cite{2015FernandezArguedas} & Wang et al. \cite{2023Wang} & Wang et al. \cite{2020Wang2} \\ 
+Duca et al. \cite{2017Duca} & Le and Zheng \cite{Le2016TrajectoryPO} & Karatas et al. \cite{2021Karatas} \\ 
+Fernandez Arguedas et al. \cite{2018FernandezArguedas} & Fernandez Arguedas et al. \cite{2014FernandezArguedas} & Ristic et al. \cite{2008Ristic} \\ 
+Mehri et al. \cite{2021Mehri} & Singh et al. \cite{2022Singh} & Mehri et al. \cite{2023Mehri} \\ 
+Virjonen et al. \cite{2018Virjonen} &  &  \\ 
+\hline 
+\multicolumn{3}{|c|}{Object detection} \\ \hline 
+Djenouri et al. \cite{2022Djenouri} & Freitas et al. \cite{2019Freitas} & Fahn et al. \cite{2019Fahn} \\ 
+Czaplewski and Dzwonkowski \cite{2022Czaplewski} &  &  \\ 
+\hline 
+\multicolumn{3}{|c|}{Navigation status} \\ \hline 
+Pohontu et al. \cite{2023Pohontu} & Pohontu et al. \cite{2023Pohontu1} & Mantecon et al. \cite{2019Mantecon} \\ 
+\hline 
+\multicolumn{3}{|c|}{Damaged messages} \\ \hline 
+Szarmach and Czarnowski \cite{2022Szarmach} &  &  \\ 
+\hline 
+\multicolumn{3}{|c|}{Sailing stability} \\ \hline 
+Hanyang et al. \cite{2019Hanyang} &  &  \\ 
+\hline 
+\multicolumn{3}{|c|}{Ship type} \\ \hline 
+Ljunggren \cite{2018Ljunggren} &  &  \\ 
+\hline 
+\multicolumn{3}{|c|}{Damaged messages+Predicting trajectories} \\ \hline 
+Liang et al. \cite{2019Liang} &  &  \\ 
+\hline 
+\multicolumn{3}{|c|}{Destination port and region+Predicting trajectories} \\ \hline 
+Magnussen et al. \cite{2021Magnussen} &  &  \\ 
+\hline 

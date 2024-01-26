@@ -1,0 +1,39 @@
+\hline 
+\multicolumn{5}{|c|}{Predicting trajectories} & \multicolumn{1}{|c|}{Object detection} \\ \hline 
+Fernandez Arguedas et al. \cite{2015FernandezArguedas} & Wang et al. \cite{2023Wang} & Wang et al. \cite{2020Wang2} & Duca et al. \cite{2017Duca} & \multicolumn{1}{c|}{Le and Zheng \cite{Le2016TrajectoryPO}} & Djenouri et al. \cite{2022Djenouri} \\ 
+Karatas et al. \cite{2021Karatas} & Fernandez Arguedas et al. \cite{2018FernandezArguedas} & Fernandez Arguedas et al. \cite{2014FernandezArguedas} & Ristic et al. \cite{2008Ristic} & \multicolumn{1}{c|}{Mehri et al. \cite{2021Mehri}} & Freitas et al. \cite{2019Freitas} \\ 
+Singh et al. \cite{2022Singh} & Mehri et al. \cite{2023Mehri} & Virjonen et al. \cite{2018Virjonen} &  & \multicolumn{1}{c|}{} & Fahn et al. \cite{2019Fahn} \\ 
+Czaplewski and Dzwonkowski \cite{2022Czaplewski} \\ 
+ \\ 
+ \\ 
+ \\ 
+ \\ 
+ \\ 
+ \\ 
+ \\ 
+ \\ 
+ \\ 
+\hline 
+\multicolumn{5}{|c|}{Object detection} & \multicolumn{1}{|c|}{Navigation status} \\ \hline 
+Djenouri et al. \cite{2022Djenouri} & Freitas et al. \cite{2019Freitas} & Fahn et al. \cite{2019Fahn} & Czaplewski and Dzwonkowski \cite{2022Czaplewski} & \multicolumn{1}{c|}{} & Pohontu et al. \cite{2023Pohontu} \\ 
+Pohontu et al. \cite{2023Pohontu1} \\ 
+Mantecon et al. \cite{2019Mantecon} \\ 
+ \\ 
+\hline 
+\multicolumn{5}{|c|}{Navigation status} & \multicolumn{1}{|c|}{Damaged messages} \\ \hline 
+Pohontu et al. \cite{2023Pohontu} & Pohontu et al. \cite{2023Pohontu1} & Mantecon et al. \cite{2019Mantecon} &  & \multicolumn{1}{c|}{} & Szarmach and Czarnowski \cite{2022Szarmach} \\ 
+ \\ 
+ \\ 
+\hline 
+\multicolumn{5}{|c|}{Damaged messages} & \multicolumn{1}{|c|}{Sailing stability} \\ \hline 
+Szarmach and Czarnowski \cite{2022Szarmach} &  &  &  & \multicolumn{1}{c|}{} & Hanyang et al. \cite{2019Hanyang} \\ 
+\hline 
+\multicolumn{5}{|c|}{Sailing stability} & \multicolumn{1}{|c|}{Ship type} \\ \hline 
+Hanyang et al. \cite{2019Hanyang} &  &  &  & \multicolumn{1}{c|}{} & Ljunggren \cite{2018Ljunggren} \\ 
+\hline 
+\multicolumn{5}{|c|}{Ship type} & \multicolumn{1}{|c|}{Damaged messages+Predicting trajectories} \\ \hline 
+Ljunggren \cite{2018Ljunggren} &  &  &  & \multicolumn{1}{c|}{} & Liang et al. \cite{2019Liang} \\ 
+\hline 
+\multicolumn{5}{|c|}{Damaged messages+Predicting trajectories} & \multicolumn{1}{|c|}{Destination port and region+Predicting trajectories} \\ \hline 
+Liang et al. \cite{2019Liang} &  &  &  & \multicolumn{1}{c|}{} & Magnussen et al. \cite{2021Magnussen} \\ 
+\hline 

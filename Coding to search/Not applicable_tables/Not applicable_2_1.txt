@@ -1,0 +1,11 @@
+\hline 
+\multicolumn{2}{|c|}{parametric} & \multicolumn{1}{|c|}{reinforcement} \\ \hline 
+Pohontu et al. \cite{2023Pohontu} & \multicolumn{1}{c|}{Pohontu et al. \cite{2023Pohontu1}} & Hu et al. \cite{2023Hu} \\ 
+ \\ 
+\hline 
+\multicolumn{2}{|c|}{reinforcement} & \multicolumn{1}{|c|}{iGroup-iDetect} \\ \hline 
+Hu et al. \cite{2023Hu} & \multicolumn{1}{c|}{} & Cai et al. \cite{2018Cai} \\ 
+\hline 
+\multicolumn{2}{|c|}{iGroup-iDetect} & \multicolumn{1}{|c|}{Lavielle+filtering} \\ \hline 
+Cai et al. \cite{2018Cai} & \multicolumn{1}{c|}{} & Souza et al. \cite{2016Souza} \\ 
+\hline 

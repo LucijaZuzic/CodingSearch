@@ -1,0 +1,14 @@
+\hline 
+\multicolumn{3}{|c|}{Unusual course+Unusual position+Unusual speed} & \multicolumn{1}{|c|}{Unusual course} \\ \hline 
+Kim et al. \cite{2016Kim} & Zhen et al. \cite{2017Zhen} & \multicolumn{1}{c|}{Kim et al. \cite{kim2019anomalous}} & Hoque and Sharma \cite{2019Hoque} \\ 
+Kim and Jeong \cite{2015Kim} \\ 
+ \\ 
+\hline 
+\multicolumn{3}{|c|}{Unusual course} & \multicolumn{1}{|c|}{Unusual speed} \\ \hline 
+Hoque and Sharma \cite{2019Hoque} & Kim and Jeong \cite{2015Kim} & \multicolumn{1}{c|}{} & Toloue and Jahan \cite{2018Toloue} \\ 
+Loi et al. \cite{2020Loi} \\ 
+\hline 
+\multicolumn{3}{|c|}{Unusual speed} & \multicolumn{1}{|c|}{Unusual position} \\ \hline 
+Toloue and Jahan \cite{2018Toloue} & Loi et al. \cite{2020Loi} & \multicolumn{1}{c|}{} & Zhao and Shi \cite{zhao_shi_2019} \\ 
+ \\ 
+\hline 

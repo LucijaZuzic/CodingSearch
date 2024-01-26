@@ -1,0 +1,20 @@
+GMM & Kraiman et al. \cite{2002Kraiman} \\ \hline 
+KDE & Ristic et al. \cite{2008Ristic} \\ \hline 
+CRF & Auslander et al. \cite{Auslander2012MaritimeTD} \\ \hline 
+BN & Bouejla et al. \cite{BOUEJLA201422}, Lane et al. \cite{2010Lane}, Mascaro et al. \cite{2014Mascaro}, Zhen et al. \cite{2017Zhen}, Handayani et al. \cite{handayani2015anomaly}, Ng et al. \cite{2012Ng} \\ \hline 
+DBN & Castaldo et al. \cite{2014Castaldo} \\ \hline 
+OU & Coraluppi et al. \cite{2016Coraluppi}, Millefiori et al. \cite{2016Millefiori}, d’Afflisio et al. \cite{2021d’Afflisio}, d’Afflisio et al. \cite{2021d’Afflisio1} \\ \hline 
+DBSCAN & Li et al. \cite{Li2017ADR}, Pallotta et al. \cite{2013Pallotta2}, Shahir et al. \cite{2019Shahir}, Wang et al. \cite{2017Wang}, Zhang et al. \cite{ZHANG2021107674}, Zhao and Shi \cite{zhao_shi_2019}, Fernandez Arguedas et al. \cite{2015FernandezArguedas}, Pedroche et al. \cite{2021Pedroche}, Botts \cite{2021Botts}, Li et al. \cite{2023Li}, Sun et al. \cite{2015Sun}, Pallotta and Jousselme \cite{2015Pallotta}, Karatas et al. \cite{2021Karatas}, Fernandez Arguedas et al. \cite{2018FernandezArguedas}, Fernandez Arguedas et al. \cite{2014FernandezArguedas}, Prasad et al. \cite{2021Prasad}, Fu et al. \cite{2017Fu}, Cazzanti and Pallotta \cite{2015Cazzanti}, Lei and Mingchao \cite{2018Lei}, Wei et al. \cite{2022Wei}, Du Toit and Van Vuuren \cite{2014DuToit}, Pallotta et al. \cite{2014Pallotta} \\ \hline 
+GAM & Ford et al. \cite{Ford2018LoiteringWI}, Ford et al. \cite{2018Ford} \\ \hline 
+OSVM & Mazzarella et al. \cite{MAZZARELLA2017110}, Sfyridis et al. \cite{2017Sfyridis} \\ \hline 
+BRNN & Xia and Gao \cite{2020Xia} \\ \hline 
+AE & Liu and Shi \cite{2020Liu}, Hu et al. \cite{2023Hu}, Xie et al. \cite{2023Xie}, Jiang et al. \cite{2016Jiang} \\ \hline 
+K-means & Hanyang et al. \cite{2019Hanyang} \\ \hline 
+DBN+GMM & Dabrowski and de Villiers \cite{DABROWSKI2015116} \\ \hline 
+DBSCAN+GMM & Laxhammar \cite{2008Laxhammar}, Laxhammar et al. \cite{2009Laxhammar} \\ \hline 
+DBSCAN+KDE & Pallotta et al. \cite{2013Pallotta}, Pallotta et al. \cite{2013Pallotta1}, Loi et al. \cite{2020Loi} \\ \hline 
+DBSCAN+MCM & Varlamis et al. \cite{Varlamis2019ANA} \\ \hline 
+DBSCAN+OU & Coscia et al. \cite{2018Coscia1}, d'Afflisio et al. \cite{2018d'Afflisio1}, Coscia et al. \cite{2018Coscia} \\ \hline 
+GMM+KDE & Anneken et al. \cite{2015Anneken} \\ \hline 
+GMM+SOM & Riveiro et al. \cite{2008Riveiro1} \\ \hline 
+BN+GMM+OU & Forti et al. \cite{2022Forti1}, Forti et al. \cite{2019Forti}, Forti et al. \cite{2018Forti}, Forti et al. \cite{2020Forti}, Forti et al. \cite{2022Forti}, Forti et al. \cite{2022Forti2} \\ \hline 

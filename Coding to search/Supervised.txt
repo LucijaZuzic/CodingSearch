@@ -1,0 +1,12 @@
+CNN & Arasteh et al. \cite{2020Arasteh}, Chen et al. \cite{CHEN2020108182}, Milios et al. \cite{2019Milios}, Young \cite{2019Young}, Chen et al. \cite{2023Chen2}, Djenouri et al. \cite{2022Djenouri}, Freitas et al. \cite{2019Freitas}, Czaplewski and Dzwonkowski \cite{2022Czaplewski}, Kroodsma et al. \cite{2018Kroodsma}, Mantecon et al. \cite{2019Mantecon}, Ljunggren \cite{2018Ljunggren} \\ \hline 
+HMM & Auslander et al. \cite{Auslander2012MaritimeTD}, Dogru and Subasi \cite{2018Dogru}, Toloue and Jahan \cite{2018Toloue}, Shahir et al. \cite{2014Shahir}, Du Toit and Van Vuuren \cite{2014DuToit}, Shahir et al. \cite{2015Shahir}, Souza et al. \cite{2016Souza} \\ \hline 
+RF & Auslander et al. \cite{Auslander2012MaritimeTD}, Dogru and Subasi \cite{2018Dogru}, Marzuki et al. \cite{2018Marzuki}, Woodill et al. \cite{Woodill2020PredictingIF}, Szarmach and Czarnowski \cite{2022Szarmach}, Singh and Heymann \cite{2020Singh1}, Liang et al. \cite{2019Liang}, Jiang et al. \cite{2016Jiang} \\ \hline 
+ANN & Dogru and Subasi \cite{2018Dogru}, Singh and Heymann \cite{2020Singh} \\ \hline 
+SVM & Handayani et al. \cite{2013Handayani}, Marzuki et al. \cite{2018Marzuki}, Le and Zheng \cite{Le2016TrajectoryPO}, Fahn et al. \cite{2019Fahn}, Wei et al. \cite{2022Wei}, Shahir et al. \cite{2015Shahir}, Jiang et al. \cite{2016Jiang} \\ \hline 
+LSTM & Hoque and Sharma \cite{2019Hoque}, Zhao and Shi \cite{zhao_shi_2019}, Wang et al. \cite{2023Wang}, Karatas et al. \cite{2021Karatas}, Liang et al. \cite{2019Liang}, Mehri et al. \cite{2021Mehri}, Mehri et al. \cite{2023Mehri} \\ \hline 
+SVR & Kim and Jeong \cite{2015Kim}, Kim et al. \cite{kim2019anomalous}, Kim et al. \cite{2016Kim} \\ \hline 
+GP & Kowalska and Peel \cite{2012Kowalska} \\ \hline 
+VRNN & Nguyen et al. \cite{2018Nguyen}, Nguyen et al. \cite{2022Nguyen}, Nguyen et al. \cite{2020Nguyen} \\ \hline 
+k-NN & Young \cite{2019Young}, Wang et al. \cite{2020Wang2}, Duca et al. \cite{2017Duca}, Huang and Zhang \cite{2019Huang1}, Virjonen et al. \cite{2018Virjonen} \\ \hline 
+GNN & Eljabu et al. \cite{2021Eljabu}, Liu et al. \cite{2022Liu5} \\ \hline 
+RNN & Magnussen et al. \cite{2021Magnussen}, Singh et al. \cite{2022Singh}, Jiang et al. \cite{jiang2017partition} \\ \hline 

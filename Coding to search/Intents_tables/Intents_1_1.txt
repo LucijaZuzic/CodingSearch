@@ -1,0 +1,24 @@
+\hline 
+\multicolumn{1}{|c|}{IUU fishing} & \multicolumn{1}{|c|}{Piracy} \\ \hline 
+\multicolumn{1}{|c|}{Arasteh et al. \cite{2020Arasteh}} & Bouejla et al. \cite{BOUEJLA201422} \\ 
+\multicolumn{1}{|c|}{Ford et al. \cite{Ford2018LoiteringWI}} & Dabrowski and de Villiers \cite{DABROWSKI2015116} \\ 
+\multicolumn{1}{|c|}{Marzuki et al. \cite{2018Marzuki}} &  \\ 
+\multicolumn{1}{|c|}{Shahir et al. \cite{2019Shahir}} &  \\ 
+\multicolumn{1}{|c|}{Woodill et al. \cite{Woodill2020PredictingIF}} &  \\ 
+\multicolumn{1}{|c|}{Young \cite{2019Young}} &  \\ 
+\multicolumn{1}{|c|}{Kroodsma et al. \cite{2018Kroodsma}} &  \\ 
+\multicolumn{1}{|c|}{Souza et al. \cite{2016Souza}} &  \\ 
+\multicolumn{1}{|c|}{Jiang et al. \cite{2016Jiang}} &  \\ 
+\multicolumn{1}{|c|}{Jiang et al. \cite{jiang2017partition}} &  \\ 
+\hline 
+\multicolumn{1}{|c|}{Piracy} & \multicolumn{1}{|c|}{Maritime vessel accidents} \\ \hline 
+\multicolumn{1}{|c|}{Bouejla et al. \cite{BOUEJLA201422}} & Dogru and Subasi \cite{2018Dogru} \\ 
+\multicolumn{1}{|c|}{Dabrowski and de Villiers \cite{DABROWSKI2015116}} & Zhang et al. \cite{ZHANG2021107674} \\ 
+\hline 
+\multicolumn{1}{|c|}{Maritime vessel accidents} & \multicolumn{1}{|c|}{Small vessel attacks} \\ \hline 
+\multicolumn{1}{|c|}{Dogru and Subasi \cite{2018Dogru}} & Auslander et al. \cite{Auslander2012MaritimeTD} \\ 
+\multicolumn{1}{|c|}{Zhang et al. \cite{ZHANG2021107674}} &  \\ 
+\hline 
+\multicolumn{1}{|c|}{Small vessel attacks} & \multicolumn{1}{|c|}{Smuggling} \\ \hline 
+\multicolumn{1}{|c|}{Auslander et al. \cite{Auslander2012MaritimeTD}} & Sfyridis et al. \cite{2017Sfyridis} \\ 
+\hline 

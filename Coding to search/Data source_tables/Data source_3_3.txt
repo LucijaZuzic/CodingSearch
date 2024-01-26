@@ -1,0 +1,68 @@
+\hline 
+\multicolumn{3}{|c|}{AIS} & \multicolumn{3}{|c|}{other} \\ \hline 
+Anneken et al. \cite{2015Anneken} & Arasteh et al. \cite{2020Arasteh} & \multicolumn{1}{c|}{Castaldo et al. \cite{2014Castaldo}} & Auslander et al. \cite{Auslander2012MaritimeTD} & Dogru and Subasi \cite{2018Dogru} & Kim and Jeong \cite{2015Kim} \\ 
+Chen et al. \cite{CHEN2020108182} & Ford et al. \cite{Ford2018LoiteringWI} & \multicolumn{1}{c|}{Ford et al. \cite{2018Ford}} & Kim et al. \cite{kim2019anomalous} & Toloue and Jahan \cite{2018Toloue} & Coraluppi et al. \cite{2016Coraluppi} \\ 
+Handayani et al. \cite{2013Handayani} & Hoque and Sharma \cite{2019Hoque} & \multicolumn{1}{c|}{Kowalska and Peel \cite{2012Kowalska}} & Kim et al. \cite{2016Kim} & Ng et al. \cite{2012Ng} & Le and Zheng \cite{Le2016TrajectoryPO} \\ 
+Lane et al. \cite{2010Lane} & Li et al. \cite{Li2017ADR} & \multicolumn{1}{c|}{Marzuki et al. \cite{2018Marzuki}} & Kraiman et al. \cite{2002Kraiman} & Riveiro et al. \cite{2008Riveiro1} &  \\ 
+Mazzarella et al. \cite{MAZZARELLA2017110} & Nguyen et al. \cite{2018Nguyen} & \multicolumn{1}{c|}{Nguyen et al. \cite{2022Nguyen}} &  &  &  \\ 
+Pallotta et al. \cite{2013Pallotta2} & Sfyridis et al. \cite{2017Sfyridis} & \multicolumn{1}{c|}{Shahir et al. \cite{2019Shahir}} &  &  &  \\ 
+Singh and Heymann \cite{2020Singh} & Varlamis et al. \cite{Varlamis2019ANA} & \multicolumn{1}{c|}{Wang et al. \cite{2017Wang}} &  &  &  \\ 
+Xia and Gao \cite{2020Xia} & Zhao and Shi \cite{zhao_shi_2019} & \multicolumn{1}{c|}{Zhen et al. \cite{2017Zhen}} &  &  &  \\ 
+Fernandez Arguedas et al. \cite{2015FernandezArguedas} & Pedroche et al. \cite{2021Pedroche} & \multicolumn{1}{c|}{Botts \cite{2021Botts}} &  &  &  \\ 
+Laxhammar \cite{2008Laxhammar} & Li et al. \cite{2023Li} & \multicolumn{1}{c|}{Wang et al. \cite{2023Wang}} &  &  &  \\ 
+Wang et al. \cite{2020Wang2} & Liu and Shi \cite{2020Liu} & \multicolumn{1}{c|}{Pohontu et al. \cite{2023Pohontu}} &  &  &  \\ 
+Pohontu et al. \cite{2023Pohontu1} & Sun et al. \cite{2015Sun} & \multicolumn{1}{c|}{Szarmach and Czarnowski \cite{2022Szarmach}} &  &  &  \\ 
+Handayani et al. \cite{handayani2015anomaly} & Duca et al. \cite{2017Duca} & \multicolumn{1}{c|}{Coscia et al. \cite{2018Coscia}} &  &  &  \\ 
+Coscia et al. \cite{2018Coscia1} & Magnussen et al. \cite{2021Magnussen} & \multicolumn{1}{c|}{Singh and Heymann \cite{2020Singh1}} &  &  &  \\ 
+Pallotta and Jousselme \cite{2015Pallotta} & Laxhammar et al. \cite{2009Laxhammar} & \multicolumn{1}{c|}{Karatas et al. \cite{2021Karatas}} &  &  &  \\ 
+Hanyang et al. \cite{2019Hanyang} & Shahir et al. \cite{2014Shahir} & \multicolumn{1}{c|}{Liang et al. \cite{2019Liang}} &  &  &  \\ 
+Hu et al. \cite{2023Hu} & Fernandez Arguedas et al. \cite{2018FernandezArguedas} & \multicolumn{1}{c|}{Fernandez Arguedas et al. \cite{2014FernandezArguedas}} &  &  &  \\ 
+Millefiori et al. \cite{2016Millefiori} & Prasad et al. \cite{2021Prasad} & \multicolumn{1}{c|}{Fu et al. \cite{2017Fu}} &  &  &  \\ 
+Ristic et al. \cite{2008Ristic} & Cazzanti and Pallotta \cite{2015Cazzanti} & \multicolumn{1}{c|}{Nguyen et al. \cite{2020Nguyen}} &  &  &  \\ 
+d’Afflisio et al. \cite{2021d’Afflisio} & Mehri et al. \cite{2021Mehri} & \multicolumn{1}{c|}{Pallotta et al. \cite{2013Pallotta}} &  &  &  \\ 
+Lei and Mingchao \cite{2018Lei} & Singh et al. \cite{2022Singh} & \multicolumn{1}{c|}{Wei et al. \cite{2022Wei}} &  &  &  \\ 
+Kroodsma et al. \cite{2018Kroodsma} & Du Toit and Van Vuuren \cite{2014DuToit} & \multicolumn{1}{c|}{Shahir et al. \cite{2015Shahir}} &  &  &  \\ 
+Pallotta et al. \cite{2014Pallotta} & Xie et al. \cite{2023Xie} & \multicolumn{1}{c|}{d’Afflisio et al. \cite{2021d’Afflisio1}} &  &  &  \\ 
+Huang and Zhang \cite{2019Huang1} & Virjonen et al. \cite{2018Virjonen} & \multicolumn{1}{c|}{Pallotta et al. \cite{2013Pallotta1}} &  &  &  \\ 
+Mantecon et al. \cite{2019Mantecon} & Cai et al. \cite{2018Cai} & \multicolumn{1}{c|}{Souza et al. \cite{2016Souza}} &  &  &  \\ 
+Jiang et al. \cite{2016Jiang} & Jiang et al. \cite{jiang2017partition} & \multicolumn{1}{c|}{Ljunggren \cite{2018Ljunggren}} &  &  &  \\ 
+\hline 
+\multicolumn{3}{|c|}{other} & \multicolumn{3}{|c|}{AIS+radar} \\ \hline 
+Auslander et al. \cite{Auslander2012MaritimeTD} & Dogru and Subasi \cite{2018Dogru} & \multicolumn{1}{c|}{Kim and Jeong \cite{2015Kim}} & Forti et al. \cite{2022Forti1} & d'Afflisio et al. \cite{2018d'Afflisio1} & Forti et al. \cite{2019Forti} \\ 
+Kim et al. \cite{kim2019anomalous} & Toloue and Jahan \cite{2018Toloue} & \multicolumn{1}{c|}{Coraluppi et al. \cite{2016Coraluppi}} & Forti et al. \cite{2018Forti} & Forti et al. \cite{2020Forti} & Forti et al. \cite{2022Forti} \\ 
+Kim et al. \cite{2016Kim} & Ng et al. \cite{2012Ng} & \multicolumn{1}{c|}{Le and Zheng \cite{Le2016TrajectoryPO}} & Forti et al. \cite{2022Forti2} &  &  \\ 
+Kraiman et al. \cite{2002Kraiman} & Riveiro et al. \cite{2008Riveiro1} & \multicolumn{1}{c|}{} &  &  &  \\ 
+\hline 
+\multicolumn{3}{|c|}{AIS+radar} & \multicolumn{3}{|c|}{AIS+environment} \\ \hline 
+Forti et al. \cite{2022Forti1} & d'Afflisio et al. \cite{2018d'Afflisio1} & \multicolumn{1}{c|}{Forti et al. \cite{2019Forti}} & Mehri et al. \cite{2023Mehri} & Mascaro et al. \cite{2014Mascaro} & Woodill et al. \cite{Woodill2020PredictingIF} \\ 
+Forti et al. \cite{2018Forti} & Forti et al. \cite{2020Forti} & \multicolumn{1}{c|}{Forti et al. \cite{2022Forti}} & Zhang et al. \cite{ZHANG2021107674} &  &  \\ 
+Forti et al. \cite{2022Forti2} &  & \multicolumn{1}{c|}{} &  &  &  \\ 
+\hline 
+\multicolumn{3}{|c|}{AIS+environment} & \multicolumn{3}{|c|}{camera} \\ \hline 
+Mehri et al. \cite{2023Mehri} & Mascaro et al. \cite{2014Mascaro} & \multicolumn{1}{c|}{Woodill et al. \cite{Woodill2020PredictingIF}} & Djenouri et al. \cite{2022Djenouri} & Freitas et al. \cite{2019Freitas} & Czaplewski and Dzwonkowski \cite{2022Czaplewski} \\ 
+Zhang et al. \cite{ZHANG2021107674} &  & \multicolumn{1}{c|}{} &  &  &  \\ 
+\hline 
+\multicolumn{3}{|c|}{camera} & \multicolumn{3}{|c|}{AIS+other} \\ \hline 
+Djenouri et al. \cite{2022Djenouri} & Freitas et al. \cite{2019Freitas} & \multicolumn{1}{c|}{Czaplewski and Dzwonkowski \cite{2022Czaplewski}} & Liu et al. \cite{2022Liu5} & Eljabu et al. \cite{2021Eljabu} &  \\ 
+\hline 
+\multicolumn{3}{|c|}{AIS+other} & \multicolumn{3}{|c|}{radar} \\ \hline 
+Liu et al. \cite{2022Liu5} & Eljabu et al. \cite{2021Eljabu} & \multicolumn{1}{c|}{} & Loi et al. \cite{2020Loi} &  &  \\ 
+\hline 
+\multicolumn{3}{|c|}{radar} & \multicolumn{3}{|c|}{SAR} \\ \hline 
+Loi et al. \cite{2020Loi} &  & \multicolumn{1}{c|}{} & Fahn et al. \cite{2019Fahn} &  &  \\ 
+\hline 
+\multicolumn{3}{|c|}{SAR} & \multicolumn{3}{|c|}{satellite} \\ \hline 
+Fahn et al. \cite{2019Fahn} &  & \multicolumn{1}{c|}{} & Young \cite{2019Young} &  &  \\ 
+\hline 
+\multicolumn{3}{|c|}{satellite} & \multicolumn{3}{|c|}{AIS+Beidou} \\ \hline 
+Young \cite{2019Young} &  & \multicolumn{1}{c|}{} & Chen et al. \cite{2023Chen2} &  &  \\ 
+\hline 
+\multicolumn{3}{|c|}{AIS+Beidou} & \multicolumn{3}{|c|}{AIS+SAR} \\ \hline 
+Chen et al. \cite{2023Chen2} &  & \multicolumn{1}{c|}{} & Milios et al. \cite{2019Milios} &  &  \\ 
+\hline 
+\multicolumn{3}{|c|}{AIS+SAR} & \multicolumn{3}{|c|}{environment+other} \\ \hline 
+Milios et al. \cite{2019Milios} &  & \multicolumn{1}{c|}{} & Dabrowski and de Villiers \cite{DABROWSKI2015116} &  &  \\ 
+\hline 
+\multicolumn{3}{|c|}{environment+other} & \multicolumn{3}{|c|}{AIS+camera+radar} \\ \hline 
+Dabrowski and de Villiers \cite{DABROWSKI2015116} &  & \multicolumn{1}{c|}{} & Bouejla et al. \cite{BOUEJLA201422} &  &  \\ 
+\hline 

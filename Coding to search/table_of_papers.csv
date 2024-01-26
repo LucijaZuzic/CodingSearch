@@ -1,0 +1,155 @@
+Title,Author,Year,Reference,Supervised,Macro-level detections,Detected threat,Position,Speed,Course,Status,Vessel ID,Heading,Time,Algorithm,Data
+Evaluation and comparison of anomaly detection algorithms in annotated datasets from the maritime domain,Anneken et al.,2015,2015Anneken,NO,Abnormal behaviors,Unusual vessel trajectories,YES,YES,YES,YES,NO,NULL,NULL,GMM KDE,AIS
+Fishing vessels activity detection from longitudinal AIS data,Arasteh et al.,2020,2020Arasteh,YES,Intents,IUU fishing,YES,YES,YES,NO,NO,NO,NO,CNN,AIS
+Fishing vessels activity detection from longitudinal AIS data,Arasteh et al.,2020,2020Arasteh,NO,Abnormal behaviors,Unusual vessel trajectories,YES,YES,YES,YES,NO,NULL,NULL,CNN,AIS
+Maritime threat detection using probabilistic graphical models,Auslander et al.,2012,Auslander2012MaritimeTD,NO,Intents,Small vessel attacks,YES,YES,YES,YES,YES,NULL,NULL,CRF HMM,other
+Maritime threat detection using probabilistic graphical models,Auslander et al.,2012,Auslander2012MaritimeTD,YES,Intents,Small vessel attacks,YES,YES,NO,YES,YES,YES,YES,CRF HMM,other
+Maritime threat detection using probabilistic graphical models,Auslander et al.,2012,Auslander2012MaritimeTD,NO,Abnormal behaviors,Unusual vessel trajectories,YES,YES,YES,YES,NO,NULL,NULL,RF HMM,other
+A Bayesian network to manage risks of maritime piracy against offshore oil fields,Bouejla et. al,2014,BOUEJLA201422,NO,Intents,Piracy,YES,YES,YES,NO,YES,NULL,NULL,BN,radar camera AIS
+Abnormal vessel behavior detection in port areas based on dynamic Bayesian networks,Castaldo et al.,2014,2014Castaldo,NO,Abnormal behaviors,Unusual stop,YES,YES,YES,YES,NO,NULL,NULL,DBN,AIS
+Abnormal vessel behavior detection in port areas based on dynamic Bayesian networks,Castaldo et al.,2014,2014Castaldo,NO,Abnormal behaviors,Zig-zag movement,YES,YES,YES,YES,NO,NULL,NULL,DBN,AIS
+Abnormal vessel behavior detection in port areas based on dynamic Bayesian networks,Castaldo et al.,2014,2014Castaldo,NO,Abnormal behaviors,Wrong dock,YES,YES,YES,YES,NO,NULL,NULL,DBN,AIS
+A ship movement classification based on automatic identification system (AIS) data using convolutional neural network,Chen et al.,2020,CHEN2020108182,YES,Abnormal behaviors,Unusual vessel trajectories,YES,YES,YES,YES,YES,YES,YES,CNN,AIS
+Detecting anomalous deviations from standard maritime routes using the Ornstein-Uhlenbeck process,d'Afflisio et al.,2018,2018d'Afflisio1,NO,Abnormal behaviors,Unusual AIS behavior,YES,YES,YES,YES,YES,NULL,NULL,OU DBSCAN,AIS radar
+Maritime piracy situation modelling with dynamic Bayesian networks,Dabrowski and De Villiers,2015,DABROWSKI2015116,NO,Intents,Piracy,YES,YES,YES,NO,YES,NULL,NULL,GMM DBN,other environment
+Traffic accident detection using random forest classifier,Dogru and Subasi,2018,2018Dogru,YES,Intents,Maritime vessel accidents,YES,YES,YES,YES,NO,NULL,NULL,ANN RF HMM,other
+Loitering with intent-catching the outlier vessels at sea,Ford et. al,2018,Ford2018LoiteringWI,NO,Intents,IUU fishing,YES,YES,NO,NO,NO,NULL,NULL,GAM,AIS
+Loitering with intent-catching the outlier vessels at sea,Ford et. al,2018,Ford2018LoiteringWI,NO,Abnormal behaviors,Illegal zone entry,YES,YES,YES,NO,NO,NULL,NULL,GAM,AIS
+Detecting suspicious activities at sea based on anomalies in automatic identification systems transmissions,Ford et. al,2018,2018Ford,NO,Abnormal behaviors,Unusual AIS behavior,YES,YES,YES,YES,YES,NULL,NULL,GAM,AIS
+Anomaly detection in vessel tracking using support vector machines (SVMs),Handayani et al.,2013,2013Handayani,YES,Abnormal behaviors,U turn,YES,YES,YES,YES,YES,YES,YES,SVM,AIS
+Anomaly detection in vessel tracking using support vector machines (SVMs),Handayani et al.,2013,2013Handayani,YES,Abnormal behaviors,Unusual stop,YES,YES,YES,YES,YES,YES,YES,SVM,AIS
+Ensembled deep learning approach for maritime anomaly detection system,Hoque and Sharma,2020,2019Hoque,YES,Abnormal activities,Unusual course,YES,YES,YES,NO,NO,YES,YES,LSTM,AIS
+Ensembled deep learning approach for maritime anomaly detection system,Hoque and Sharma,2020,2019Hoque,NO,Abnormal behaviors,Unusual vessel trajectories,YES,YES,YES,YES,NO,NULL,NULL,LSTM,AIS
+Pattern recognition of ship navigational data using support vector machine,Kim and Jeong,2015,2015Kim,YES,Abnormal activities,Unusual course,YES,YES,YES,NO,NO,YES,YES,SVR,other
+Anomalous vessel behavior detection based on SVR seaway mode,Kim et al.,2019,kim2019anomalous,YES,Abnormal activities,Unusual position,YES,NO,NO,NO,NO,NO,NO,SVR,other
+Anomalous vessel behavior detection based on SVR seaway mode,Kim et al.,2019,kim2019anomalous,YES,Abnormal activities,Unusual speed,NO,YES,NO,NO,NO,NO,NO,SVR,other
+Anomalous vessel behavior detection based on SVR seaway mode,Kim et al.,2019,kim2019anomalous,YES,Abnormal activities,Unusual course,YES,YES,YES,NO,NO,YES,YES,SVR,other
+Maritime anomaly detection using Gaussian process active learning,Kowalska and Peel,2012,2012Kowalska,NO,Abnormal behaviors,Unusual AIS behavior,YES,YES,YES,YES,YES,NULL,NULL,GP,AIS
+Maritime anomaly detection and threat assessment,Lane et al.,2010,2010Lane,NO,Abnormal behaviors,Unexpected port arrival,YES,YES,YES,NO,NO,NULL,NULL,BN,AIS
+Maritime anomaly detection and threat assessment,Lane et al.,2010,2010Lane,NO,Abnormal behaviors,Close approach,YES,YES,YES,NO,NO,NULL,NULL,BN,AIS
+Maritime anomaly detection and threat assessment,Lane et al.,2010,2010Lane,NO,Abnormal behaviors,Illegal zone entry,YES,YES,YES,NO,NO,NULL,NULL,BN,AIS
+Maritime anomaly detection and threat assessment,Lane et al.,2010,2010Lane,NO,Abnormal behaviors,Unusual AIS behavior,YES,YES,YES,YES,YES,NULL,NULL,BN,AIS
+A dimensionality reduction-based multi-step clustering method for robust vessel trajectory analysis,Li et al.,2017,Li2017ADR,NO,Abnormal behaviors,Unusual vessel trajectories,YES,YES,YES,YES,NO,NULL,NULL,DBSCAN,AIS
+Fishing gear identification from vessel-monitoring-system based fishing vessel trajectories,Marzuki et. al,2017,2018Marzuki,YES,Intents,IUU fishing,YES,YES,NO,NO,NO,NULL,NULL,SVM RF,AIS
+Fishing gear identification from vessel-monitoring-system based fishing vessel trajectories,Marzuki et. al,2017,2018Marzuki,YES,Abnormal behaviors,Illegal zone entry,YES,YES,YES,NO,NO,NULL,NULL,SVM RF,AIS
+Anomaly detection in vessel tracks using Bayesian networks,Mascaro et al.,2014,2014Mascaro,NO,Abnormal behaviors,Unusual vessel trajectories,YES,YES,YES,YES,NO,NULL,NULL,BN,AIS environment
+A novel anomaly detection approach to identify intenational AIS on-off switching,Mazzarrella et al.,2017,MAZZARELLA2017110,YES,Abnormal behaviors,Unusual AIS behavior,YES,YES,YES,YES,YES,NULL,NULL,OSVM,AIS
+Automatic fusion of satellite imagery and AIS data for vessel detection,Milios et al.,2019,2019Milios,YES,Abnormal behaviors,Unusual AIS behavior,YES,YES,YES,YES,YES,NULL,NULL,CNN,AIS SAR
+A multi-task deep learning architecture for maritime surveillance using AIS data stream,Nguyen et al.,2018,2018Nguyen,YES,Abnormal behaviors,Unusual vessel trajectories,YES,YES,YES,YES,NO,NULL,NULL,VRNN,AIS
+A multi-task deep learning architecture for maritime surveillance using AIS data stream,Nguyen et al.,2018,2018Nguyen,YES,Abnormal behaviors,Illegal zone entry,YES,YES,YES,NO,NO,NULL,NULL,VRNN,AIS
+GeoTrackNet–a maritime anomaly detector using probabilistic neural network representation of AIS tracks and a contrario detection,Nguyen et al.,2021,2022Nguyen,YES,Abnormal behaviors,Unusual vessel trajectories,YES,YES,YES,YES,NO,NULL,NULL,VRNN,AIS
+Traffic route extraction and anomaly detection from AIS data,Pallotta et al.,2013,2013Pallotta2,NO,Abnormal behaviors,Unusual vessel trajectories,YES,YES,YES,YES,NO,NULL,NULL,DBSCAN,AIS
+Detecting vessels carrying migrants using machine learning,Sfyridis et. al,2017,2017Sfyridis,YES,Intents,Smuggling,YES,YES,YES,NO,NO,NULL,NULL,OSVM,AIS
+Mining vessell trajectories for illegal fishing detection,Shahir et. al,2019,2019Shahir,NO,Intents,IUU fishing,YES,YES,NO,NO,NO,NULL,NULL,DBSCAN,AIS
+Mining vessell trajectories for illegal fishing detection,Shahir et. al,2019,2019Shahir,NO,Abnormal behaviors,Unusual vessel trajectories,YES,YES,YES,YES,NO,NULL,NULL,DBSCAN,AIS
+Mining vessell trajectories for illegal fishing detection,Shahir et. al,2019,2019Shahir,NO,Abnormal behaviors,Unusual AIS behavior,YES,YES,YES,YES,YES,NULL,NULL,DBSCAN,AIS
+Machine learning-assisted anomaly detection in maritime navigation using AIS data,Singh and Heymann,2020,2020Singh,NO,Abnormal behaviors,Unusual AIS behavior,YES,YES,YES,YES,YES,NULL,NULL,ANN,AIS
+Anomalous behavior detection of marine vessels based on hidden Markov model,Toloue and Jahan,2018,2018Toloue,YES,Abnormal behaviors,Spiral movement,NO,YES,NO,NO,NO,NO,NO,HMM,other
+Anomalous behavior detection of marine vessels based on hidden Markov model,Toloue and Jahan,2018,2018Toloue,YES,Abnormal behaviors,Drift,NO,YES,NO,NO,NO,NO,NO,HMM,other
+Anomalous behavior detection of marine vessels based on hidden Markov model,Toloue and Jahan,2018,2018Toloue,YES,Abnormal behaviors,Unusual stop,YES,YES,YES,YES,YES,YES,YES,HMM,other
+Anomalous behavior detection of marine vessels based on hidden Markov model,Toloue and Jahan,2018,2018Toloue,YES,Abnormal activities,Unusual speed,NO,YES,NO,NO,NO,NO,NO,HMM,other
+Abnormal moving speed detection using combination of kernel density estimator and DBSCAN for coastal surveillance radars,Van Loi et al.,2020,2020Loi,NO,Abnormal activities,Unusual speed,YES,YES,NO,YES,YES,NULL,NULL,KDE DBSCAN,radar 
+A network abstraction of multi-vessel trajectory data for detecting anomalies,Varlamis et al.,2019,Varlamis2019ANA,NO,Abnormal behaviors,Unusual stop,YES,YES,YES,YES,NO,NULL,NULL,DBSCAN MCM,AIS
+TraSeer: a visual analytics tool for vessel movements in the coastal areas,Wang et al.,2017,2017Wang,NO,Abnormal behaviors,Unusual vessel trajectories,YES,YES,YES,YES,NO,NULL,NULL,DBSCAN,AIS
+Predicting illegal fishing on the Patagonia Shelf from oceanographic seascape,Woodill et al.,2020,Woodill2020PredictingIF,YES,Intents,IUU fishing,YES,YES,YES,NO,NO,NO,NO,RF,AIS environment
+Predicting illegal fishing on the Patagonia Shelf from oceanographic seascape,Woodill et al.,2020,Woodill2020PredictingIF,NO,Abnormal behaviors,Illegal zone entry,YES,YES,YES,NO,NO,NULL,NULL,RF,AIS environment
+Analysis of vessel anomalous behavior based on Bayesian recurrent neural network,Xia and Gao,2020,2020Xia,NO,Abnormal behaviors,U turn,YES,YES,YES,NO,NO,NULL,NULL,BRNN,AIS
+Analysis of vessel anomalous behavior based on Bayesian recurrent neural network,Xia and Gao,2020,2020Xia,NO,Abnormal behaviors,Zig-zag movement,YES,YES,YES,YES,NO,NULL,NULL,BRNN,AIS
+"Deep nets spotlight illegal, unreported, unregulated (IUU) fishing",Young,2019,2019Young,NO,Intents,IUU fishing,YES,YES,NO,NO,NO,NULL,NULL,CNN k-NN,satellite
+"Deep nets spotlight illegal, unreported, unregulated (IUU) fishing",Young,2019,2019Young,NO,Abnormal behaviors,Unusual AIS behavior,YES,YES,YES,YES,YES,NULL,NULL,CNN k-NN,satellite
+A big data analytics method for the evaluation of ship-ship collision risk reflecting hydrometeorological conditions,Zhang et al.,2021,ZHANG2021107674,NO,Intents,Maritime vessel accidents,YES,YES,YES,YES,NO,NULL,NULL,DBSCAN,AIS environment
+A big data analytics method for the evaluation of ship-ship collision risk reflecting hydrometeorological conditions,Zhang et al.,2021,ZHANG2021107674,NO,Abnormal behaviors,Unusual vessel trajectories,YES,YES,YES,YES,NO,NULL,NULL,DBSCAN,AIS environment
+Maritime anomaly detection using density-based clustering and recurrent neural network,Zhao and Shi,2019,zhao_shi_2019,NO,Abnormal activities,Unusual position,YES,NO,NO,YES,NO,NULL,NULL,LSTM DBSCAN,AIS
+Maritime anomaly detection within coastal waters based on vessel trajectory clustering and naïve Bayes classifier,Zhen et al.,2017,2017Zhen,NO,Abnormal activities,Unusual position,YES,NO,NO,YES,NO,NULL,NULL,BN,AIS
+Maritime anomaly detection within coastal waters based on vessel trajectory clustering and naïve Bayes classifier,Zhen et al.,2017,2017Zhen,NO,Abnormal activities,Unusual speed,YES,YES,NO,YES,YES,NULL,NULL,BN,AIS
+Maritime anomaly detection within coastal waters based on vessel trajectory clustering and naïve Bayes classifier,Zhen et al.,2017,2017Zhen,NO,Abnormal activities,Unusual course,YES,NO,YES,YES,NO,NULL,NULL,BN,AIS
+Spatio-temporal data mining for maritime situational awareness,"Fernandez Arguedas, V. et al.",,2015FernandezArguedas,NO,Abnormal behaviors,Unusual vessel trajectories,YES,YES,YES,NO,NULL,NULL,NULL,DBSCAN,AIS
+Spatio-temporal data mining for maritime situational awareness,"Fernandez Arguedas, V. et al.",,2015FernandezArguedas,NO,Abnormal behaviors,Predicting trajectories,YES,YES,YES,YES,NULL,NULL,NULL,DBSCAN,AIS
+Clustering of maritime trajectories with AIS features for context learning,"Pedroche, D. S et al.",,2021Pedroche,NO,Abnormal behaviors,Unusual vessel trajectories,YES,YES,YES,NO,NULL,NULL,NULL,DBSCAN,AIS
+A Novel Metric for Detecting Anomalous Ship Behavior Using a Variation of the DBSCAN Clustering Algorithm,"Botts, C. H.",,2021Botts,NO,Abnormal behaviors,Unusual vessel trajectories,YES,YES,YES,NO,NULL,NULL,NULL,DBSCAN,AIS
+Anomaly detection for sea surveillance,"Laxhammar, R.",,2008Laxhammar,NO,Abnormal behaviors,Unusual vessel trajectories,YES,YES,YES,NO,NULL,NULL,NULL,GMM DBSCAN,AIS
+A Novel Hybrid Approach for Detecting Abnormal Vessel Behavior in Maritime Traffic,"Li, J. et al.",,2023Li,NO,Abnormal behaviors,Unusual vessel trajectories,YES,YES,YES,NO,NULL,NULL,NULL,DBSCAN,AIS
+Interval prediction of vessel trajectory based on lower and upper bound estimation and attention-modified LSTM with bayesian optimization,"Wang, Y. et al.",,2023Wang,NO,Abnormal behaviors,Predicting trajectories,YES,YES,YES,YES,NULL,NULL,NULL,LSTM,AIS
+,,,2020Wang2,NO,Abnormal behaviors,Predicting trajectories,YES,YES,YES,YES,NULL,NULL,NULL,k-NN,AIS
+,,,2020Liu,NO,Abnormal activities,Unusual vessel trajectories,YES,YES,YES,NO,NULL,NULL,NULL,AE,AIS
+,,,2023Pohontu,NO,Abnormal activities,Navigation status,NO,NO,NO,YES,NO,NO,YES,parametric,AIS
+,,,2023Pohontu1,NO,Abnormal activities,Navigation status,NO,NO,NO,YES,NO,NO,YES,parametric,AIS
+,,,2016Coraluppi,NO,Abnormal behaviors,Unusual vessel trajectories,YES,YES,YES,YES,NULL,NULL,NULL,OU,other
+,,,2021Eljabu,NO,Abnormal behaviors,Unusual vessel trajectories,YES,YES,YES,YES,NULL,NULL,NULL,GNN ,AIS other
+,,,2015Sun,NO,Abnormal behaviors,Unusual vessel trajectories,YES,YES,YES,YES,NULL,NULL,NULL,DBSCAN,AIS
+,,,2022Szarmach,,,Damaged messages,YES,YES,YES,YES,YES,YES,NO,RF,AIS
+,,,handayani2015anomaly,,,Unusual vessel trajectories,YES,YES,YES,NO,NULL,NULL,NULL,BN,AIS
+,,,2017Duca,,,Predicting trajectories,YES,YES,YES,YES,NULL,NULL,NULL,k-NN,AIS
+,,,2018Coscia,,,Unusual vessel trajectories,YES,YES,YES,NO,NULL,NULL,NULL,OU DBSCAN,AIS
+,,,2018Coscia1,,,Unusual vessel trajectories,YES,YES,YES,NO,NULL,NULL,NULL,OU DBSCAN,AIS
+,,,2023Chen2,,,Unusual vessel trajectories,YES,YES,YES,NO,NULL,NULL,NULL,CNN,AIS Beidou
+,,,2021Magnussen,,,Destination port and region,YES,YES,YES,YES,NULL,NULL,NULL,RNN,AIS
+,,,2021Magnussen,,,Predicting trajectories,YES,YES,YES,YES,NULL,NULL,NULL,RNN,AIS
+,,,2020Singh1,,,Unusual AIS behavior,YES,YES,YES,YES,YES,NULL,NULL,RF,AIS
+,,,2015Pallotta,NO,,Unusual vessel trajectories,YES,YES,YES,YES,NULL,NULL,NULL,DBSCAN,AIS
+,,,2022Djenouri,,,Object detection,NO,NO,NO,NO,NO,NO,NO,CNN,camera
+,,,2016Kim,,,Unusual position,YES,NO,NO,NO,NO,NO,NO,SVR,other
+,,,2016Kim,,,Unusual speed,NO,YES,NO,NO,NO,NO,NO,SVR,other
+,,,2016Kim,,,Unusual course,NO,NO,YES,NO,NO,NO,NO,SVR,other
+,,,2009Laxhammar,,,Unusual vessel trajectories,YES,YES,YES,NO,NULL,NULL,NULL,GMM DBSCAN,AIS
+,,,2019Freitas,,,Object detection,NO,NO,NO,NO,NO,NO,NO,CNN,camera
+,,,2022Liu5,,,Unusual vessel trajectories,YES,YES,YES,NO,NULL,NULL,NULL,GNN,AIS other
+,,,2012Ng,,,Unusual vessel trajectories,YES,YES,YES,NO,NULL,NULL,NULL,BN,other
+,,,2018Forti,,,Unusual vessel trajectories,YES,YES,YES,YES,NULL,NULL,NULL,GMM BN OU,AIS radar
+,,,2019Forti,,,Unusual vessel trajectories,YES,YES,YES,YES,NULL,NULL,NULL,GMM BN OU,AIS radar
+,,,2020Forti,,,Unusual vessel trajectories,YES,YES,YES,YES,NULL,NULL,NULL,GMM BN OU,AIS radar
+,,,2022Forti,,,Unusual vessel trajectories,YES,YES,YES,YES,NULL,NULL,NULL,GMM BN OU,AIS radar
+,,,2022Forti1,,,Unusual vessel trajectories,YES,YES,YES,YES,NULL,NULL,NULL,GMM BN OU,AIS radar
+,,,2022Forti2,,,Unusual vessel trajectories,YES,YES,YES,YES,NULL,NULL,NULL,GMM BN OU,AIS radar
+,,,Le2016TrajectoryPO,,,Predicting trajectories,YES,YES,YES,YES,NULL,NULL,NULL,SVM,other
+,,,Le2016TrajectoryPO,,,Unusual vessel trajectories,YES,YES,YES,YES,NULL,NULL,NULL,SVM,other
+,,,2021Karatas,,,Unusual vessel trajectories,YES,YES,YES,YES,NULL,NULL,NULL,DBSCAN LSTM,AIS
+,,,2021Karatas,,,Predicting trajectories,YES,YES,YES,YES,NULL,NULL,NULL,DBSCAN LSTM,AIS
+,,,2019Fahn,,,Object detection,NO,NO,NO,NO,NO,NO,NO,SVM,SAR
+,,,2019Hanyang,,,Sailing stability,NO,YES,YES,NO,NO,NO,NO,K-means,AIS
+,,,2014Shahir,,,Unusual vessel trajectories,YES,YES,YES,NO,NULL,NULL,NULL,HMM,AIS
+,,,2019Liang,,,Damaged messages,YES,YES,YES,YES,NULL,NULL,NULL,RF,AIS
+,,,2019Liang,,,Predicting trajectories,YES,YES,YES,YES,NULL,NULL,NULL,LSTM,AIS
+,,,2023Hu,,,Unusual vessel trajectories,YES,YES,YES,NO,NULL,NULL,NULL,AE reinforcement,AIS
+,,,2018FernandezArguedas,,,Unusual vessel trajectories,YES,YES,YES,NO,NULL,NULL,NULL,DBSCAN,AIS
+,,,2018FernandezArguedas,,,Predicting trajectories,YES,YES,YES,YES,NULL,NULL,NULL,DBSCAN,AIS
+,,,2014FernandezArguedas,,,Unusual vessel trajectories,YES,YES,YES,NO,NULL,NULL,NULL,DBSCAN,AIS
+,,,2014FernandezArguedas,,,Predicting trajectories,YES,YES,YES,YES,NULL,NULL,NULL,DBSCAN,AIS
+,,,2016Millefiori,,,Unusual vessel trajectories,YES,YES,YES,NO,NULL,NULL,NULL,OU,AIS
+,,,2021Prasad,,,Unusual vessel trajectories,YES,YES,YES,NO,NULL,NULL,NULL,DBSCAN,AIS
+,,,2021Prasad,,,Unusual AIS behavior,YES,YES,YES,YES,YES,NULL,NULL,DBSCAN,AIS
+,,,2017Fu,,,Unusual vessel trajectories,YES,YES,YES,YES,YES,NULL,NULL,DBSCAN,AIS
+,,,2008Ristic,,,Predicting trajectories,YES,YES,YES,YES,NULL,NULL,NULL,KDE,AIS
+,,,2008Ristic,,,Unusual vessel trajectories,YES,YES,YES,YES,NULL,NULL,NULL,KDE,AIS
+,,,2015Cazzanti,,,Loitering,YES,YES,YES,NO,NO,NULL,NULL,DBSCAN,AIS
+,,,2020Nguyen,YES,Abnormal behaviors,Unusual vessel trajectories,YES,YES,YES,YES,NO,NULL,NULL,VRNN,AIS
+,,,2021d’Afflisio,,,Unusual AIS behavior,YES,YES,YES,YES,YES,NULL,NULL,OU,AIS
+,,,2021Mehri,,,Predicting trajectories,YES,YES,YES,YES,NULL,NULL,NULL,LSTM,AIS
+,,,2013Pallotta,NO,,Unusual vessel trajectories,YES,YES,YES,YES,NULL,NULL,NULL,KDE DBSCAN,AIS
+,,,2018Lei,,,Unusual vessel trajectories,YES,YES,YES,YES,NULL,NULL,NULL,DBSCAN,AIS
+,,,2002Kraiman,,,Unusual vessel trajectories,YES,YES,YES,YES,NULL,NULL,NULL,GMM,other
+,,,2022Czaplewski,,,Object detection,NO,NO,NO,NO,NO,NO,NO,CNN,camera
+,,,2008Riveiro1,,,Unusual vessel trajectories,YES,YES,YES,YES,NULL,NULL,NULL,GMM SOM,other
+,,,2022Singh,,,Predicting trajectories,YES,YES,YES,YES,NULL,NULL,NULL,RNN,AIS
+,,,2022Singh,,,Unusual vessel trajectories,YES,YES,YES,YES,NULL,NULL,NULL,RNN,AIS
+,,,2022Wei,,,Unusual vessel trajectories,YES,YES,YES,YES,NULL,NULL,NULL,DBSCAN SVM,AIS
+,,,2018Kroodsma,,,IUU fishing,YES,YES,YES,,,,,CNN,AIS
+,,,2014DuToit,,,Unusual vessel trajectories,YES,YES,YES,YES,NULL,NULL,NULL,HMM DBSCAN,AIS
+,,,2015Shahir,,,Unusual vessel trajectories,YES,YES,YES,YES,NULL,NULL,NULL,HMM SVM,AIS
+,,,2023Mehri,,,Predicting trajectories,YES,YES,YES,YES,NULL,NULL,NULL,LSTM,AIS environment
+,,,2014Pallotta,NO,,Unusual vessel trajectories,YES,YES,YES,YES,NULL,NULL,NULL,DBSCAN,AIS
+,,,2023Xie,,,Unusual vessel trajectories,YES,YES,YES,YES,NULL,NULL,NULL,AE,AIS
+,,,2021d’Afflisio1,,,Unusual AIS behavior,YES,YES,YES,YES,YES,NULL,NULL,OU,AIS
+,,,2019Huang1,,,Unusual vessel trajectories,YES,YES,YES,YES,NULL,NULL,NULL,k-NN,AIS
+,,,2018Virjonen,,,Predicting trajectories,YES,YES,YES,YES,NULL,NULL,NULL,k-NN,AIS
+,,,2013Pallotta1,NO,,Unusual vessel trajectories,YES,YES,YES,YES,NULL,NULL,NULL,KDE DBSCAN,AIS
+,,,2019Mantecon,,,Navigation status,NO,YES,YES,NO,NO,NO,NO,CNN,AIS
+,,,2018Cai,,,Unusual vessel trajectories,YES,YES,YES,YES,NULL,NULL,NULL,iGroup-iDetect,AIS 
+,,,2016Souza,,,IUU fishing,NO,YES,NO,,,,NO,HMM,AIS 
+,,,2016Souza,,,IUU fishing,NO,YES,NO,,,,YES,Lavielle,AIS 
+,,,2016Souza,,,IUU fishing,NO,YES,NO,,,,YES,filtering,AIS 
+,,,2016Jiang,,,IUU fishing,YES,NO,NO,,,,,AE,AIS 
+,,,2016Jiang,,,IUU fishing,YES,NO,NO,,,,,SVM,AIS 
+,,,2016Jiang,,,IUU fishing,YES,NO,NO,,,,,RF,AIS 
+,,,jiang2017partition,,,IUU fishing,YES,YES,YES,,,,,RNN,AIS 
+,,,2018Ljunggren,,,Ship type,YES,YES,YES,,,,,CNN,AIS 

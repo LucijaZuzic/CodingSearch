@@ -1,0 +1,4 @@
+Unusual course & Hoque and Sharma \cite{2019Hoque}, Kim and Jeong \cite{2015Kim} \\ \hline 
+Unusual position & Zhao and Shi \cite{zhao_shi_2019} \\ \hline 
+Unusual speed & Toloue and Jahan \cite{2018Toloue}, Loi et al. \cite{2020Loi} \\ \hline 
+Unusual course+Unusual position+Unusual speed & Kim et al. \cite{2016Kim}, Zhen et al. \cite{2017Zhen}, Kim et al. \cite{kim2019anomalous} \\ \hline 
