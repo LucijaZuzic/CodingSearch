@@ -25,7 +25,7 @@ d’Afflisio et al. \cite{2021d’Afflisio} & d’Afflisio et al. \cite{2021d’
 Ford et al. \cite{Ford2018LoiteringWI} & Marzuki et al. \cite{2018Marzuki} & Woodill et al. \cite{Woodill2020PredictingIF} &  \\ 
 \hline 
 \multicolumn{4}{|c|}{Unusual AIS behavior+Unusual vessel trajectories} \\ \hline 
-Prasad et al. \cite{2021Prasad} & Shahir et al. \cite{2019Shahir} &  &  \\ 
+Shahir et al. \cite{2019Shahir} & Prasad et al. \cite{2021Prasad} &  &  \\ 
 \hline 
 \multicolumn{4}{|c|}{Unusual stop} \\ \hline 
 Varlamis et al. \cite{Varlamis2019ANA} &  &  &  \\ 

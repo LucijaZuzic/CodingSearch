@@ -26,12 +26,12 @@ iGroup-iDetect & Cai et al. \cite{2018Cai} \\ \hline
 AE+reinforcement & Hu et al. \cite{2023Hu} \\ \hline 
 CNN+k-NN & Young \cite{2019Young} \\ \hline 
 DBN+GMM & Dabrowski and de Villiers \cite{DABROWSKI2015116} \\ \hline 
-DBSCAN+GMM & Laxhammar \cite{2008Laxhammar}, Laxhammar et al. \cite{2009Laxhammar} \\ \hline 
+DBSCAN+GMM & Laxhammar et al. \cite{2009Laxhammar}, Laxhammar \cite{2008Laxhammar} \\ \hline 
 DBSCAN+HMM & Du Toit and Van Vuuren \cite{2014DuToit} \\ \hline 
-DBSCAN+KDE & Pallotta et al. \cite{2013Pallotta}, Pallotta et al. \cite{2013Pallotta1}, Loi et al. \cite{2020Loi} \\ \hline 
-DBSCAN+LSTM & Karatas et al. \cite{2021Karatas}, Zhao and Shi \cite{zhao_shi_2019} \\ \hline 
+DBSCAN+KDE & Loi et al. \cite{2020Loi}, Pallotta et al. \cite{2013Pallotta}, Pallotta et al. \cite{2013Pallotta1} \\ \hline 
+DBSCAN+LSTM & Zhao and Shi \cite{zhao_shi_2019}, Karatas et al. \cite{2021Karatas} \\ \hline 
 DBSCAN+MCM & Varlamis et al. \cite{Varlamis2019ANA} \\ \hline 
-DBSCAN+OU & Coscia et al. \cite{2018Coscia1}, d'Afflisio et al. \cite{2018d'Afflisio1}, Coscia et al. \cite{2018Coscia} \\ \hline 
+DBSCAN+OU & Coscia et al. \cite{2018Coscia1}, Coscia et al. \cite{2018Coscia}, d'Afflisio et al. \cite{2018d'Afflisio1} \\ \hline 
 DBSCAN+SVM & Wei et al. \cite{2022Wei} \\ \hline 
 GMM+KDE & Anneken et al. \cite{2015Anneken} \\ \hline 
 GMM+SOM & Riveiro et al. \cite{2008Riveiro1} \\ \hline 
@@ -40,6 +40,6 @@ LSTM+RF & Liang et al. \cite{2019Liang} \\ \hline
 RF+SVM & Marzuki et al. \cite{2018Marzuki} \\ \hline 
 AE+RF+SVM & Jiang et al. \cite{2016Jiang} \\ \hline 
 ANN+HMM+RF & Dogru and Subasi \cite{2018Dogru} \\ \hline 
-BN+GMM+OU & Forti et al. \cite{2022Forti1}, Forti et al. \cite{2019Forti}, Forti et al. \cite{2018Forti}, Forti et al. \cite{2020Forti}, Forti et al. \cite{2022Forti}, Forti et al. \cite{2022Forti2} \\ \hline 
+BN+GMM+OU & Forti et al. \cite{2019Forti}, Forti et al. \cite{2022Forti}, Forti et al. \cite{2022Forti1}, Forti et al. \cite{2018Forti}, Forti et al. \cite{2020Forti}, Forti et al. \cite{2022Forti2} \\ \hline 
 CRF+HMM+RF & Auslander et al. \cite{Auslander2012MaritimeTD} \\ \hline 
 HMM+Lavielle+filtering & Souza et al. \cite{2016Souza} \\ \hline 

@@ -60,11 +60,11 @@ d’Afflisio et al. \cite{2021d’Afflisio1} \\
 \hline 
 \multicolumn{1}{|c|}{Predicting trajectories+Unusual vessel trajectories} \\ \hline 
 Fernandez Arguedas et al. \cite{2014FernandezArguedas} \\ 
-Ristic et al. \cite{2008Ristic} \\ 
-Le and Zheng \cite{Le2016TrajectoryPO} \\ 
-Fernandez Arguedas et al. \cite{2018FernandezArguedas} \\ 
-Fernandez Arguedas et al. \cite{2015FernandezArguedas} \\ 
 Singh et al. \cite{2022Singh} \\ 
+Ristic et al. \cite{2008Ristic} \\ 
+Fernandez Arguedas et al. \cite{2018FernandezArguedas} \\ 
+Le and Zheng \cite{Le2016TrajectoryPO} \\ 
+Fernandez Arguedas et al. \cite{2015FernandezArguedas} \\ 
 Karatas et al. \cite{2021Karatas} \\ 
 \hline 
 \multicolumn{1}{|c|}{Predicting trajectories} \\ \hline 
@@ -93,14 +93,14 @@ Pohontu et al. \cite{2023Pohontu1} \\
 Mantecon et al. \cite{2019Mantecon} \\ 
 \hline 
 \multicolumn{1}{|c|}{IUU fishing+Illegal zone entry} \\ \hline 
+Marzuki et al. \cite{2018Marzuki} \\ 
 Ford et al. \cite{Ford2018LoiteringWI} \\ 
 Woodill et al. \cite{Woodill2020PredictingIF} \\ 
-Marzuki et al. \cite{2018Marzuki} \\ 
 \hline 
 \multicolumn{1}{|c|}{Unusual course+Unusual position+Unusual speed} \\ \hline 
+Kim et al. \cite{kim2019anomalous} \\ 
 Kim et al. \cite{2016Kim} \\ 
 Zhen et al. \cite{2017Zhen} \\ 
-Kim et al. \cite{kim2019anomalous} \\ 
 \hline 
 \multicolumn{1}{|c|}{Piracy} \\ \hline 
 Bouejla et al. \cite{BOUEJLA201422} \\ 

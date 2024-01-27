@@ -250,14 +250,19 @@ def make_a_plot_years_combined(dict_multi, name_plot):
 
 def random_colors(num_colors):
     colors_set = []
+    color_space = int(np.floor(16 ** 4 // (num_colors + 1)))
     for x in range(num_colors):
-        string_color = "#"
-        while string_color == "#" or string_color in colors_set:
-            string_color = "#00"
-            set_letters = "0123456789ABCDEF"
-            for y in range(4):
-                string_color += set_letters[np.random.randint(0, 16)]
-        colors_set.append(string_color)
+        #string_color = "#"
+        #while string_color == "#" or string_color in colors_set:
+            #string_color = "#00"
+            #set_letters = "0123456789ABCDEF"
+            #for y in range(4):
+                #string_color += set_letters[np.random.randint(0, 16)]
+        ord_of_color = color_space * (x + 1)
+        cstr = str(hex(ord_of_color)).replace("0x", "").upper()
+        while len(cstr) != 6:
+            cstr = "0" + cstr
+        colors_set.append("#" + cstr)
     return colors_set
 
 def hex_to_RGB(hex_str):
@@ -353,23 +358,30 @@ def make_a_plot_years_sizes(dict_multi, name_plot):
             maxy = max(heights_so_far[year_one - minx], maxy)
         stuff_to_plot.append(heights_so_far.copy())
         counter_var += 1
-    plt.figure(figsize = (20, 10)) 
-    plt.rcParams.update({'font.size': 20}) 
-    plt.subplot(1, 2, 2) 
+    plt.figure(figsize = (10, 10)) 
+    plt.rcParams.update({'font.size': 20})  
     dict_multi_colors = dict() 
     maxlabellen = 0
     ncols = 2
+    lblnms = dict()
+    lblnms_no_num = dict()
     for current_plt_num in range(len(stuff_to_plot)):
         X_axis_old = [xval for xval in range(minx, maxx + 1)] 
         dict_multi_colors[list(dict_multi.keys())[len(stuff_to_plot) - 1 - current_plt_num]] = colors_use[current_plt_num]
+        lbl_no_num = list(dict_multi.keys())[len(stuff_to_plot) - 1 - current_plt_num]
+        lbl = str(current_plt_num + 1) + " " + list(dict_multi.keys())[len(stuff_to_plot) - 1 - current_plt_num]
+        if len(lbl) > 30:
+            lbl = lbl.replace("+", "+\n")
+        if len(lbl_no_num) > 30:
+            lbl_no_num = lbl_no_num.replace("+", "+\n")
+        lblnms[colors_use[current_plt_num]] = lbl
+        lblnms_no_num[colors_use[current_plt_num]] = lbl_no_num
         plt.bar(X_axis_old, stuff_to_plot[len(stuff_to_plot) - 1 - current_plt_num], 
                 color = colors_use[current_plt_num],
-                label = str(current_plt_num + 1) + " " + list(dict_multi.keys())[len(stuff_to_plot) - 1 - current_plt_num])
+                label = lbl_no_num)
         maxlabellen = max(maxlabellen, len(str(current_plt_num + 1) + " " + list(dict_multi.keys())[len(stuff_to_plot) - 1 - current_plt_num]))
-    if len(dict_multi) > 1:
-        if maxlabellen < 30:
-            ncols += 1
-        plt.legend(ncol = ncols, loc='upper center', bbox_to_anchor=(-0.15, -0.15))
+    if len(dict_multi) > 1: 
+        plt.legend(ncol = ncols, loc = 'upper left', bbox_to_anchor = (0, -0.15))
     plt.yticks(range(miny, maxy + 1), range(miny, maxy + 1))
     plt.xticks(range(minx, maxx + 1), range(minx, maxx + 1))
     plt.xlabel("Year")
@@ -378,24 +390,37 @@ def make_a_plot_years_sizes(dict_multi, name_plot):
     plt.gca().set_xticklabels(range(minx, maxx + 1), rotation = (45), va = 'top', ha = 'right')
     plt.rc('xtick', labelsize = 16) 
     plt.rc('ytick', labelsize = 16) 
+
+    plt.savefig("Pictures/" + name_plot + "_years_sizes_years.png", bbox_inches="tight")
+    #plt.show() 
+    plt.close()
     
-    plt.subplot(1, 2, 1)
+    plt.figure(figsize = (10, 10)) 
+    plt.rcParams.update({'font.size': 20})  
     sizes_dict_entries = [] 
-    for dict_one_name in dict_multi_names:
-        sizes_dict_entries.append(dict_multi_names[dict_one_name])
-        #print(dict_one_name, len(sizes_dict_entries) - 1, dict_multi_names[dict_one_name])
-        bar1 = plt.bar(len(dict_multi_names) - len(sizes_dict_entries), dict_multi_names[dict_one_name], color = dict_multi_colors[dict_one_name]) 
-    
-        # Add counts above the two bar graphs
-        for rect in bar1:
-            height = rect.get_height()
-            plt.text(rect.get_x() + rect.get_width() / 2.0, height, f'{height:.0f}', ha='center', va='bottom')
+    for current_plt_num in range(len(stuff_to_plot)):
+        for dict_one_name in dict_multi_names:
+            lbl_number_extract = int(lblnms[dict_multi_colors[dict_one_name]].split(" ")[0])
+            if lbl_number_extract != current_plt_num + 1:
+                continue
+            sizes_dict_entries.append(dict_multi_names[dict_one_name])
+            #print(dict_one_name, len(sizes_dict_entries) - 1, dict_multi_names[dict_one_name])
+            bar1 = plt.bar(current_plt_num + 1, 
+                        dict_multi_names[dict_one_name], 
+                        color = dict_multi_colors[dict_one_name],
+                        label = lblnms[dict_multi_colors[dict_one_name]]) 
+        
+            for rect in bar1:
+                height = rect.get_height()
+                plt.text(rect.get_x() + rect.get_width() / 2.0, height, f'{height:.0f}', ha='center', va='bottom')
  
     step_size = 1
     if max(sizes_dict_entries) > 40:
         step_size = 3
+    if len(dict_multi) > 1: 
+        plt.legend(ncol = ncols, loc = 'upper left', bbox_to_anchor = (0, -0.15))
     plt.yticks(range(0, max(sizes_dict_entries) + 1, step_size),  range(0, max(sizes_dict_entries) + 1, step_size))
-    plt.xticks(range(0, len(dict_multi_names), 2), range(1, 1 + len(dict_multi_names), 2))
+    plt.xticks(range(1, 1 + len(dict_multi_names), 2), range(1, 1 + len(dict_multi_names), 2))
     plt.xlabel("Category")
     plt.ylabel("Number of papers")
     plt.title(name_plot + " by size")
@@ -403,7 +428,7 @@ def make_a_plot_years_sizes(dict_multi, name_plot):
     plt.rc('xtick', labelsize = 16) 
     plt.rc('ytick', labelsize = 16) 
      
-    plt.savefig("Pictures/" + name_plot + "_years_sizes.png", bbox_inches="tight")
+    plt.savefig("Pictures/" + name_plot + "_years_sizes_sizes.png", bbox_inches="tight")
     #plt.show() 
     plt.close()
 

@@ -6,7 +6,7 @@ Loitering & Cazzanti and Pallotta \cite{2015Cazzanti} \\ \hline
 Illegal zone entry+Unusual vessel trajectories & Nguyen et al. \cite{2018Nguyen} \\ \hline 
 U turn+Unusual stop & Handayani et al. \cite{2013Handayani} \\ \hline 
 U turn+Zig-zag movement & Xia and Gao \cite{2020Xia} \\ \hline 
-Unusual AIS behavior+Unusual vessel trajectories & Prasad et al. \cite{2021Prasad}, Shahir et al. \cite{2019Shahir} \\ \hline 
+Unusual AIS behavior+Unusual vessel trajectories & Shahir et al. \cite{2019Shahir}, Prasad et al. \cite{2021Prasad} \\ \hline 
 Close approach+Illegal zone entry+Unexpected port arrival+Unusual AIS behavior & Lane et al. \cite{2010Lane} \\ \hline 
 Drift+Spiral movement+Unusual stop & Toloue and Jahan \cite{2018Toloue} \\ \hline 
 Unusual stop+Wrong dock+Zig-zag movement & Castaldo et al. \cite{2014Castaldo} \\ \hline 

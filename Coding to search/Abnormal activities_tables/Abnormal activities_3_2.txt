@@ -1,6 +1,6 @@
 \hline 
 \multicolumn{3}{|c|}{Unusual course+Unusual position+Unusual speed} & \multicolumn{2}{|c|}{Unusual course} \\ \hline 
-Kim et al. \cite{2016Kim} & Zhen et al. \cite{2017Zhen} & \multicolumn{1}{c|}{Kim et al. \cite{kim2019anomalous}} & Hoque and Sharma \cite{2019Hoque} & Kim and Jeong \cite{2015Kim} \\ 
+Kim et al. \cite{kim2019anomalous} & Kim et al. \cite{2016Kim} & \multicolumn{1}{c|}{Zhen et al. \cite{2017Zhen}} & Hoque and Sharma \cite{2019Hoque} & Kim and Jeong \cite{2015Kim} \\ 
  &  \\ 
 \hline 
 \multicolumn{3}{|c|}{Unusual course} & \multicolumn{2}{|c|}{Unusual speed} \\ \hline 

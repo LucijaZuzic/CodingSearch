@@ -94,15 +94,15 @@ Ljunggren \cite{2018Ljunggren} &  & \multicolumn{1}{c|}{} &  \\
 \hline 
 \multicolumn{3}{|c|}{N} & \multicolumn{1}{|c|}{PS+PSC} \\ \hline 
 Pohontu et al. \cite{2023Pohontu} & Pohontu et al. \cite{2023Pohontu1} & \multicolumn{1}{c|}{Djenouri et al. \cite{2022Djenouri}} & Young \cite{2019Young} \\ 
-Freitas et al. \cite{2019Freitas} & Fahn et al. \cite{2019Fahn} & \multicolumn{1}{c|}{Czaplewski and Dzwonkowski \cite{2022Czaplewski}} & Ford et al. \cite{Ford2018LoiteringWI} \\ 
-Shahir et al. \cite{2019Shahir} \\ 
+Freitas et al. \cite{2019Freitas} & Fahn et al. \cite{2019Fahn} & \multicolumn{1}{c|}{Czaplewski and Dzwonkowski \cite{2022Czaplewski}} & Marzuki et al. \cite{2018Marzuki} \\ 
 Auslander et al. \cite{Auslander2012MaritimeTD} \\ 
-Marzuki et al. \cite{2018Marzuki} \\ 
+Shahir et al. \cite{2019Shahir} \\ 
+Ford et al. \cite{Ford2018LoiteringWI} \\ 
  \\ 
 \hline 
 \multicolumn{3}{|c|}{PS+PSC} & \multicolumn{1}{|c|}{P} \\ \hline 
-Young \cite{2019Young} & Ford et al. \cite{Ford2018LoiteringWI} & \multicolumn{1}{c|}{Shahir et al. \cite{2019Shahir}} & Zhao and Shi \cite{zhao_shi_2019} \\ 
-Auslander et al. \cite{Auslander2012MaritimeTD} & Marzuki et al. \cite{2018Marzuki} & \multicolumn{1}{c|}{} & Jiang et al. \cite{2016Jiang} \\ 
+Young \cite{2019Young} & Marzuki et al. \cite{2018Marzuki} & \multicolumn{1}{c|}{Auslander et al. \cite{Auslander2012MaritimeTD}} & Zhao and Shi \cite{zhao_shi_2019} \\ 
+Shahir et al. \cite{2019Shahir} & Ford et al. \cite{Ford2018LoiteringWI} & \multicolumn{1}{c|}{} & Jiang et al. \cite{2016Jiang} \\ 
  \\ 
  \\ 
  \\ 
