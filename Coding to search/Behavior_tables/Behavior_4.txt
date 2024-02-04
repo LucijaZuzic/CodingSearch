@@ -19,8 +19,8 @@ Milios et al. \cite{2019Milios} & Singh and Heymann \cite{2020Singh} & Singh and
 d’Afflisio et al. \cite{2021d’Afflisio1} &  &  &  \\ 
 \hline 
 \multicolumn{4}{|c|}{Predicting trajectories+Unusual vessel trajectories} \\ \hline 
-Fernandez Arguedas et al. \cite{2014FernandezArguedas} & Singh et al. \cite{2022Singh} & Ristic et al. \cite{2008Ristic} & Fernandez Arguedas et al. \cite{2018FernandezArguedas} \\ 
-Le and Zheng \cite{Le2016TrajectoryPO} & Fernandez Arguedas et al. \cite{2015FernandezArguedas} & Karatas et al. \cite{2021Karatas} &  \\ 
+Fernandez Arguedas et al. \cite{2018FernandezArguedas} & Fernandez Arguedas et al. \cite{2014FernandezArguedas} & Ristic et al. \cite{2008Ristic} & Singh et al. \cite{2022Singh} \\ 
+Fernandez Arguedas et al. \cite{2015FernandezArguedas} & Le and Zheng \cite{Le2016TrajectoryPO} & Karatas et al. \cite{2021Karatas} &  \\ 
 \hline 
 \multicolumn{4}{|c|}{Predicting trajectories} \\ \hline 
 Wang et al. \cite{2023Wang} & Wang et al. \cite{2020Wang2} & Duca et al. \cite{2017Duca} & Mehri et al. \cite{2021Mehri} \\ 
@@ -39,7 +39,7 @@ Pohontu et al. \cite{2023Pohontu} & Pohontu et al. \cite{2023Pohontu1} & Manteco
 Marzuki et al. \cite{2018Marzuki} & Ford et al. \cite{Ford2018LoiteringWI} & Woodill et al. \cite{Woodill2020PredictingIF} &  \\ 
 \hline 
 \multicolumn{4}{|c|}{Unusual course+Unusual position+Unusual speed} \\ \hline 
-Kim et al. \cite{kim2019anomalous} & Kim et al. \cite{2016Kim} & Zhen et al. \cite{2017Zhen} &  \\ 
+Kim et al. \cite{2016Kim} & Kim et al. \cite{kim2019anomalous} & Zhen et al. \cite{2017Zhen} &  \\ 
 \hline 
 \multicolumn{4}{|c|}{Piracy} \\ \hline 
 Bouejla et al. \cite{BOUEJLA201422} & Dabrowski and de Villiers \cite{DABROWSKI2015116} &  &  \\ 

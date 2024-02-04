@@ -9,7 +9,7 @@ Lei and Mingchao \cite{2018Lei} & Wei et al. \cite{2022Wei} & Du Toit and Van Vu
 Bouejla et al. \cite{BOUEJLA201422} & Lane et al. \cite{2010Lane} & Mascaro et al. \cite{2014Mascaro} & Zhen et al. \cite{2017Zhen} & Handayani et al. \cite{handayani2015anomaly} & Ng et al. \cite{2012Ng} \\ 
 \hline 
 \multicolumn{6}{|c|}{BN+GMM+OU} \\ \hline 
-Forti et al. \cite{2019Forti} & Forti et al. \cite{2022Forti} & Forti et al. \cite{2022Forti1} & Forti et al. \cite{2018Forti} & Forti et al. \cite{2020Forti} & Forti et al. \cite{2022Forti2} \\ 
+Forti et al. \cite{2018Forti} & Forti et al. \cite{2022Forti2} & Forti et al. \cite{2019Forti} & Forti et al. \cite{2022Forti} & Forti et al. \cite{2022Forti1} & Forti et al. \cite{2020Forti} \\ 
 \hline 
 \multicolumn{6}{|c|}{OU} \\ \hline 
 Coraluppi et al. \cite{2016Coraluppi} & Millefiori et al. \cite{2016Millefiori} & d’Afflisio et al. \cite{2021d’Afflisio} & d’Afflisio et al. \cite{2021d’Afflisio1} &  &  \\ 
@@ -18,7 +18,7 @@ Coraluppi et al. \cite{2016Coraluppi} & Millefiori et al. \cite{2016Millefiori} 
 Liu and Shi \cite{2020Liu} & Hu et al. \cite{2023Hu} & Xie et al. \cite{2023Xie} & Jiang et al. \cite{2016Jiang} &  &  \\ 
 \hline 
 \multicolumn{6}{|c|}{DBSCAN+KDE} \\ \hline 
-Loi et al. \cite{2020Loi} & Pallotta et al. \cite{2013Pallotta} & Pallotta et al. \cite{2013Pallotta1} &  &  &  \\ 
+Pallotta et al. \cite{2013Pallotta} & Pallotta et al. \cite{2013Pallotta1} & Loi et al. \cite{2020Loi} &  &  &  \\ 
 \hline 
 \multicolumn{6}{|c|}{DBSCAN+OU} \\ \hline 
 Coscia et al. \cite{2018Coscia1} & Coscia et al. \cite{2018Coscia} & d'Afflisio et al. \cite{2018d'Afflisio1} &  &  &  \\ 
@@ -30,7 +30,7 @@ Ford et al. \cite{Ford2018LoiteringWI} & Ford et al. \cite{2018Ford} &  &  &  & 
 Mazzarella et al. \cite{MAZZARELLA2017110} & Sfyridis et al. \cite{2017Sfyridis} &  &  &  &  \\ 
 \hline 
 \multicolumn{6}{|c|}{DBSCAN+GMM} \\ \hline 
-Laxhammar et al. \cite{2009Laxhammar} & Laxhammar \cite{2008Laxhammar} &  &  &  &  \\ 
+Laxhammar \cite{2008Laxhammar} & Laxhammar et al. \cite{2009Laxhammar} &  &  &  &  \\ 
 \hline 
 \multicolumn{6}{|c|}{GMM} \\ \hline 
 Kraiman et al. \cite{2002Kraiman} &  &  &  &  &  \\ 

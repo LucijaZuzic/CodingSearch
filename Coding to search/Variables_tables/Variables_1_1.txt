@@ -93,19 +93,19 @@
 \multicolumn{1}{|c|}{Ljunggren \cite{2018Ljunggren}} &  \\ 
 \hline 
 \multicolumn{1}{|c|}{N} & \multicolumn{1}{|c|}{PS+PSC} \\ \hline 
-\multicolumn{1}{|c|}{Pohontu et al. \cite{2023Pohontu}} & Young \cite{2019Young} \\ 
-\multicolumn{1}{|c|}{Pohontu et al. \cite{2023Pohontu1}} & Marzuki et al. \cite{2018Marzuki} \\ 
-\multicolumn{1}{|c|}{Djenouri et al. \cite{2022Djenouri}} & Auslander et al. \cite{Auslander2012MaritimeTD} \\ 
-\multicolumn{1}{|c|}{Freitas et al. \cite{2019Freitas}} & Shahir et al. \cite{2019Shahir} \\ 
-\multicolumn{1}{|c|}{Fahn et al. \cite{2019Fahn}} & Ford et al. \cite{Ford2018LoiteringWI} \\ 
+\multicolumn{1}{|c|}{Pohontu et al. \cite{2023Pohontu}} & Ford et al. \cite{Ford2018LoiteringWI} \\ 
+\multicolumn{1}{|c|}{Pohontu et al. \cite{2023Pohontu1}} & Auslander et al. \cite{Auslander2012MaritimeTD} \\ 
+\multicolumn{1}{|c|}{Djenouri et al. \cite{2022Djenouri}} & Shahir et al. \cite{2019Shahir} \\ 
+\multicolumn{1}{|c|}{Freitas et al. \cite{2019Freitas}} & Young \cite{2019Young} \\ 
+\multicolumn{1}{|c|}{Fahn et al. \cite{2019Fahn}} & Marzuki et al. \cite{2018Marzuki} \\ 
 \multicolumn{1}{|c|}{Czaplewski and Dzwonkowski \cite{2022Czaplewski}} &  \\ 
 \hline 
 \multicolumn{1}{|c|}{PS+PSC} & \multicolumn{1}{|c|}{P} \\ \hline 
-\multicolumn{1}{|c|}{Young \cite{2019Young}} & Zhao and Shi \cite{zhao_shi_2019} \\ 
-\multicolumn{1}{|c|}{Marzuki et al. \cite{2018Marzuki}} & Jiang et al. \cite{2016Jiang} \\ 
-\multicolumn{1}{|c|}{Auslander et al. \cite{Auslander2012MaritimeTD}} &  \\ 
+\multicolumn{1}{|c|}{Ford et al. \cite{Ford2018LoiteringWI}} & Zhao and Shi \cite{zhao_shi_2019} \\ 
+\multicolumn{1}{|c|}{Auslander et al. \cite{Auslander2012MaritimeTD}} & Jiang et al. \cite{2016Jiang} \\ 
 \multicolumn{1}{|c|}{Shahir et al. \cite{2019Shahir}} &  \\ 
-\multicolumn{1}{|c|}{Ford et al. \cite{Ford2018LoiteringWI}} &  \\ 
+\multicolumn{1}{|c|}{Young \cite{2019Young}} &  \\ 
+\multicolumn{1}{|c|}{Marzuki et al. \cite{2018Marzuki}} &  \\ 
 \hline 
 \multicolumn{1}{|c|}{P} & \multicolumn{1}{|c|}{SC} \\ \hline 
 \multicolumn{1}{|c|}{Zhao and Shi \cite{zhao_shi_2019}} & Hanyang et al. \cite{2019Hanyang} \\ 

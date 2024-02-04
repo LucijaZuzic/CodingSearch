@@ -33,7 +33,7 @@ Magnussen et al. \cite{2021Magnussen} & Singh et al. \cite{2022Singh} & Jiang et
 Eljabu et al. \cite{2021Eljabu} & Liu et al. \cite{2022Liu5} &  &  \\ 
 \hline 
 \multicolumn{4}{|c|}{RF+SVM} \\ \hline 
-Jiang et al. \cite{2016Jiang} & Marzuki et al. \cite{2018Marzuki} &  &  \\ 
+Marzuki et al. \cite{2018Marzuki} & Jiang et al. \cite{2016Jiang} &  &  \\ 
 \hline 
 \multicolumn{4}{|c|}{ANN} \\ \hline 
 Singh and Heymann \cite{2020Singh} &  &  &  \\ 

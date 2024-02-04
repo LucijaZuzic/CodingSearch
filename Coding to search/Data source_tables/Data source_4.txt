@@ -27,11 +27,11 @@ Toloue and Jahan \cite{2018Toloue} & Coraluppi et al. \cite{2016Coraluppi} & Kim
 Le and Zheng \cite{Le2016TrajectoryPO} & Kraiman et al. \cite{2002Kraiman} & Riveiro et al. \cite{2008Riveiro1} &  \\ 
 \hline 
 \multicolumn{4}{|c|}{AIS+radar} \\ \hline 
-Forti et al. \cite{2019Forti} & Forti et al. \cite{2022Forti} & Forti et al. \cite{2022Forti1} & Forti et al. \cite{2018Forti} \\ 
-Forti et al. \cite{2020Forti} & Forti et al. \cite{2022Forti2} & d'Afflisio et al. \cite{2018d'Afflisio1} &  \\ 
+Forti et al. \cite{2018Forti} & Forti et al. \cite{2022Forti2} & d'Afflisio et al. \cite{2018d'Afflisio1} & Forti et al. \cite{2019Forti} \\ 
+Forti et al. \cite{2022Forti} & Forti et al. \cite{2022Forti1} & Forti et al. \cite{2020Forti} &  \\ 
 \hline 
 \multicolumn{4}{|c|}{AIS+environment} \\ \hline 
-Mascaro et al. \cite{2014Mascaro} & Zhang et al. \cite{ZHANG2021107674} & Mehri et al. \cite{2023Mehri} & Woodill et al. \cite{Woodill2020PredictingIF} \\ 
+Mascaro et al. \cite{2014Mascaro} & Zhang et al. \cite{ZHANG2021107674} & Woodill et al. \cite{Woodill2020PredictingIF} & Mehri et al. \cite{2023Mehri} \\ 
 \hline 
 \multicolumn{4}{|c|}{camera} \\ \hline 
 Djenouri et al. \cite{2022Djenouri} & Freitas et al. \cite{2019Freitas} & Czaplewski and Dzwonkowski \cite{2022Czaplewski} &  \\ 

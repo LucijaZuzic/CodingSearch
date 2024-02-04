@@ -6,8 +6,8 @@ SAR & Fahn et al. \cite{2019Fahn} \\ \hline
 satellite & Young \cite{2019Young} \\ \hline 
 AIS+Beidou & Chen et al. \cite{2023Chen2} \\ \hline 
 AIS+SAR & Milios et al. \cite{2019Milios} \\ \hline 
-AIS+environment & Mascaro et al. \cite{2014Mascaro}, Zhang et al. \cite{ZHANG2021107674}, Mehri et al. \cite{2023Mehri}, Woodill et al. \cite{Woodill2020PredictingIF} \\ \hline 
+AIS+environment & Mascaro et al. \cite{2014Mascaro}, Zhang et al. \cite{ZHANG2021107674}, Woodill et al. \cite{Woodill2020PredictingIF}, Mehri et al. \cite{2023Mehri} \\ \hline 
 AIS+other & Liu et al. \cite{2022Liu5}, Eljabu et al. \cite{2021Eljabu} \\ \hline 
-AIS+radar & Forti et al. \cite{2019Forti}, Forti et al. \cite{2022Forti}, Forti et al. \cite{2022Forti1}, Forti et al. \cite{2018Forti}, Forti et al. \cite{2020Forti}, Forti et al. \cite{2022Forti2}, d'Afflisio et al. \cite{2018d'Afflisio1} \\ \hline 
+AIS+radar & Forti et al. \cite{2018Forti}, Forti et al. \cite{2022Forti2}, d'Afflisio et al. \cite{2018d'Afflisio1}, Forti et al. \cite{2019Forti}, Forti et al. \cite{2022Forti}, Forti et al. \cite{2022Forti1}, Forti et al. \cite{2020Forti} \\ \hline 
 environment+other & Dabrowski and de Villiers \cite{DABROWSKI2015116} \\ \hline 
 AIS+camera+radar & Bouejla et al. \cite{BOUEJLA201422} \\ \hline 

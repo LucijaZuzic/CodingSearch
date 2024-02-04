@@ -326,7 +326,17 @@ def make_a_plot_years(dict_multi, name_plot):
     #plt.show() 
     plt.close()
      
+other_names = {"Not applicable": "Statistical Models",
+               "Intents": "The Intent That Caused\nThe Anomalous Behavior",
+               "Abnormal activities": "Abnormal Activities\nin a Single Variable",
+               "Abnormal behaviors": "Abnormal Behavior\nin Multiple Variables",
+               "Extracting information": "Extracting Information"
+               }
+
 def make_a_plot_years_sizes(dict_multi, name_plot):
+    name_plot_tmp = name_plot
+    if name_plot in other_names:
+        name_plot_tmp = other_names[name_plot]
     counter_var = 0
     minx = 2000000000000
     maxx = 0
@@ -385,8 +395,8 @@ def make_a_plot_years_sizes(dict_multi, name_plot):
     plt.yticks(range(miny, maxy + 1), range(miny, maxy + 1))
     plt.xticks(range(minx, maxx + 1), range(minx, maxx + 1))
     plt.xlabel("Year")
-    plt.ylabel("Number of papers")
-    plt.title(name_plot + " by year")
+    plt.ylabel("Number of Papers")
+    plt.title(name_plot_tmp + "\n(Occurence by Year and Category)")
     plt.gca().set_xticklabels(range(minx, maxx + 1), rotation = (45), va = 'top', ha = 'right')
     plt.rc('xtick', labelsize = 16) 
     plt.rc('ytick', labelsize = 16) 
@@ -422,8 +432,8 @@ def make_a_plot_years_sizes(dict_multi, name_plot):
     plt.yticks(range(0, max(sizes_dict_entries) + 1, step_size),  range(0, max(sizes_dict_entries) + 1, step_size))
     plt.xticks(range(1, 1 + len(dict_multi_names), 2), range(1, 1 + len(dict_multi_names), 2))
     plt.xlabel("Category")
-    plt.ylabel("Number of papers")
-    plt.title(name_plot + " by size")
+    plt.ylabel("Number of Papers")
+    plt.title(name_plot_tmp + "\n(Occurence by Category)")
     #plt.gca().set_xticklabels(range(1, 1 + len(dict_multi_names)), rotation = (45), va = 'top', ha = 'right')  
     plt.rc('xtick', labelsize = 16) 
     plt.rc('ytick', labelsize = 16) 
@@ -509,6 +519,7 @@ def find_a_reference(text_references):
     return dict_refs
     
 alg_category = dict()
+
 alg_category["Supervised"] = {"SVM", "CNN", "RNN", "HMM", "SVR", "SVM", "LSTM", "RF", "VRNN", "GNN", "k-NN", "GP", "ANN"}
 alg_category["Unsupervised"] = {"DBSCAN", "GAM", "MCM", "DBN", "BN", "OCSVM", "BRNN", "DBC", "SC", "DBSCAN LSTM", "DBSCAN KDE", "CRF", "OSVM", "AE", "KDE", "K-means", "GMM", "OU", "SOM"} 
 alg_category["Not applicable"] = {"reinforcement", "filtering", "Lavielle", "parametric", "iGroup", "iDetect", "iGroup-iDetect"}

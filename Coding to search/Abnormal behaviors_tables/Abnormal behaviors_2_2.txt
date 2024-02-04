@@ -38,11 +38,11 @@ Young \cite{2019Young} & \multicolumn{1}{c|}{Singh and Heymann \cite{2020Singh1}
 d’Afflisio et al. \cite{2021d’Afflisio} & \multicolumn{1}{c|}{d’Afflisio et al. \cite{2021d’Afflisio1}} &  &  \\ 
 \hline 
 \multicolumn{2}{|c|}{Illegal zone entry} & \multicolumn{2}{|c|}{Unusual AIS behavior+Unusual vessel trajectories} \\ \hline 
-Ford et al. \cite{Ford2018LoiteringWI} & \multicolumn{1}{c|}{Marzuki et al. \cite{2018Marzuki}} & Shahir et al. \cite{2019Shahir} & Prasad et al. \cite{2021Prasad} \\ 
+Ford et al. \cite{Ford2018LoiteringWI} & \multicolumn{1}{c|}{Marzuki et al. \cite{2018Marzuki}} & Prasad et al. \cite{2021Prasad} & Shahir et al. \cite{2019Shahir} \\ 
 Woodill et al. \cite{Woodill2020PredictingIF} & \multicolumn{1}{c|}{} &  &  \\ 
 \hline 
 \multicolumn{2}{|c|}{Unusual AIS behavior+Unusual vessel trajectories} & \multicolumn{2}{|c|}{Unusual stop} \\ \hline 
-Shahir et al. \cite{2019Shahir} & \multicolumn{1}{c|}{Prasad et al. \cite{2021Prasad}} & Varlamis et al. \cite{Varlamis2019ANA} &  \\ 
+Prasad et al. \cite{2021Prasad} & \multicolumn{1}{c|}{Shahir et al. \cite{2019Shahir}} & Varlamis et al. \cite{Varlamis2019ANA} &  \\ 
 \hline 
 \multicolumn{2}{|c|}{Unusual stop} & \multicolumn{2}{|c|}{Loitering} \\ \hline 
 Varlamis et al. \cite{Varlamis2019ANA} & \multicolumn{1}{c|}{} & Cazzanti and Pallotta \cite{2015Cazzanti} &  \\ 
