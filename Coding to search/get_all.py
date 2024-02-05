@@ -327,10 +327,14 @@ def make_a_plot_years(dict_multi, name_plot):
     plt.close()
      
 other_names = {"Not applicable": "Statistical Models",
-               "Intents": "The Intent That Caused\nThe Anomalous Behavior",
+               "Intents": "The Intent Which Caused\nThe Anomalous Behavior",
                "Abnormal activities": "Abnormal Activities\nin a Single Variable",
                "Abnormal behaviors": "Abnormal Behavior\nin Multiple Variables",
-               "Extracting information": "Extracting Information"
+               "Data source": "Data Sources",
+               "Extracting information": "Extracting Information",
+               "Unsupervised": "Unsupervised Learning Algorithms",
+               "Supervised": "Supervised Learning Algorithms",
+               "Variables": "Position (P), Speed (S), and Course (C),\nor None of These (N) Variables",
                }
 
 def make_a_plot_years_sizes(dict_multi, name_plot):

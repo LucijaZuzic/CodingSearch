@@ -40,12 +40,12 @@ Handayani et al. \cite{handayani2015anomaly} \\
 Ng et al. \cite{2012Ng} \\ 
 \hline 
 \multicolumn{1}{|c|}{BN+GMM+OU} \\ \hline 
+Forti et al. \cite{2022Forti} \\ 
 Forti et al. \cite{2018Forti} \\ 
 Forti et al. \cite{2022Forti2} \\ 
-Forti et al. \cite{2019Forti} \\ 
-Forti et al. \cite{2022Forti} \\ 
-Forti et al. \cite{2022Forti1} \\ 
 Forti et al. \cite{2020Forti} \\ 
+Forti et al. \cite{2019Forti} \\ 
+Forti et al. \cite{2022Forti1} \\ 
 \hline 
 \multicolumn{1}{|c|}{OU} \\ \hline 
 Coraluppi et al. \cite{2016Coraluppi} \\ 
@@ -91,14 +91,14 @@ Singh et al. \cite{2022Singh} \\
 Jiang et al. \cite{jiang2017partition} \\ 
 \hline 
 \multicolumn{1}{|c|}{DBSCAN+KDE} \\ \hline 
-Pallotta et al. \cite{2013Pallotta} \\ 
-Pallotta et al. \cite{2013Pallotta1} \\ 
 Loi et al. \cite{2020Loi} \\ 
+Pallotta et al. \cite{2013Pallotta1} \\ 
+Pallotta et al. \cite{2013Pallotta} \\ 
 \hline 
 \multicolumn{1}{|c|}{DBSCAN+OU} \\ \hline 
+d'Afflisio et al. \cite{2018d'Afflisio1} \\ 
 Coscia et al. \cite{2018Coscia1} \\ 
 Coscia et al. \cite{2018Coscia} \\ 
-d'Afflisio et al. \cite{2018d'Afflisio1} \\ 
 \hline 
 \multicolumn{1}{|c|}{HMM} \\ \hline 
 Toloue and Jahan \cite{2018Toloue} \\ 
@@ -125,12 +125,12 @@ Eljabu et al. \cite{2021Eljabu} \\
 Liu et al. \cite{2022Liu5} \\ 
 \hline 
 \multicolumn{1}{|c|}{DBSCAN+GMM} \\ \hline 
-Laxhammar \cite{2008Laxhammar} \\ 
 Laxhammar et al. \cite{2009Laxhammar} \\ 
+Laxhammar \cite{2008Laxhammar} \\ 
 \hline 
 \multicolumn{1}{|c|}{DBSCAN+LSTM} \\ \hline 
-Zhao and Shi \cite{zhao_shi_2019} \\ 
 Karatas et al. \cite{2021Karatas} \\ 
+Zhao and Shi \cite{zhao_shi_2019} \\ 
 \hline 
 \multicolumn{1}{|c|}{GMM} \\ \hline 
 Kraiman et al. \cite{2002Kraiman} \\ 

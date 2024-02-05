@@ -17,12 +17,12 @@ Loitering & Cazzanti and Pallotta \cite{2015Cazzanti} \\ \hline
 Ship type & Ljunggren \cite{2018Ljunggren} \\ \hline 
 Damaged messages+Predicting trajectories & Liang et al. \cite{2019Liang} \\ \hline 
 Destination port and region+Predicting trajectories & Magnussen et al. \cite{2021Magnussen} \\ \hline 
-IUU fishing+Illegal zone entry & Marzuki et al. \cite{2018Marzuki}, Ford et al. \cite{Ford2018LoiteringWI}, Woodill et al. \cite{Woodill2020PredictingIF} \\ \hline 
+IUU fishing+Illegal zone entry & Ford et al. \cite{Ford2018LoiteringWI}, Marzuki et al. \cite{2018Marzuki}, Woodill et al. \cite{Woodill2020PredictingIF} \\ \hline 
 IUU fishing+Unusual AIS behavior & Young \cite{2019Young} \\ \hline 
 IUU fishing+Unusual vessel trajectories & Arasteh et al. \cite{2020Arasteh} \\ \hline 
 Illegal zone entry+Unusual vessel trajectories & Nguyen et al. \cite{2018Nguyen} \\ \hline 
 Maritime vessel accidents+Unusual vessel trajectories & Zhang et al. \cite{ZHANG2021107674} \\ \hline 
-Predicting trajectories+Unusual vessel trajectories & Fernandez Arguedas et al. \cite{2018FernandezArguedas}, Fernandez Arguedas et al. \cite{2014FernandezArguedas}, Ristic et al. \cite{2008Ristic}, Singh et al. \cite{2022Singh}, Fernandez Arguedas et al. \cite{2015FernandezArguedas}, Le and Zheng \cite{Le2016TrajectoryPO}, Karatas et al. \cite{2021Karatas} \\ \hline 
+Predicting trajectories+Unusual vessel trajectories & Fernandez Arguedas et al. \cite{2015FernandezArguedas}, Ristic et al. \cite{2008Ristic}, Le and Zheng \cite{Le2016TrajectoryPO}, Karatas et al. \cite{2021Karatas}, Singh et al. \cite{2022Singh}, Fernandez Arguedas et al. \cite{2018FernandezArguedas}, Fernandez Arguedas et al. \cite{2014FernandezArguedas} \\ \hline 
 Small vessel attacks+Unusual vessel trajectories & Auslander et al. \cite{Auslander2012MaritimeTD} \\ \hline 
 U turn+Unusual stop & Handayani et al. \cite{2013Handayani} \\ \hline 
 U turn+Zig-zag movement & Xia and Gao \cite{2020Xia} \\ \hline 
@@ -31,5 +31,5 @@ Unusual course+Unusual vessel trajectories & Hoque and Sharma \cite{2019Hoque} \
 Close approach+Illegal zone entry+Unexpected port arrival+Unusual AIS behavior & Lane et al. \cite{2010Lane} \\ \hline 
 Drift+Spiral movement+Unusual speed+Unusual stop & Toloue and Jahan \cite{2018Toloue} \\ \hline 
 IUU fishing+Unusual AIS behavior+Unusual vessel trajectories & Shahir et al. \cite{2019Shahir} \\ \hline 
-Unusual course+Unusual position+Unusual speed & Kim et al. \cite{2016Kim}, Kim et al. \cite{kim2019anomalous}, Zhen et al. \cite{2017Zhen} \\ \hline 
+Unusual course+Unusual position+Unusual speed & Kim et al. \cite{kim2019anomalous}, Kim et al. \cite{2016Kim}, Zhen et al. \cite{2017Zhen} \\ \hline 
 Unusual stop+Wrong dock+Zig-zag movement & Castaldo et al. \cite{2014Castaldo} \\ \hline 

@@ -49,21 +49,21 @@ Le and Zheng \cite{Le2016TrajectoryPO} & Kraiman et al. \cite{2002Kraiman} \\
 Riveiro et al. \cite{2008Riveiro1} &  \\ 
 \hline 
 \multicolumn{2}{|c|}{AIS+radar} \\ \hline 
-Forti et al. \cite{2018Forti} & Forti et al. \cite{2022Forti2} \\ 
+Forti et al. \cite{2022Forti} & Forti et al. \cite{2018Forti} \\ 
+Forti et al. \cite{2022Forti2} & Forti et al. \cite{2020Forti} \\ 
 d'Afflisio et al. \cite{2018d'Afflisio1} & Forti et al. \cite{2019Forti} \\ 
-Forti et al. \cite{2022Forti} & Forti et al. \cite{2022Forti1} \\ 
-Forti et al. \cite{2020Forti} &  \\ 
+Forti et al. \cite{2022Forti1} &  \\ 
 \hline 
 \multicolumn{2}{|c|}{AIS+environment} \\ \hline 
-Mascaro et al. \cite{2014Mascaro} & Zhang et al. \cite{ZHANG2021107674} \\ 
-Woodill et al. \cite{Woodill2020PredictingIF} & Mehri et al. \cite{2023Mehri} \\ 
+Mascaro et al. \cite{2014Mascaro} & Woodill et al. \cite{Woodill2020PredictingIF} \\ 
+Zhang et al. \cite{ZHANG2021107674} & Mehri et al. \cite{2023Mehri} \\ 
 \hline 
 \multicolumn{2}{|c|}{camera} \\ \hline 
 Djenouri et al. \cite{2022Djenouri} & Freitas et al. \cite{2019Freitas} \\ 
 Czaplewski and Dzwonkowski \cite{2022Czaplewski} &  \\ 
 \hline 
 \multicolumn{2}{|c|}{AIS+other} \\ \hline 
-Liu et al. \cite{2022Liu5} & Eljabu et al. \cite{2021Eljabu} \\ 
+Eljabu et al. \cite{2021Eljabu} & Liu et al. \cite{2022Liu5} \\ 
 \hline 
 \multicolumn{2}{|c|}{radar} \\ \hline 
 Loi et al. \cite{2020Loi} &  \\ 
