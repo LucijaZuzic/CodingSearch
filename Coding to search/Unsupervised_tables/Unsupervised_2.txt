@@ -18,9 +18,9 @@ Mascaro et al. \cite{2014Mascaro} & Zhen et al. \cite{2017Zhen} \\
 Handayani et al. \cite{handayani2015anomaly} & Ng et al. \cite{2012Ng} \\ 
 \hline 
 \multicolumn{2}{|c|}{BN+GMM+OU} \\ \hline 
+Forti et al. \cite{2022Forti1} & Forti et al. \cite{2022Forti2} \\ 
+Forti et al. \cite{2019Forti} & Forti et al. \cite{2020Forti} \\ 
 Forti et al. \cite{2022Forti} & Forti et al. \cite{2018Forti} \\ 
-Forti et al. \cite{2022Forti2} & Forti et al. \cite{2020Forti} \\ 
-Forti et al. \cite{2019Forti} & Forti et al. \cite{2022Forti1} \\ 
 \hline 
 \multicolumn{2}{|c|}{OU} \\ \hline 
 Coraluppi et al. \cite{2016Coraluppi} & Millefiori et al. \cite{2016Millefiori} \\ 
@@ -45,7 +45,7 @@ Ford et al. \cite{Ford2018LoiteringWI} & Ford et al. \cite{2018Ford} \\
 Mazzarella et al. \cite{MAZZARELLA2017110} & Sfyridis et al. \cite{2017Sfyridis} \\ 
 \hline 
 \multicolumn{2}{|c|}{DBSCAN+GMM} \\ \hline 
-Laxhammar et al. \cite{2009Laxhammar} & Laxhammar \cite{2008Laxhammar} \\ 
+Laxhammar \cite{2008Laxhammar} & Laxhammar et al. \cite{2009Laxhammar} \\ 
 \hline 
 \multicolumn{2}{|c|}{GMM} \\ \hline 
 Kraiman et al. \cite{2002Kraiman} &  \\ 

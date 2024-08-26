@@ -41,21 +41,21 @@ Jiang et al. \cite{jiang2017partition} & Ljunggren \cite{2018Ljunggren} &  & \mu
  &  \\ 
 \hline 
 \multicolumn{4}{|c|}{other} & \multicolumn{2}{|c|}{AIS+radar} \\ \hline 
-Auslander et al. \cite{Auslander2012MaritimeTD} & Dogru and Subasi \cite{2018Dogru} & Kim and Jeong \cite{2015Kim} & \multicolumn{1}{c|}{Kim et al. \cite{kim2019anomalous}} & Forti et al. \cite{2022Forti} & Forti et al. \cite{2018Forti} \\ 
-Toloue and Jahan \cite{2018Toloue} & Coraluppi et al. \cite{2016Coraluppi} & Kim et al. \cite{2016Kim} & \multicolumn{1}{c|}{Ng et al. \cite{2012Ng}} & Forti et al. \cite{2022Forti2} & Forti et al. \cite{2020Forti} \\ 
-Le and Zheng \cite{Le2016TrajectoryPO} & Kraiman et al. \cite{2002Kraiman} & Riveiro et al. \cite{2008Riveiro1} & \multicolumn{1}{c|}{} & d'Afflisio et al. \cite{2018d'Afflisio1} & Forti et al. \cite{2019Forti} \\ 
-Forti et al. \cite{2022Forti1} &  \\ 
+Auslander et al. \cite{Auslander2012MaritimeTD} & Dogru and Subasi \cite{2018Dogru} & Kim and Jeong \cite{2015Kim} & \multicolumn{1}{c|}{Kim et al. \cite{kim2019anomalous}} & Forti et al. \cite{2022Forti1} & Forti et al. \cite{2022Forti2} \\ 
+Toloue and Jahan \cite{2018Toloue} & Coraluppi et al. \cite{2016Coraluppi} & Kim et al. \cite{2016Kim} & \multicolumn{1}{c|}{Ng et al. \cite{2012Ng}} & Forti et al. \cite{2019Forti} & d'Afflisio et al. \cite{2018d'Afflisio1} \\ 
+Le and Zheng \cite{Le2016TrajectoryPO} & Kraiman et al. \cite{2002Kraiman} & Riveiro et al. \cite{2008Riveiro1} & \multicolumn{1}{c|}{} & Forti et al. \cite{2020Forti} & Forti et al. \cite{2022Forti} \\ 
+Forti et al. \cite{2018Forti} &  \\ 
  &  \\ 
  &  \\ 
 \hline 
 \multicolumn{4}{|c|}{AIS+radar} & \multicolumn{2}{|c|}{AIS+environment} \\ \hline 
-Forti et al. \cite{2022Forti} & Forti et al. \cite{2018Forti} & Forti et al. \cite{2022Forti2} & \multicolumn{1}{c|}{Forti et al. \cite{2020Forti}} & Mascaro et al. \cite{2014Mascaro} & Woodill et al. \cite{Woodill2020PredictingIF} \\ 
-d'Afflisio et al. \cite{2018d'Afflisio1} & Forti et al. \cite{2019Forti} & Forti et al. \cite{2022Forti1} & \multicolumn{1}{c|}{} & Zhang et al. \cite{ZHANG2021107674} & Mehri et al. \cite{2023Mehri} \\ 
+Forti et al. \cite{2022Forti1} & Forti et al. \cite{2022Forti2} & Forti et al. \cite{2019Forti} & \multicolumn{1}{c|}{d'Afflisio et al. \cite{2018d'Afflisio1}} & Zhang et al. \cite{ZHANG2021107674} & Mascaro et al. \cite{2014Mascaro} \\ 
+Forti et al. \cite{2020Forti} & Forti et al. \cite{2022Forti} & Forti et al. \cite{2018Forti} & \multicolumn{1}{c|}{} & Mehri et al. \cite{2023Mehri} & Woodill et al. \cite{Woodill2020PredictingIF} \\ 
  &  \\ 
  &  \\ 
 \hline 
 \multicolumn{4}{|c|}{AIS+environment} & \multicolumn{2}{|c|}{camera} \\ \hline 
-Mascaro et al. \cite{2014Mascaro} & Woodill et al. \cite{Woodill2020PredictingIF} & Zhang et al. \cite{ZHANG2021107674} & \multicolumn{1}{c|}{Mehri et al. \cite{2023Mehri}} & Djenouri et al. \cite{2022Djenouri} & Freitas et al. \cite{2019Freitas} \\ 
+Zhang et al. \cite{ZHANG2021107674} & Mascaro et al. \cite{2014Mascaro} & Mehri et al. \cite{2023Mehri} & \multicolumn{1}{c|}{Woodill et al. \cite{Woodill2020PredictingIF}} & Djenouri et al. \cite{2022Djenouri} & Freitas et al. \cite{2019Freitas} \\ 
 Czaplewski and Dzwonkowski \cite{2022Czaplewski} &  \\ 
 \hline 
 \multicolumn{4}{|c|}{camera} & \multicolumn{2}{|c|}{AIS+other} \\ \hline 

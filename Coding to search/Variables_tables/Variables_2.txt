@@ -54,7 +54,7 @@ Fahn et al. \cite{2019Fahn} & Czaplewski and Dzwonkowski \cite{2022Czaplewski} \
 \hline 
 \multicolumn{2}{|c|}{PS+PSC} \\ \hline 
 Ford et al. \cite{Ford2018LoiteringWI} & Auslander et al. \cite{Auslander2012MaritimeTD} \\ 
-Shahir et al. \cite{2019Shahir} & Young \cite{2019Young} \\ 
+Young \cite{2019Young} & Shahir et al. \cite{2019Shahir} \\ 
 Marzuki et al. \cite{2018Marzuki} &  \\ 
 \hline 
 \multicolumn{2}{|c|}{P} \\ \hline 

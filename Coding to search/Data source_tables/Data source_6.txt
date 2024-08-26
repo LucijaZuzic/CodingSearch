@@ -19,11 +19,11 @@ Auslander et al. \cite{Auslander2012MaritimeTD} & Dogru and Subasi \cite{2018Dog
 Kim et al. \cite{2016Kim} & Ng et al. \cite{2012Ng} & Le and Zheng \cite{Le2016TrajectoryPO} & Kraiman et al. \cite{2002Kraiman} & Riveiro et al. \cite{2008Riveiro1} &  \\ 
 \hline 
 \multicolumn{6}{|c|}{AIS+radar} \\ \hline 
-Forti et al. \cite{2022Forti} & Forti et al. \cite{2018Forti} & Forti et al. \cite{2022Forti2} & Forti et al. \cite{2020Forti} & d'Afflisio et al. \cite{2018d'Afflisio1} & Forti et al. \cite{2019Forti} \\ 
-Forti et al. \cite{2022Forti1} &  &  &  &  &  \\ 
+Forti et al. \cite{2022Forti1} & Forti et al. \cite{2022Forti2} & Forti et al. \cite{2019Forti} & d'Afflisio et al. \cite{2018d'Afflisio1} & Forti et al. \cite{2020Forti} & Forti et al. \cite{2022Forti} \\ 
+Forti et al. \cite{2018Forti} &  &  &  &  &  \\ 
 \hline 
 \multicolumn{6}{|c|}{AIS+environment} \\ \hline 
-Mascaro et al. \cite{2014Mascaro} & Woodill et al. \cite{Woodill2020PredictingIF} & Zhang et al. \cite{ZHANG2021107674} & Mehri et al. \cite{2023Mehri} &  &  \\ 
+Zhang et al. \cite{ZHANG2021107674} & Mascaro et al. \cite{2014Mascaro} & Mehri et al. \cite{2023Mehri} & Woodill et al. \cite{Woodill2020PredictingIF} &  &  \\ 
 \hline 
 \multicolumn{6}{|c|}{camera} \\ \hline 
 Djenouri et al. \cite{2022Djenouri} & Freitas et al. \cite{2019Freitas} & Czaplewski and Dzwonkowski \cite{2022Czaplewski} &  &  &  \\ 

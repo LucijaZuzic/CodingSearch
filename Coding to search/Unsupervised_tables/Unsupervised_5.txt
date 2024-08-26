@@ -11,8 +11,8 @@ Bouejla et al. \cite{BOUEJLA201422} & Lane et al. \cite{2010Lane} & Mascaro et a
 Ng et al. \cite{2012Ng} &  &  &  &  \\ 
 \hline 
 \multicolumn{5}{|c|}{BN+GMM+OU} \\ \hline 
-Forti et al. \cite{2022Forti} & Forti et al. \cite{2018Forti} & Forti et al. \cite{2022Forti2} & Forti et al. \cite{2020Forti} & Forti et al. \cite{2019Forti} \\ 
-Forti et al. \cite{2022Forti1} &  &  &  &  \\ 
+Forti et al. \cite{2022Forti1} & Forti et al. \cite{2022Forti2} & Forti et al. \cite{2019Forti} & Forti et al. \cite{2020Forti} & Forti et al. \cite{2022Forti} \\ 
+Forti et al. \cite{2018Forti} &  &  &  &  \\ 
 \hline 
 \multicolumn{5}{|c|}{OU} \\ \hline 
 Coraluppi et al. \cite{2016Coraluppi} & Millefiori et al. \cite{2016Millefiori} & d’Afflisio et al. \cite{2021d’Afflisio} & d’Afflisio et al. \cite{2021d’Afflisio1} &  \\ 
@@ -33,7 +33,7 @@ Ford et al. \cite{Ford2018LoiteringWI} & Ford et al. \cite{2018Ford} &  &  &  \\
 Mazzarella et al. \cite{MAZZARELLA2017110} & Sfyridis et al. \cite{2017Sfyridis} &  &  &  \\ 
 \hline 
 \multicolumn{5}{|c|}{DBSCAN+GMM} \\ \hline 
-Laxhammar et al. \cite{2009Laxhammar} & Laxhammar \cite{2008Laxhammar} &  &  &  \\ 
+Laxhammar \cite{2008Laxhammar} & Laxhammar et al. \cite{2009Laxhammar} &  &  &  \\ 
 \hline 
 \multicolumn{5}{|c|}{GMM} \\ \hline 
 Kraiman et al. \cite{2002Kraiman} &  &  &  &  \\ 

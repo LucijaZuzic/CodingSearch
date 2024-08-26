@@ -346,11 +346,27 @@ def make_a_plot_years_sizes(dict_multi, name_plot):
     maxx = 0
     miny = 0
     maxy = 0
-    colors_use = random_colors(len(dict_multi))
-    #two_colors = random_colors(2)
+    #colors_use_original = ["#000000", "#E69F00", "#56B4E9", "#009E73", "#F0E442", "#0072B2", "#D55E00", "#CC79A7"]
+    colors_use_original = ["#E69F00", "#56B4E9", "#009E73", "#F0E442", "#0072B2", "#D55E00", "#CC79A7"]
+    #colors_use = random_colors(len(dict_multi))
+    patterns_use_original = ["", "/", "\\", "|", "-", "+", "x", "o", "O", ".", "*"]
+    #two_colors_original = random_colors(2)
     #colors_use = get_color_gradient("#0000FF", "#FF0000", len(dict_multi))
     #colors_use = get_color_gradient(two_colors[0], two_colors[1], len(dict_multi))
-    #plt.figure(figsize = (10, 6)) 
+    #plt.figure(figsize = (10, 6))
+    colors_use_final = []
+    patterns_use_final = []
+    color_current_num = 0
+    pattern_current_num = 0
+    for pattern_color_num in range(len(dict_multi)):
+        colors_use_final.append(colors_use_original[color_current_num])
+        patterns_use_final.append(patterns_use_original[pattern_current_num])
+        color_current_num += 1
+        if color_current_num == len(colors_use_original):
+            color_current_num = 0
+            pattern_current_num += 1
+            if pattern_current_num == len(patterns_use_original):
+                pattern_current_num = 0
     for dict_one_name in dict_multi:
         X_axis = list(dict_multi[dict_one_name].keys())
         if len(X_axis) == 0:
@@ -372,30 +388,42 @@ def make_a_plot_years_sizes(dict_multi, name_plot):
             maxy = max(heights_so_far[year_one - minx], maxy)
         stuff_to_plot.append(heights_so_far.copy())
         counter_var += 1
-    plt.figure(figsize = (10, 10)) 
+    plt.figure(figsize = (20, 25), dpi = 600)  
     plt.rcParams.update({'font.size': 20})  
     dict_multi_colors = dict() 
+    dict_multi_patterns = dict() 
     maxlabellen = 0
     ncols = 2
+    if "gorithm" not in name_plot and "Behavior" not in name_plot:
+        ncols = 1
     lblnms = dict()
     lblnms_no_num = dict()
     for current_plt_num in range(len(stuff_to_plot)):
-        X_axis_old = [xval for xval in range(minx, maxx + 1)] 
-        dict_multi_colors[list(dict_multi.keys())[len(stuff_to_plot) - 1 - current_plt_num]] = colors_use[current_plt_num]
+        X_axis_old = [xval for xval in range(minx, maxx + 1)]
+        dict_multi_colors[list(dict_multi.keys())[len(stuff_to_plot) - 1 - current_plt_num]] = colors_use_final[current_plt_num]
+        dict_multi_patterns[list(dict_multi.keys())[len(stuff_to_plot) - 1 - current_plt_num]] = patterns_use_final[current_plt_num]
         lbl_no_num = list(dict_multi.keys())[len(stuff_to_plot) - 1 - current_plt_num]
         lbl = str(current_plt_num + 1) + " " + list(dict_multi.keys())[len(stuff_to_plot) - 1 - current_plt_num]
         if len(lbl) > 30:
             lbl = lbl.replace("+", "+\n")
         if len(lbl_no_num) > 30:
             lbl_no_num = lbl_no_num.replace("+", "+\n")
-        lblnms[colors_use[current_plt_num]] = lbl
-        lblnms_no_num[colors_use[current_plt_num]] = lbl_no_num
+        lblnms[colors_use_final[current_plt_num] + patterns_use_final[current_plt_num]] = lbl
+        lblnms_no_num[colors_use_final[current_plt_num] + patterns_use_final[current_plt_num]] = lbl_no_num
+        edgecolor_use = "#000000"
+        if colors_use_final[current_plt_num] == "#000000":
+            edgecolor_use = "#F0E442"
         plt.bar(X_axis_old, stuff_to_plot[len(stuff_to_plot) - 1 - current_plt_num], 
-                color = colors_use[current_plt_num],
+                color = colors_use_final[current_plt_num],
+                edgecolor = edgecolor_use,
+                hatch = patterns_use_final[current_plt_num],
                 label = lbl_no_num)
         maxlabellen = max(maxlabellen, len(str(current_plt_num + 1) + " " + list(dict_multi.keys())[len(stuff_to_plot) - 1 - current_plt_num]))
     if len(dict_multi) > 1: 
-        plt.legend(ncol = ncols, loc = 'upper left', bbox_to_anchor = (0, -0.15))
+        if "gorithm" not in name_plot and "Behavior" not in name_plot:
+            plt.legend(ncol = ncols, loc = 'upper left')
+        else:
+            plt.legend(ncol = ncols, loc = 'upper left')
     plt.yticks(range(miny, maxy + 1), range(miny, maxy + 1))
     plt.xticks(range(minx, maxx + 1), range(minx, maxx + 1))
     plt.xlabel("Year")
@@ -409,20 +437,26 @@ def make_a_plot_years_sizes(dict_multi, name_plot):
     #plt.show() 
     plt.close()
     
-    plt.figure(figsize = (10, 10)) 
+    plt.figure(figsize = (20, 25), dpi = 600) 
     plt.rcParams.update({'font.size': 20})  
     sizes_dict_entries = [] 
+    width_bar = len(str(len(stuff_to_plot)))
     for current_plt_num in range(len(stuff_to_plot)):
         for dict_one_name in dict_multi_names:
-            lbl_number_extract = int(lblnms[dict_multi_colors[dict_one_name]].split(" ")[0])
+            lbl_number_extract = int(lblnms[dict_multi_colors[dict_one_name] + dict_multi_patterns[dict_one_name]].split(" ")[0])
             if lbl_number_extract != current_plt_num + 1:
                 continue
             sizes_dict_entries.append(dict_multi_names[dict_one_name])
             #print(dict_one_name, len(sizes_dict_entries) - 1, dict_multi_names[dict_one_name])
-            bar1 = plt.bar(current_plt_num + 1, 
+            edgecolor_use = "#000000"
+            if colors_use_final[current_plt_num] == "#000000":
+                edgecolor_use = "#F0E442"
+            bar1 = plt.bar(current_plt_num * width_bar + 1, 
                         dict_multi_names[dict_one_name], 
                         color = dict_multi_colors[dict_one_name],
-                        label = lblnms[dict_multi_colors[dict_one_name]]) 
+                        edgecolor = edgecolor_use,
+                        hatch = dict_multi_patterns[dict_one_name],
+                        label = lblnms[dict_multi_colors[dict_one_name] + dict_multi_patterns[dict_one_name]]) 
         
             for rect in bar1:
                 height = rect.get_height()
@@ -432,9 +466,12 @@ def make_a_plot_years_sizes(dict_multi, name_plot):
     if max(sizes_dict_entries) > 40:
         step_size = 3
     if len(dict_multi) > 1: 
-        plt.legend(ncol = ncols, loc = 'upper left', bbox_to_anchor = (0, -0.15))
+        if "gorithm" not in name_plot and "Behavior" not in name_plot:
+            plt.legend(ncol = ncols, loc = 'upper left')
+        else:
+            plt.legend(ncol = ncols, loc = 'upper left')
     plt.yticks(range(0, max(sizes_dict_entries) + 1, step_size),  range(0, max(sizes_dict_entries) + 1, step_size))
-    plt.xticks(range(1, 1 + len(dict_multi_names), 2), range(1, 1 + len(dict_multi_names), 2))
+    plt.xticks(range(1, 1 + len(dict_multi_names) * width_bar, width_bar), range(1, 1 + len(dict_multi_names), 1))
     plt.xlabel("Category")
     plt.ylabel("Number of Papers")
     plt.title(name_plot_tmp + "\n(Occurence by Category)")
@@ -1019,7 +1056,7 @@ if make_plots_true:
     #return_intersection_data_frames(setsxs, setsys, name_plots, "Variables Behavior Multi")
     merge_images(name_plots, "Variables Behavior Multi")
 
-def get_pby(dict_y): 
+def get_pby(dict_y, indicator_all = False): 
     pby = dict()
     for c in years_from_table(dict_y, True):
         for y in years_from_table(dict_y, True)[c]:
@@ -1028,9 +1065,32 @@ def get_pby(dict_y):
             pby[y] += years_from_table(dict_y, True)[c][y]
     for y in sorted(list(pby.keys())):
         print(y, pby[y])
+    if indicator_all:
+        for y in sorted(list(pby.keys())):
+            all_for_year = dict()
+            for keyds in dict_y:
+                for ref in dict_y[keyds]:
+                    if paper_details[ref]["Year"] == y:
+                        all_for_year[ref] = paper_details[ref]["Author"]
+            sorted_vals = dict(sorted(all_for_year.items(), key=lambda item: len(item[1])))
+            start_new = "\multirow{" + str(int(np.ceil(pby[y] / 2))) + "}{*}{" + str(y) + "}"
+            list_ref = list(sorted_vals.keys())
+            allstr = ""
+            for ref_id in range(int(np.ceil(len(list_ref) / 2))):
+                ref1 = list_ref[ref_id]
+                ref2 = list_ref[- 1 - ref_id]
+                p1 = paper_details[ref1]["Author"] + " \\cite{" + ref1 +"}"
+                p2 = paper_details[ref2]["Author"] + " \\cite{" + ref2 +"}"
+                if p1 != p2:
+                    newstr = start_new + " & " + p1 + " & " + p2 + " \\\\\n"
+                else:
+                    newstr = start_new + " & " + p1 + " & \\\\\n"
+                start_new = ""
+                allstr += newstr
+            print(allstr + "\\hline")
     print(sum(list(pby.values())))
         
-get_pby(all_data)
+get_pby(all_data, True)
 #get_pby(all_position_speed_course)
 #get_pby(all_threats)
 for key_cat in all_threats_by_detection: 
