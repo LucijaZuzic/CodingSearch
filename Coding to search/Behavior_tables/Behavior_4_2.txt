@@ -25,15 +25,15 @@ Pallotta et al. \cite{2013Pallotta1} & Cai et al. \cite{2018Cai} &  & \multicolu
  &  \\ 
 \hline 
 \multicolumn{4}{|c|}{Unusual AIS behavior} & \multicolumn{2}{|c|}{Predicting trajectories+Unusual vessel trajectories} \\ \hline 
-d'Afflisio et al. \cite{2018d'Afflisio1} & Ford et al. \cite{2018Ford} & Kowalska and Peel \cite{2012Kowalska} & \multicolumn{1}{c|}{Mazzarella et al. \cite{MAZZARELLA2017110}} & Le and Zheng \cite{Le2016TrajectoryPO} & Ristic et al. \cite{2008Ristic} \\ 
-Milios et al. \cite{2019Milios} & Singh and Heymann \cite{2020Singh} & Singh and Heymann \cite{2020Singh1} & \multicolumn{1}{c|}{d’Afflisio et al. \cite{2021d’Afflisio}} & Fernandez Arguedas et al. \cite{2015FernandezArguedas} & Fernandez Arguedas et al. \cite{2018FernandezArguedas} \\ 
-d’Afflisio et al. \cite{2021d’Afflisio1} &  &  & \multicolumn{1}{c|}{} & Fernandez Arguedas et al. \cite{2014FernandezArguedas} & Karatas et al. \cite{2021Karatas} \\ 
+d'Afflisio et al. \cite{2018d'Afflisio1} & Ford et al. \cite{2018Ford} & Kowalska and Peel \cite{2012Kowalska} & \multicolumn{1}{c|}{Mazzarella et al. \cite{MAZZARELLA2017110}} & Ristic et al. \cite{2008Ristic} & Karatas et al. \cite{2021Karatas} \\ 
+Milios et al. \cite{2019Milios} & Singh and Heymann \cite{2020Singh} & Singh and Heymann \cite{2020Singh1} & \multicolumn{1}{c|}{d’Afflisio et al. \cite{2021d’Afflisio}} & Fernandez Arguedas et al. \cite{2014FernandezArguedas} & Le and Zheng \cite{Le2016TrajectoryPO} \\ 
+d’Afflisio et al. \cite{2021d’Afflisio1} &  &  & \multicolumn{1}{c|}{} & Fernandez Arguedas et al. \cite{2018FernandezArguedas} & Fernandez Arguedas et al. \cite{2015FernandezArguedas} \\ 
 Singh et al. \cite{2022Singh} &  \\ 
  &  \\ 
 \hline 
 \multicolumn{4}{|c|}{Predicting trajectories+Unusual vessel trajectories} & \multicolumn{2}{|c|}{Predicting trajectories} \\ \hline 
-Le and Zheng \cite{Le2016TrajectoryPO} & Ristic et al. \cite{2008Ristic} & Fernandez Arguedas et al. \cite{2015FernandezArguedas} & \multicolumn{1}{c|}{Fernandez Arguedas et al. \cite{2018FernandezArguedas}} & Wang et al. \cite{2023Wang} & Wang et al. \cite{2020Wang2} \\ 
-Fernandez Arguedas et al. \cite{2014FernandezArguedas} & Karatas et al. \cite{2021Karatas} & Singh et al. \cite{2022Singh} & \multicolumn{1}{c|}{} & Duca et al. \cite{2017Duca} & Mehri et al. \cite{2021Mehri} \\ 
+Ristic et al. \cite{2008Ristic} & Karatas et al. \cite{2021Karatas} & Fernandez Arguedas et al. \cite{2014FernandezArguedas} & \multicolumn{1}{c|}{Le and Zheng \cite{Le2016TrajectoryPO}} & Wang et al. \cite{2023Wang} & Wang et al. \cite{2020Wang2} \\ 
+Fernandez Arguedas et al. \cite{2018FernandezArguedas} & Fernandez Arguedas et al. \cite{2015FernandezArguedas} & Singh et al. \cite{2022Singh} & \multicolumn{1}{c|}{} & Duca et al. \cite{2017Duca} & Mehri et al. \cite{2021Mehri} \\ 
 Mehri et al. \cite{2023Mehri} & Virjonen et al. \cite{2018Virjonen} \\ 
  &  \\ 
 \hline 
@@ -55,11 +55,11 @@ Pohontu et al. \cite{2023Pohontu} & Pohontu et al. \cite{2023Pohontu1} & Manteco
 Marzuki et al. \cite{2018Marzuki} &  \\ 
 \hline 
 \multicolumn{4}{|c|}{IUU fishing+Illegal zone entry} & \multicolumn{2}{|c|}{Unusual course+Unusual position+Unusual speed} \\ \hline 
-Woodill et al. \cite{Woodill2020PredictingIF} & Ford et al. \cite{Ford2018LoiteringWI} & Marzuki et al. \cite{2018Marzuki} & \multicolumn{1}{c|}{} & Kim et al. \cite{2016Kim} & Kim et al. \cite{kim2019anomalous} \\ 
-Zhen et al. \cite{2017Zhen} &  \\ 
+Woodill et al. \cite{Woodill2020PredictingIF} & Ford et al. \cite{Ford2018LoiteringWI} & Marzuki et al. \cite{2018Marzuki} & \multicolumn{1}{c|}{} & Kim et al. \cite{2016Kim} & Zhen et al. \cite{2017Zhen} \\ 
+Kim et al. \cite{kim2019anomalous} &  \\ 
 \hline 
 \multicolumn{4}{|c|}{Unusual course+Unusual position+Unusual speed} & \multicolumn{2}{|c|}{Piracy} \\ \hline 
-Kim et al. \cite{2016Kim} & Kim et al. \cite{kim2019anomalous} & Zhen et al. \cite{2017Zhen} & \multicolumn{1}{c|}{} & Bouejla et al. \cite{BOUEJLA201422} & Dabrowski and de Villiers \cite{DABROWSKI2015116} \\ 
+Kim et al. \cite{2016Kim} & Zhen et al. \cite{2017Zhen} & Kim et al. \cite{kim2019anomalous} & \multicolumn{1}{c|}{} & Bouejla et al. \cite{BOUEJLA201422} & Dabrowski and de Villiers \cite{DABROWSKI2015116} \\ 
  &  \\ 
 \hline 
 \multicolumn{4}{|c|}{Piracy} & \multicolumn{2}{|c|}{Unusual stop} \\ \hline 

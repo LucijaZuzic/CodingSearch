@@ -11,10 +11,10 @@ BRNN & Xia and Gao \cite{2020Xia} \\ \hline
 AE & Liu and Shi \cite{2020Liu}, Hu et al. \cite{2023Hu}, Xie et al. \cite{2023Xie}, Jiang et al. \cite{2016Jiang} \\ \hline 
 K-means & Hanyang et al. \cite{2019Hanyang} \\ \hline 
 DBN+GMM & Dabrowski and de Villiers \cite{DABROWSKI2015116} \\ \hline 
-DBSCAN+GMM & Laxhammar \cite{2008Laxhammar}, Laxhammar et al. \cite{2009Laxhammar} \\ \hline 
-DBSCAN+KDE & Loi et al. \cite{2020Loi}, Pallotta et al. \cite{2013Pallotta}, Pallotta et al. \cite{2013Pallotta1} \\ \hline 
+DBSCAN+GMM & Laxhammar et al. \cite{2009Laxhammar}, Laxhammar \cite{2008Laxhammar} \\ \hline 
+DBSCAN+KDE & Pallotta et al. \cite{2013Pallotta}, Loi et al. \cite{2020Loi}, Pallotta et al. \cite{2013Pallotta1} \\ \hline 
 DBSCAN+MCM & Varlamis et al. \cite{Varlamis2019ANA} \\ \hline 
-DBSCAN+OU & Coscia et al. \cite{2018Coscia}, Coscia et al. \cite{2018Coscia1}, d'Afflisio et al. \cite{2018d'Afflisio1} \\ \hline 
+DBSCAN+OU & d'Afflisio et al. \cite{2018d'Afflisio1}, Coscia et al. \cite{2018Coscia}, Coscia et al. \cite{2018Coscia1} \\ \hline 
 GMM+KDE & Anneken et al. \cite{2015Anneken} \\ \hline 
 GMM+SOM & Riveiro et al. \cite{2008Riveiro1} \\ \hline 
-BN+GMM+OU & Forti et al. \cite{2022Forti}, Forti et al. \cite{2019Forti}, Forti et al. \cite{2020Forti}, Forti et al. \cite{2018Forti}, Forti et al. \cite{2022Forti1}, Forti et al. \cite{2022Forti2} \\ \hline 
+BN+GMM+OU & Forti et al. \cite{2022Forti1}, Forti et al. \cite{2022Forti}, Forti et al. \cite{2019Forti}, Forti et al. \cite{2022Forti2}, Forti et al. \cite{2018Forti}, Forti et al. \cite{2020Forti} \\ \hline 

@@ -11,8 +11,8 @@ Bouejla et al. \cite{BOUEJLA201422} & Lane et al. \cite{2010Lane} & Mascaro et a
 Ng et al. \cite{2012Ng} &  &  &  &  \\ 
 \hline 
 \multicolumn{5}{|c|}{BN+GMM+OU} \\ \hline 
-Forti et al. \cite{2022Forti} & Forti et al. \cite{2019Forti} & Forti et al. \cite{2020Forti} & Forti et al. \cite{2018Forti} & Forti et al. \cite{2022Forti1} \\ 
-Forti et al. \cite{2022Forti2} &  &  &  &  \\ 
+Forti et al. \cite{2022Forti1} & Forti et al. \cite{2022Forti} & Forti et al. \cite{2019Forti} & Forti et al. \cite{2022Forti2} & Forti et al. \cite{2018Forti} \\ 
+Forti et al. \cite{2020Forti} &  &  &  &  \\ 
 \hline 
 \multicolumn{5}{|c|}{OU} \\ \hline 
 Coraluppi et al. \cite{2016Coraluppi} & Millefiori et al. \cite{2016Millefiori} & d’Afflisio et al. \cite{2021d’Afflisio} & d’Afflisio et al. \cite{2021d’Afflisio1} &  \\ 
@@ -21,10 +21,10 @@ Coraluppi et al. \cite{2016Coraluppi} & Millefiori et al. \cite{2016Millefiori} 
 Liu and Shi \cite{2020Liu} & Hu et al. \cite{2023Hu} & Xie et al. \cite{2023Xie} & Jiang et al. \cite{2016Jiang} &  \\ 
 \hline 
 \multicolumn{5}{|c|}{DBSCAN+KDE} \\ \hline 
-Loi et al. \cite{2020Loi} & Pallotta et al. \cite{2013Pallotta} & Pallotta et al. \cite{2013Pallotta1} &  &  \\ 
+Pallotta et al. \cite{2013Pallotta} & Loi et al. \cite{2020Loi} & Pallotta et al. \cite{2013Pallotta1} &  &  \\ 
 \hline 
 \multicolumn{5}{|c|}{DBSCAN+OU} \\ \hline 
-Coscia et al. \cite{2018Coscia} & Coscia et al. \cite{2018Coscia1} & d'Afflisio et al. \cite{2018d'Afflisio1} &  &  \\ 
+d'Afflisio et al. \cite{2018d'Afflisio1} & Coscia et al. \cite{2018Coscia} & Coscia et al. \cite{2018Coscia1} &  &  \\ 
 \hline 
 \multicolumn{5}{|c|}{GAM} \\ \hline 
 Ford et al. \cite{Ford2018LoiteringWI} & Ford et al. \cite{2018Ford} &  &  &  \\ 
@@ -33,7 +33,7 @@ Ford et al. \cite{Ford2018LoiteringWI} & Ford et al. \cite{2018Ford} &  &  &  \\
 Mazzarella et al. \cite{MAZZARELLA2017110} & Sfyridis et al. \cite{2017Sfyridis} &  &  &  \\ 
 \hline 
 \multicolumn{5}{|c|}{DBSCAN+GMM} \\ \hline 
-Laxhammar \cite{2008Laxhammar} & Laxhammar et al. \cite{2009Laxhammar} &  &  &  \\ 
+Laxhammar et al. \cite{2009Laxhammar} & Laxhammar \cite{2008Laxhammar} &  &  &  \\ 
 \hline 
 \multicolumn{5}{|c|}{GMM} \\ \hline 
 Kraiman et al. \cite{2002Kraiman} &  &  &  &  \\ 

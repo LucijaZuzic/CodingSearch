@@ -59,12 +59,12 @@ d’Afflisio et al. \cite{2021d’Afflisio} \\
 d’Afflisio et al. \cite{2021d’Afflisio1} \\ 
 \hline 
 \multicolumn{1}{|c|}{Predicting trajectories+Unusual vessel trajectories} \\ \hline 
-Le and Zheng \cite{Le2016TrajectoryPO} \\ 
 Ristic et al. \cite{2008Ristic} \\ 
-Fernandez Arguedas et al. \cite{2015FernandezArguedas} \\ 
-Fernandez Arguedas et al. \cite{2018FernandezArguedas} \\ 
-Fernandez Arguedas et al. \cite{2014FernandezArguedas} \\ 
 Karatas et al. \cite{2021Karatas} \\ 
+Fernandez Arguedas et al. \cite{2014FernandezArguedas} \\ 
+Le and Zheng \cite{Le2016TrajectoryPO} \\ 
+Fernandez Arguedas et al. \cite{2018FernandezArguedas} \\ 
+Fernandez Arguedas et al. \cite{2015FernandezArguedas} \\ 
 Singh et al. \cite{2022Singh} \\ 
 \hline 
 \multicolumn{1}{|c|}{Predicting trajectories} \\ \hline 
@@ -99,8 +99,8 @@ Marzuki et al. \cite{2018Marzuki} \\
 \hline 
 \multicolumn{1}{|c|}{Unusual course+Unusual position+Unusual speed} \\ \hline 
 Kim et al. \cite{2016Kim} \\ 
-Kim et al. \cite{kim2019anomalous} \\ 
 Zhen et al. \cite{2017Zhen} \\ 
+Kim et al. \cite{kim2019anomalous} \\ 
 \hline 
 \multicolumn{1}{|c|}{Piracy} \\ \hline 
 Bouejla et al. \cite{BOUEJLA201422} \\ 

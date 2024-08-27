@@ -41,29 +41,29 @@ Jiang et al. \cite{jiang2017partition} & Ljunggren \cite{2018Ljunggren} &  & \mu
  &  \\ 
 \hline 
 \multicolumn{4}{|c|}{other} & \multicolumn{2}{|c|}{AIS+radar} \\ \hline 
-Auslander et al. \cite{Auslander2012MaritimeTD} & Dogru and Subasi \cite{2018Dogru} & Kim and Jeong \cite{2015Kim} & \multicolumn{1}{c|}{Kim et al. \cite{kim2019anomalous}} & Forti et al. \cite{2022Forti} & Forti et al. \cite{2019Forti} \\ 
-Toloue and Jahan \cite{2018Toloue} & Coraluppi et al. \cite{2016Coraluppi} & Kim et al. \cite{2016Kim} & \multicolumn{1}{c|}{Ng et al. \cite{2012Ng}} & d'Afflisio et al. \cite{2018d'Afflisio1} & Forti et al. \cite{2020Forti} \\ 
-Le and Zheng \cite{Le2016TrajectoryPO} & Kraiman et al. \cite{2002Kraiman} & Riveiro et al. \cite{2008Riveiro1} & \multicolumn{1}{c|}{} & Forti et al. \cite{2018Forti} & Forti et al. \cite{2022Forti1} \\ 
-Forti et al. \cite{2022Forti2} &  \\ 
+Auslander et al. \cite{Auslander2012MaritimeTD} & Dogru and Subasi \cite{2018Dogru} & Kim and Jeong \cite{2015Kim} & \multicolumn{1}{c|}{Kim et al. \cite{kim2019anomalous}} & d'Afflisio et al. \cite{2018d'Afflisio1} & Forti et al. \cite{2022Forti1} \\ 
+Toloue and Jahan \cite{2018Toloue} & Coraluppi et al. \cite{2016Coraluppi} & Kim et al. \cite{2016Kim} & \multicolumn{1}{c|}{Ng et al. \cite{2012Ng}} & Forti et al. \cite{2022Forti} & Forti et al. \cite{2019Forti} \\ 
+Le and Zheng \cite{Le2016TrajectoryPO} & Kraiman et al. \cite{2002Kraiman} & Riveiro et al. \cite{2008Riveiro1} & \multicolumn{1}{c|}{} & Forti et al. \cite{2022Forti2} & Forti et al. \cite{2018Forti} \\ 
+Forti et al. \cite{2020Forti} &  \\ 
  &  \\ 
  &  \\ 
 \hline 
 \multicolumn{4}{|c|}{AIS+radar} & \multicolumn{2}{|c|}{AIS+environment} \\ \hline 
-Forti et al. \cite{2022Forti} & Forti et al. \cite{2019Forti} & d'Afflisio et al. \cite{2018d'Afflisio1} & \multicolumn{1}{c|}{Forti et al. \cite{2020Forti}} & Zhang et al. \cite{ZHANG2021107674} & Woodill et al. \cite{Woodill2020PredictingIF} \\ 
-Forti et al. \cite{2018Forti} & Forti et al. \cite{2022Forti1} & Forti et al. \cite{2022Forti2} & \multicolumn{1}{c|}{} & Mascaro et al. \cite{2014Mascaro} & Mehri et al. \cite{2023Mehri} \\ 
+d'Afflisio et al. \cite{2018d'Afflisio1} & Forti et al. \cite{2022Forti1} & Forti et al. \cite{2022Forti} & \multicolumn{1}{c|}{Forti et al. \cite{2019Forti}} & Mascaro et al. \cite{2014Mascaro} & Mehri et al. \cite{2023Mehri} \\ 
+Forti et al. \cite{2022Forti2} & Forti et al. \cite{2018Forti} & Forti et al. \cite{2020Forti} & \multicolumn{1}{c|}{} & Woodill et al. \cite{Woodill2020PredictingIF} & Zhang et al. \cite{ZHANG2021107674} \\ 
  &  \\ 
  &  \\ 
 \hline 
 \multicolumn{4}{|c|}{AIS+environment} & \multicolumn{2}{|c|}{camera} \\ \hline 
-Zhang et al. \cite{ZHANG2021107674} & Woodill et al. \cite{Woodill2020PredictingIF} & Mascaro et al. \cite{2014Mascaro} & \multicolumn{1}{c|}{Mehri et al. \cite{2023Mehri}} & Djenouri et al. \cite{2022Djenouri} & Freitas et al. \cite{2019Freitas} \\ 
+Mascaro et al. \cite{2014Mascaro} & Mehri et al. \cite{2023Mehri} & Woodill et al. \cite{Woodill2020PredictingIF} & \multicolumn{1}{c|}{Zhang et al. \cite{ZHANG2021107674}} & Djenouri et al. \cite{2022Djenouri} & Freitas et al. \cite{2019Freitas} \\ 
 Czaplewski and Dzwonkowski \cite{2022Czaplewski} &  \\ 
 \hline 
 \multicolumn{4}{|c|}{camera} & \multicolumn{2}{|c|}{AIS+other} \\ \hline 
-Djenouri et al. \cite{2022Djenouri} & Freitas et al. \cite{2019Freitas} & Czaplewski and Dzwonkowski \cite{2022Czaplewski} & \multicolumn{1}{c|}{} & Liu et al. \cite{2022Liu5} & Eljabu et al. \cite{2021Eljabu} \\ 
+Djenouri et al. \cite{2022Djenouri} & Freitas et al. \cite{2019Freitas} & Czaplewski and Dzwonkowski \cite{2022Czaplewski} & \multicolumn{1}{c|}{} & Eljabu et al. \cite{2021Eljabu} & Liu et al. \cite{2022Liu5} \\ 
  &  \\ 
 \hline 
 \multicolumn{4}{|c|}{AIS+other} & \multicolumn{2}{|c|}{radar} \\ \hline 
-Liu et al. \cite{2022Liu5} & Eljabu et al. \cite{2021Eljabu} &  & \multicolumn{1}{c|}{} & Loi et al. \cite{2020Loi} &  \\ 
+Eljabu et al. \cite{2021Eljabu} & Liu et al. \cite{2022Liu5} &  & \multicolumn{1}{c|}{} & Loi et al. \cite{2020Loi} &  \\ 
 \hline 
 \multicolumn{4}{|c|}{radar} & \multicolumn{2}{|c|}{SAR} \\ \hline 
 Loi et al. \cite{2020Loi} &  &  & \multicolumn{1}{c|}{} & Fahn et al. \cite{2019Fahn} &  \\ 

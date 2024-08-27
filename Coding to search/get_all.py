@@ -349,7 +349,7 @@ def make_a_plot_years_sizes(dict_multi, name_plot):
     new_dimensions = {"Not applicable": [[1, (10, 10), "upper left"], [1, (10, 10), "upper left"]],
                 "Intents": [[1, (11, 10), "upper left"], [1, (10, 10), "upper left"]],
                 "Abnormal activities": [[1, (10, 10), "upper left"], [1, (10, 12), "upper right"]],
-                "Abnormal behaviors": [[1, (10, 24), "upper left"], [1, (10, 12), "upper left"]],
+                "Abnormal behaviors": [[1, (15, 15), "upper left"], [1, (10, 12), "upper left"]],
                 "Data source": [[1, (10, 10), "upper left"], [1, (10, 10), "upper left"]],
                 "Extracting information": [[1, (10, 13), "upper left"], [1, (10, 10), "upper left"]],
                 "Unsupervised": [[2, (15, 15), "upper left"], [2, (15, 15), "upper left"]],
@@ -970,7 +970,7 @@ for key_cat in all_threats_by_detection:
     #print(key_cat)  
     all_threats_by_detection[key_cat] = filter_dict(all_threats_by_detection[key_cat])  
     print_table(all_threats_by_detection[key_cat], key_cat, False)  
-make_plots_true = True    
+make_plots_true = False    
 if make_plots_true:
     make_a_plot_years_sizes(years_from_table(all_data), "Data source")  
     
@@ -1063,22 +1063,41 @@ if make_plots_true:
     #return_intersection_data_frames(setsxs, setsys, name_plots, "Variables Behavior Multi")
     merge_images(name_plots, "Variables Behavior Multi")
 
+def hex_to_rgb(value):
+    value = value.lstrip('#').lower()
+    lv = len(value)
+    return tuple(int(value[i:i + lv // 3], 16) for i in range(0, lv, lv // 3))
+
 def get_pby(dict_y, indicator_all = False): 
     pby = dict()
     for c in years_from_table(dict_y, True):
         for y in years_from_table(dict_y, True)[c]:
             if y not in pby:
-                pby[y] =0
+                pby[y] = 0
             pby[y] += years_from_table(dict_y, True)[c][y]
     for y in sorted(list(pby.keys())):
         print(y, pby[y])
     if indicator_all:
+        years_all = dict()
+        bib_file = open("main_final.tex", "r", encoding = "UTF-8")
+        bib_file_lines = bib_file.readlines()
+        bib_file.close()
+        ref_dict = dict()
+        ordi = 1
+        for line in bib_file_lines:
+            line_new = line.replace("\\bibitem{", "")
+            ix = line_new.find("}")
+            line_new = line_new[:ix]
+            ref_dict[line_new] = str(ordi)
+            ordi += 1
         for y in sorted(list(pby.keys())):
             all_for_year = dict()
+            years_all[y] = dict()
             for keyds in dict_y:
                 for ref in dict_y[keyds]:
                     if paper_details[ref]["Year"] == y:
                         all_for_year[ref] = paper_details[ref]["Author"]
+                        years_all[y][ref] = (paper_details[ref]["Author"], paper_details[ref]["Title"].replace("mediods", "medoids"))
             sorted_vals = dict(sorted(all_for_year.items(), key=lambda item: len(item[1])))
             start_new = "\multirow{" + str(int(np.ceil(pby[y] / 2))) + "}{*}{" + str(y) + "}"
             list_ref = list(sorted_vals.keys())
@@ -1094,7 +1113,59 @@ def get_pby(dict_y, indicator_all = False):
                     newstr = start_new + " & " + p1 + " & \\\\\n"
                 start_new = ""
                 allstr += newstr
-            print(allstr + "\\hline")
+            #print(allstr + "\\hline")
+        y_axis_text = []
+        plt.figure(figsize = (10, 16), dpi = 600)
+        ord_total = 0
+        ncol_time = 2
+        start = 2
+        offset = 2.5
+        pos_total = dict()
+        for column_num in range(ncol_time):
+            pos_total[column_num] = 0
+        min_y = min(list(years_all.keys()))
+        colors_use_original = ["#E69F00", "#56B4E9", "#009E73", "#F0E442", "#0072B2", "#D55E00", "#CC79A7"]
+        for y in years_all:
+            y_axis_text.append("")
+            column_num = ord_total % ncol_time
+            column_num = y > 2018
+            for ref in years_all[y]:
+                y_axis_text[-1] += paper_details[ref]["Author"] + " [" + ref_dict[ref.replace("'", "").replace( "’", "").replace( "_", "")] + "]\n"
+            print(column_num, pos_total[column_num])
+            print(y_axis_text[-1])
+            offset_one = column_num * 1 / ncol_time
+            plt.text((column_num) * (start + offset) + start * 0.5, pos_total[column_num] + offset_one, str(y), 
+                     bbox = dict(boxstyle = "square", ec = "#000000", fc = colors_use_original[ord_total % len(colors_use_original)]))
+            plt.text((column_num) * (start + offset) + start, pos_total[column_num] + offset_one, y_axis_text[-1][:-1], 
+                     bbox = dict(boxstyle = "square", ec = "#000000", fc = colors_use_original[ord_total % len(colors_use_original)]))
+            plt.plot([(column_num) * (start + offset) + start * 0.75, (column_num) * (start + offset) + start],
+                      [pos_total[column_num] + offset_one, pos_total[column_num] + offset_one],
+                        color = "black")
+            print(len(years_all[y]))
+            pos_total[column_num] += len(years_all[y]) + 1
+            ord_total += 1
+        maxcol = 0
+        for column_num in range(ncol_time):
+            offset_one = column_num * 1 / ncol_time
+            if pos_total[column_num] + offset_one > maxcol:
+                maxcol = pos_total[column_num] + offset_one
+            plt.plot([(column_num) * (start + offset) + start * 0.5, (column_num) * (start + offset) + start * 0.5],
+                      [-1, pos_total[column_num] + offset_one],
+                        color = "black")
+            starmidxx = (column_num) * (start + offset) + start * 0.5
+            ofsx = 0.125
+            ofsy = 1
+            endy = pos_total[column_num] + offset_one
+            starty = endy - ofsy
+            startleftx = (column_num) * (start + offset) + start * 0.5 - ofsx
+            startrightx = (column_num) * (start + offset) + start * 0.5 + ofsx
+            plt.fill_between([startleftx, starmidxx], [starty, starty], [starty, endy], color = "black")
+            plt.fill_between([starmidxx, startrightx], [starty, starty], [endy, starty], color = "black")
+        plt.ylim(-2, maxcol + 1)
+        plt.xlim(0, ncol_time * (start + offset) + start)
+        plt.axis("off")
+        plt.savefig("timeline.png", bbox_inches="tight")
+        plt.close()
     print(sum(list(pby.values())))
         
 get_pby(all_data, True)

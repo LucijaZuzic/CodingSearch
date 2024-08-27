@@ -53,9 +53,9 @@ Djenouri et al. \cite{2022Djenouri} & Freitas et al. \cite{2019Freitas} \\
 Fahn et al. \cite{2019Fahn} & Czaplewski and Dzwonkowski \cite{2022Czaplewski} \\ 
 \hline 
 \multicolumn{2}{|c|}{PS+PSC} \\ \hline 
-Young \cite{2019Young} & Ford et al. \cite{Ford2018LoiteringWI} \\ 
-Shahir et al. \cite{2019Shahir} & Auslander et al. \cite{Auslander2012MaritimeTD} \\ 
-Marzuki et al. \cite{2018Marzuki} &  \\ 
+Young \cite{2019Young} & Auslander et al. \cite{Auslander2012MaritimeTD} \\ 
+Marzuki et al. \cite{2018Marzuki} & Ford et al. \cite{Ford2018LoiteringWI} \\ 
+Shahir et al. \cite{2019Shahir} &  \\ 
 \hline 
 \multicolumn{2}{|c|}{P} \\ \hline 
 Zhao and Shi \cite{zhao_shi_2019} & Jiang et al. \cite{2016Jiang} \\ 
