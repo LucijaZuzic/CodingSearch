@@ -101,10 +101,10 @@ Fahn et al. \cite{2019Fahn} \\
 Czaplewski and Dzwonkowski \cite{2022Czaplewski} \\ 
 \hline 
 \multicolumn{1}{|c|}{PS+PSC} \\ \hline 
-Ford et al. \cite{Ford2018LoiteringWI} \\ 
-Auslander et al. \cite{Auslander2012MaritimeTD} \\ 
 Young \cite{2019Young} \\ 
+Ford et al. \cite{Ford2018LoiteringWI} \\ 
 Shahir et al. \cite{2019Shahir} \\ 
+Auslander et al. \cite{Auslander2012MaritimeTD} \\ 
 Marzuki et al. \cite{2018Marzuki} \\ 
 \hline 
 \multicolumn{1}{|c|}{P} \\ \hline 

@@ -349,7 +349,7 @@ def make_a_plot_years_sizes(dict_multi, name_plot):
     new_dimensions = {"Not applicable": [[1, (10, 10), "upper left"], [1, (10, 10), "upper left"]],
                 "Intents": [[1, (11, 10), "upper left"], [1, (10, 10), "upper left"]],
                 "Abnormal activities": [[1, (10, 10), "upper left"], [1, (10, 12), "upper right"]],
-                "Abnormal behaviors": [[1, (10, 20), "upper left"], [1, (10, 12), "upper left"]],
+                "Abnormal behaviors": [[1, (10, 24), "upper left"], [1, (10, 12), "upper left"]],
                 "Data source": [[1, (10, 10), "upper left"], [1, (10, 10), "upper left"]],
                 "Extracting information": [[1, (10, 13), "upper left"], [1, (10, 10), "upper left"]],
                 "Unsupervised": [[2, (15, 15), "upper left"], [2, (15, 15), "upper left"]],

@@ -13,30 +13,30 @@ Lei and Mingchao \cite{2018Lei} & \multicolumn{1}{c|}{Wei et al. \cite{2022Wei}}
 Du Toit and Van Vuuren \cite{2014DuToit} & \multicolumn{1}{c|}{Pallotta et al. \cite{2014Pallotta}} &  &  \\ 
 \hline 
 \multicolumn{2}{|c|}{BN} & \multicolumn{2}{|c|}{BN+GMM+OU} \\ \hline 
-Bouejla et al. \cite{BOUEJLA201422} & \multicolumn{1}{c|}{Lane et al. \cite{2010Lane}} & Forti et al. \cite{2022Forti1} & Forti et al. \cite{2022Forti2} \\ 
-Mascaro et al. \cite{2014Mascaro} & \multicolumn{1}{c|}{Zhen et al. \cite{2017Zhen}} & Forti et al. \cite{2019Forti} & Forti et al. \cite{2020Forti} \\ 
-Handayani et al. \cite{handayani2015anomaly} & \multicolumn{1}{c|}{Ng et al. \cite{2012Ng}} & Forti et al. \cite{2022Forti} & Forti et al. \cite{2018Forti} \\ 
+Bouejla et al. \cite{BOUEJLA201422} & \multicolumn{1}{c|}{Lane et al. \cite{2010Lane}} & Forti et al. \cite{2022Forti} & Forti et al. \cite{2019Forti} \\ 
+Mascaro et al. \cite{2014Mascaro} & \multicolumn{1}{c|}{Zhen et al. \cite{2017Zhen}} & Forti et al. \cite{2020Forti} & Forti et al. \cite{2018Forti} \\ 
+Handayani et al. \cite{handayani2015anomaly} & \multicolumn{1}{c|}{Ng et al. \cite{2012Ng}} & Forti et al. \cite{2022Forti1} & Forti et al. \cite{2022Forti2} \\ 
 \hline 
 \multicolumn{2}{|c|}{BN+GMM+OU} & \multicolumn{2}{|c|}{OU} \\ \hline 
-Forti et al. \cite{2022Forti1} & \multicolumn{1}{c|}{Forti et al. \cite{2022Forti2}} & Coraluppi et al. \cite{2016Coraluppi} & Millefiori et al. \cite{2016Millefiori} \\ 
-Forti et al. \cite{2019Forti} & \multicolumn{1}{c|}{Forti et al. \cite{2020Forti}} & d’Afflisio et al. \cite{2021d’Afflisio} & d’Afflisio et al. \cite{2021d’Afflisio1} \\ 
-Forti et al. \cite{2022Forti} & \multicolumn{1}{c|}{Forti et al. \cite{2018Forti}} &  &  \\ 
+Forti et al. \cite{2022Forti} & \multicolumn{1}{c|}{Forti et al. \cite{2019Forti}} & Coraluppi et al. \cite{2016Coraluppi} & Millefiori et al. \cite{2016Millefiori} \\ 
+Forti et al. \cite{2020Forti} & \multicolumn{1}{c|}{Forti et al. \cite{2018Forti}} & d’Afflisio et al. \cite{2021d’Afflisio} & d’Afflisio et al. \cite{2021d’Afflisio1} \\ 
+Forti et al. \cite{2022Forti1} & \multicolumn{1}{c|}{Forti et al. \cite{2022Forti2}} &  &  \\ 
 \hline 
 \multicolumn{2}{|c|}{OU} & \multicolumn{2}{|c|}{AE} \\ \hline 
 Coraluppi et al. \cite{2016Coraluppi} & \multicolumn{1}{c|}{Millefiori et al. \cite{2016Millefiori}} & Liu and Shi \cite{2020Liu} & Hu et al. \cite{2023Hu} \\ 
 d’Afflisio et al. \cite{2021d’Afflisio} & \multicolumn{1}{c|}{d’Afflisio et al. \cite{2021d’Afflisio1}} & Xie et al. \cite{2023Xie} & Jiang et al. \cite{2016Jiang} \\ 
 \hline 
 \multicolumn{2}{|c|}{AE} & \multicolumn{2}{|c|}{DBSCAN+KDE} \\ \hline 
-Liu and Shi \cite{2020Liu} & \multicolumn{1}{c|}{Hu et al. \cite{2023Hu}} & Loi et al. \cite{2020Loi} & Pallotta et al. \cite{2013Pallotta1} \\ 
-Xie et al. \cite{2023Xie} & \multicolumn{1}{c|}{Jiang et al. \cite{2016Jiang}} & Pallotta et al. \cite{2013Pallotta} &  \\ 
+Liu and Shi \cite{2020Liu} & \multicolumn{1}{c|}{Hu et al. \cite{2023Hu}} & Loi et al. \cite{2020Loi} & Pallotta et al. \cite{2013Pallotta} \\ 
+Xie et al. \cite{2023Xie} & \multicolumn{1}{c|}{Jiang et al. \cite{2016Jiang}} & Pallotta et al. \cite{2013Pallotta1} &  \\ 
 \hline 
 \multicolumn{2}{|c|}{DBSCAN+KDE} & \multicolumn{2}{|c|}{DBSCAN+OU} \\ \hline 
-Loi et al. \cite{2020Loi} & \multicolumn{1}{c|}{Pallotta et al. \cite{2013Pallotta1}} & d'Afflisio et al. \cite{2018d'Afflisio1} & Coscia et al. \cite{2018Coscia1} \\ 
-Pallotta et al. \cite{2013Pallotta} & \multicolumn{1}{c|}{} & Coscia et al. \cite{2018Coscia} &  \\ 
+Loi et al. \cite{2020Loi} & \multicolumn{1}{c|}{Pallotta et al. \cite{2013Pallotta}} & Coscia et al. \cite{2018Coscia} & Coscia et al. \cite{2018Coscia1} \\ 
+Pallotta et al. \cite{2013Pallotta1} & \multicolumn{1}{c|}{} & d'Afflisio et al. \cite{2018d'Afflisio1} &  \\ 
 \hline 
 \multicolumn{2}{|c|}{DBSCAN+OU} & \multicolumn{2}{|c|}{GAM} \\ \hline 
-d'Afflisio et al. \cite{2018d'Afflisio1} & \multicolumn{1}{c|}{Coscia et al. \cite{2018Coscia1}} & Ford et al. \cite{Ford2018LoiteringWI} & Ford et al. \cite{2018Ford} \\ 
-Coscia et al. \cite{2018Coscia} & \multicolumn{1}{c|}{} &  &  \\ 
+Coscia et al. \cite{2018Coscia} & \multicolumn{1}{c|}{Coscia et al. \cite{2018Coscia1}} & Ford et al. \cite{Ford2018LoiteringWI} & Ford et al. \cite{2018Ford} \\ 
+d'Afflisio et al. \cite{2018d'Afflisio1} & \multicolumn{1}{c|}{} &  &  \\ 
 \hline 
 \multicolumn{2}{|c|}{GAM} & \multicolumn{2}{|c|}{OSVM} \\ \hline 
 Ford et al. \cite{Ford2018LoiteringWI} & \multicolumn{1}{c|}{Ford et al. \cite{2018Ford}} & Mazzarella et al. \cite{MAZZARELLA2017110} & Sfyridis et al. \cite{2017Sfyridis} \\ 

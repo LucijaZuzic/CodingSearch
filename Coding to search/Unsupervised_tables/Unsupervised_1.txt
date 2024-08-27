@@ -32,12 +32,12 @@ Handayani et al. \cite{handayani2015anomaly} \\
 Ng et al. \cite{2012Ng} \\ 
 \hline 
 \multicolumn{1}{|c|}{BN+GMM+OU} \\ \hline 
-Forti et al. \cite{2022Forti1} \\ 
-Forti et al. \cite{2022Forti2} \\ 
+Forti et al. \cite{2022Forti} \\ 
 Forti et al. \cite{2019Forti} \\ 
 Forti et al. \cite{2020Forti} \\ 
-Forti et al. \cite{2022Forti} \\ 
 Forti et al. \cite{2018Forti} \\ 
+Forti et al. \cite{2022Forti1} \\ 
+Forti et al. \cite{2022Forti2} \\ 
 \hline 
 \multicolumn{1}{|c|}{OU} \\ \hline 
 Coraluppi et al. \cite{2016Coraluppi} \\ 
@@ -53,13 +53,13 @@ Jiang et al. \cite{2016Jiang} \\
 \hline 
 \multicolumn{1}{|c|}{DBSCAN+KDE} \\ \hline 
 Loi et al. \cite{2020Loi} \\ 
-Pallotta et al. \cite{2013Pallotta1} \\ 
 Pallotta et al. \cite{2013Pallotta} \\ 
+Pallotta et al. \cite{2013Pallotta1} \\ 
 \hline 
 \multicolumn{1}{|c|}{DBSCAN+OU} \\ \hline 
-d'Afflisio et al. \cite{2018d'Afflisio1} \\ 
-Coscia et al. \cite{2018Coscia1} \\ 
 Coscia et al. \cite{2018Coscia} \\ 
+Coscia et al. \cite{2018Coscia1} \\ 
+d'Afflisio et al. \cite{2018d'Afflisio1} \\ 
 \hline 
 \multicolumn{1}{|c|}{GAM} \\ \hline 
 Ford et al. \cite{Ford2018LoiteringWI} \\ 

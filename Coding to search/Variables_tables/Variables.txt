@@ -4,7 +4,7 @@ P & Zhao and Shi \cite{zhao_shi_2019}, Jiang et al. \cite{2016Jiang} \\ \hline
 S & Souza et al. \cite{2016Souza} \\ \hline 
 N & Pohontu et al. \cite{2023Pohontu}, Pohontu et al. \cite{2023Pohontu1}, Djenouri et al. \cite{2022Djenouri}, Freitas et al. \cite{2019Freitas}, Fahn et al. \cite{2019Fahn}, Czaplewski and Dzwonkowski \cite{2022Czaplewski} \\ \hline 
 SC & Hanyang et al. \cite{2019Hanyang}, Mantecon et al. \cite{2019Mantecon} \\ \hline 
-PS+PSC & Ford et al. \cite{Ford2018LoiteringWI}, Auslander et al. \cite{Auslander2012MaritimeTD}, Young \cite{2019Young}, Shahir et al. \cite{2019Shahir}, Marzuki et al. \cite{2018Marzuki} \\ \hline 
+PS+PSC & Young \cite{2019Young}, Ford et al. \cite{Ford2018LoiteringWI}, Shahir et al. \cite{2019Shahir}, Auslander et al. \cite{Auslander2012MaritimeTD}, Marzuki et al. \cite{2018Marzuki} \\ \hline 
 PSC+S & Toloue and Jahan \cite{2018Toloue} \\ \hline 
 C+P+S & Kim et al. \cite{2016Kim} \\ \hline 
 P+PC+PS & Zhen et al. \cite{2017Zhen} \\ \hline 

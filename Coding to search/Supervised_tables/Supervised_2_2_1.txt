@@ -53,16 +53,16 @@ Nguyen et al. \cite{2020Nguyen} & \multicolumn{1}{c|}{} & Jiang et al. \cite{jia
  \\ 
 \hline 
 \multicolumn{2}{|c|}{RNN} & \multicolumn{2}{|c|}{GNN} & \multicolumn{1}{|c|}{RF+SVM} \\ \hline 
-Magnussen et al. \cite{2021Magnussen} & \multicolumn{1}{c|}{Singh et al. \cite{2022Singh}} & Eljabu et al. \cite{2021Eljabu} & \multicolumn{1}{c|}{Liu et al. \cite{2022Liu5}} & Marzuki et al. \cite{2018Marzuki} \\ 
-Jiang et al. \cite{jiang2017partition} & \multicolumn{1}{c|}{} &  & \multicolumn{1}{c|}{} & Jiang et al. \cite{2016Jiang} \\ 
+Magnussen et al. \cite{2021Magnussen} & \multicolumn{1}{c|}{Singh et al. \cite{2022Singh}} & Eljabu et al. \cite{2021Eljabu} & \multicolumn{1}{c|}{Liu et al. \cite{2022Liu5}} & Jiang et al. \cite{2016Jiang} \\ 
+Jiang et al. \cite{jiang2017partition} & \multicolumn{1}{c|}{} &  & \multicolumn{1}{c|}{} & Marzuki et al. \cite{2018Marzuki} \\ 
  \\ 
 \hline 
 \multicolumn{2}{|c|}{GNN} & \multicolumn{2}{|c|}{RF+SVM} & \multicolumn{1}{|c|}{ANN} \\ \hline 
-Eljabu et al. \cite{2021Eljabu} & \multicolumn{1}{c|}{Liu et al. \cite{2022Liu5}} & Marzuki et al. \cite{2018Marzuki} & \multicolumn{1}{c|}{Jiang et al. \cite{2016Jiang}} & Singh and Heymann \cite{2020Singh} \\ 
+Eljabu et al. \cite{2021Eljabu} & \multicolumn{1}{c|}{Liu et al. \cite{2022Liu5}} & Jiang et al. \cite{2016Jiang} & \multicolumn{1}{c|}{Marzuki et al. \cite{2018Marzuki}} & Singh and Heymann \cite{2020Singh} \\ 
  \\ 
 \hline 
 \multicolumn{2}{|c|}{RF+SVM} & \multicolumn{2}{|c|}{ANN} & \multicolumn{1}{|c|}{GP} \\ \hline 
-Marzuki et al. \cite{2018Marzuki} & \multicolumn{1}{c|}{Jiang et al. \cite{2016Jiang}} & Singh and Heymann \cite{2020Singh} & \multicolumn{1}{c|}{} & Kowalska and Peel \cite{2012Kowalska} \\ 
+Jiang et al. \cite{2016Jiang} & \multicolumn{1}{c|}{Marzuki et al. \cite{2018Marzuki}} & Singh and Heymann \cite{2020Singh} & \multicolumn{1}{c|}{} & Kowalska and Peel \cite{2012Kowalska} \\ 
  \\ 
 \hline 
 \multicolumn{2}{|c|}{ANN} & \multicolumn{2}{|c|}{GP} & \multicolumn{1}{|c|}{CNN+k-NN} \\ \hline 

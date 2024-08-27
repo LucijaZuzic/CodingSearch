@@ -14,5 +14,5 @@ CNN+k-NN & Young \cite{2019Young} \\ \hline
 HMM+RF & Auslander et al. \cite{Auslander2012MaritimeTD} \\ \hline 
 HMM+SVM & Shahir et al. \cite{2015Shahir} \\ \hline 
 LSTM+RF & Liang et al. \cite{2019Liang} \\ \hline 
-RF+SVM & Marzuki et al. \cite{2018Marzuki}, Jiang et al. \cite{2016Jiang} \\ \hline 
+RF+SVM & Jiang et al. \cite{2016Jiang}, Marzuki et al. \cite{2018Marzuki} \\ \hline 
 ANN+HMM+RF & Dogru and Subasi \cite{2018Dogru} \\ \hline 

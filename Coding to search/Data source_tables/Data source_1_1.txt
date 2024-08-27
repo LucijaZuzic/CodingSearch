@@ -80,41 +80,41 @@
 \multicolumn{1}{|c|}{Ljunggren \cite{2018Ljunggren}} &  \\ 
 \hline 
 \multicolumn{1}{|c|}{other} & \multicolumn{1}{|c|}{AIS+radar} \\ \hline 
-\multicolumn{1}{|c|}{Auslander et al. \cite{Auslander2012MaritimeTD}} & Forti et al. \cite{2022Forti1} \\ 
-\multicolumn{1}{|c|}{Dogru and Subasi \cite{2018Dogru}} & Forti et al. \cite{2022Forti2} \\ 
-\multicolumn{1}{|c|}{Kim and Jeong \cite{2015Kim}} & Forti et al. \cite{2019Forti} \\ 
-\multicolumn{1}{|c|}{Kim et al. \cite{kim2019anomalous}} & d'Afflisio et al. \cite{2018d'Afflisio1} \\ 
-\multicolumn{1}{|c|}{Toloue and Jahan \cite{2018Toloue}} & Forti et al. \cite{2020Forti} \\ 
-\multicolumn{1}{|c|}{Coraluppi et al. \cite{2016Coraluppi}} & Forti et al. \cite{2022Forti} \\ 
-\multicolumn{1}{|c|}{Kim et al. \cite{2016Kim}} & Forti et al. \cite{2018Forti} \\ 
+\multicolumn{1}{|c|}{Auslander et al. \cite{Auslander2012MaritimeTD}} & Forti et al. \cite{2022Forti} \\ 
+\multicolumn{1}{|c|}{Dogru and Subasi \cite{2018Dogru}} & Forti et al. \cite{2019Forti} \\ 
+\multicolumn{1}{|c|}{Kim and Jeong \cite{2015Kim}} & d'Afflisio et al. \cite{2018d'Afflisio1} \\ 
+\multicolumn{1}{|c|}{Kim et al. \cite{kim2019anomalous}} & Forti et al. \cite{2020Forti} \\ 
+\multicolumn{1}{|c|}{Toloue and Jahan \cite{2018Toloue}} & Forti et al. \cite{2018Forti} \\ 
+\multicolumn{1}{|c|}{Coraluppi et al. \cite{2016Coraluppi}} & Forti et al. \cite{2022Forti1} \\ 
+\multicolumn{1}{|c|}{Kim et al. \cite{2016Kim}} & Forti et al. \cite{2022Forti2} \\ 
 \multicolumn{1}{|c|}{Ng et al. \cite{2012Ng}} &  \\ 
 \multicolumn{1}{|c|}{Le and Zheng \cite{Le2016TrajectoryPO}} &  \\ 
 \multicolumn{1}{|c|}{Kraiman et al. \cite{2002Kraiman}} &  \\ 
 \multicolumn{1}{|c|}{Riveiro et al. \cite{2008Riveiro1}} &  \\ 
 \hline 
 \multicolumn{1}{|c|}{AIS+radar} & \multicolumn{1}{|c|}{AIS+environment} \\ \hline 
-\multicolumn{1}{|c|}{Forti et al. \cite{2022Forti1}} & Zhang et al. \cite{ZHANG2021107674} \\ 
-\multicolumn{1}{|c|}{Forti et al. \cite{2022Forti2}} & Mascaro et al. \cite{2014Mascaro} \\ 
-\multicolumn{1}{|c|}{Forti et al. \cite{2019Forti}} & Mehri et al. \cite{2023Mehri} \\ 
-\multicolumn{1}{|c|}{d'Afflisio et al. \cite{2018d'Afflisio1}} & Woodill et al. \cite{Woodill2020PredictingIF} \\ 
-\multicolumn{1}{|c|}{Forti et al. \cite{2020Forti}} &  \\ 
-\multicolumn{1}{|c|}{Forti et al. \cite{2022Forti}} &  \\ 
+\multicolumn{1}{|c|}{Forti et al. \cite{2022Forti}} & Zhang et al. \cite{ZHANG2021107674} \\ 
+\multicolumn{1}{|c|}{Forti et al. \cite{2019Forti}} & Woodill et al. \cite{Woodill2020PredictingIF} \\ 
+\multicolumn{1}{|c|}{d'Afflisio et al. \cite{2018d'Afflisio1}} & Mascaro et al. \cite{2014Mascaro} \\ 
+\multicolumn{1}{|c|}{Forti et al. \cite{2020Forti}} & Mehri et al. \cite{2023Mehri} \\ 
 \multicolumn{1}{|c|}{Forti et al. \cite{2018Forti}} &  \\ 
+\multicolumn{1}{|c|}{Forti et al. \cite{2022Forti1}} &  \\ 
+\multicolumn{1}{|c|}{Forti et al. \cite{2022Forti2}} &  \\ 
 \hline 
 \multicolumn{1}{|c|}{AIS+environment} & \multicolumn{1}{|c|}{camera} \\ \hline 
 \multicolumn{1}{|c|}{Zhang et al. \cite{ZHANG2021107674}} & Djenouri et al. \cite{2022Djenouri} \\ 
-\multicolumn{1}{|c|}{Mascaro et al. \cite{2014Mascaro}} & Freitas et al. \cite{2019Freitas} \\ 
-\multicolumn{1}{|c|}{Mehri et al. \cite{2023Mehri}} & Czaplewski and Dzwonkowski \cite{2022Czaplewski} \\ 
-\multicolumn{1}{|c|}{Woodill et al. \cite{Woodill2020PredictingIF}} &  \\ 
+\multicolumn{1}{|c|}{Woodill et al. \cite{Woodill2020PredictingIF}} & Freitas et al. \cite{2019Freitas} \\ 
+\multicolumn{1}{|c|}{Mascaro et al. \cite{2014Mascaro}} & Czaplewski and Dzwonkowski \cite{2022Czaplewski} \\ 
+\multicolumn{1}{|c|}{Mehri et al. \cite{2023Mehri}} &  \\ 
 \hline 
 \multicolumn{1}{|c|}{camera} & \multicolumn{1}{|c|}{AIS+other} \\ \hline 
-\multicolumn{1}{|c|}{Djenouri et al. \cite{2022Djenouri}} & Eljabu et al. \cite{2021Eljabu} \\ 
-\multicolumn{1}{|c|}{Freitas et al. \cite{2019Freitas}} & Liu et al. \cite{2022Liu5} \\ 
+\multicolumn{1}{|c|}{Djenouri et al. \cite{2022Djenouri}} & Liu et al. \cite{2022Liu5} \\ 
+\multicolumn{1}{|c|}{Freitas et al. \cite{2019Freitas}} & Eljabu et al. \cite{2021Eljabu} \\ 
 \multicolumn{1}{|c|}{Czaplewski and Dzwonkowski \cite{2022Czaplewski}} &  \\ 
 \hline 
 \multicolumn{1}{|c|}{AIS+other} & \multicolumn{1}{|c|}{radar} \\ \hline 
-\multicolumn{1}{|c|}{Eljabu et al. \cite{2021Eljabu}} & Loi et al. \cite{2020Loi} \\ 
-\multicolumn{1}{|c|}{Liu et al. \cite{2022Liu5}} &  \\ 
+\multicolumn{1}{|c|}{Liu et al. \cite{2022Liu5}} & Loi et al. \cite{2020Loi} \\ 
+\multicolumn{1}{|c|}{Eljabu et al. \cite{2021Eljabu}} &  \\ 
 \hline 
 \multicolumn{1}{|c|}{radar} & \multicolumn{1}{|c|}{SAR} \\ \hline 
 \multicolumn{1}{|c|}{Loi et al. \cite{2020Loi}} & Fahn et al. \cite{2019Fahn} \\ 

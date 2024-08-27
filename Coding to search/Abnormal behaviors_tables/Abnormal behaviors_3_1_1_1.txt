@@ -1,7 +1,7 @@
 \hline 
 \multicolumn{3}{|c|}{Unusual vessel trajectories} & \multicolumn{1}{|c|}{Unusual AIS behavior} & \multicolumn{1}{|c|}{Illegal zone entry} & \multicolumn{1}{|c|}{Unusual AIS behavior+Unusual vessel trajectories} \\ \hline 
-Anneken et al. \cite{2015Anneken} & Arasteh et al. \cite{2020Arasteh} & \multicolumn{1}{c|}{Auslander et al. \cite{Auslander2012MaritimeTD}} & \multicolumn{1}{|c|}{d'Afflisio et al. \cite{2018d'Afflisio1}} & \multicolumn{1}{|c|}{Ford et al. \cite{Ford2018LoiteringWI}} & Shahir et al. \cite{2019Shahir} \\ 
-Chen et al. \cite{CHEN2020108182} & Hoque and Sharma \cite{2019Hoque} & \multicolumn{1}{c|}{Li et al. \cite{Li2017ADR}} & \multicolumn{1}{|c|}{Ford et al. \cite{2018Ford}} & \multicolumn{1}{|c|}{Marzuki et al. \cite{2018Marzuki}} & Prasad et al. \cite{2021Prasad} \\ 
+Anneken et al. \cite{2015Anneken} & Arasteh et al. \cite{2020Arasteh} & \multicolumn{1}{c|}{Auslander et al. \cite{Auslander2012MaritimeTD}} & \multicolumn{1}{|c|}{d'Afflisio et al. \cite{2018d'Afflisio1}} & \multicolumn{1}{|c|}{Ford et al. \cite{Ford2018LoiteringWI}} & Prasad et al. \cite{2021Prasad} \\ 
+Chen et al. \cite{CHEN2020108182} & Hoque and Sharma \cite{2019Hoque} & \multicolumn{1}{c|}{Li et al. \cite{Li2017ADR}} & \multicolumn{1}{|c|}{Ford et al. \cite{2018Ford}} & \multicolumn{1}{|c|}{Marzuki et al. \cite{2018Marzuki}} & Shahir et al. \cite{2019Shahir} \\ 
 Mascaro et al. \cite{2014Mascaro} & Nguyen et al. \cite{2022Nguyen} & \multicolumn{1}{c|}{Pallotta et al. \cite{2013Pallotta2}} & \multicolumn{1}{|c|}{Kowalska and Peel \cite{2012Kowalska}} & \multicolumn{1}{|c|}{Woodill et al. \cite{Woodill2020PredictingIF}} &  \\ 
 Wang et al. \cite{2017Wang} & Zhang et al. \cite{ZHANG2021107674} & \multicolumn{1}{c|}{Fernandez Arguedas et al. \cite{2015FernandezArguedas}} & \multicolumn{1}{|c|}{Mazzarella et al. \cite{MAZZARELLA2017110}} & \multicolumn{1}{|c|}{} &  \\ 
 Pedroche et al. \cite{2021Pedroche} & Botts \cite{2021Botts} & \multicolumn{1}{c|}{Laxhammar \cite{2008Laxhammar}} & \multicolumn{1}{|c|}{Milios et al. \cite{2019Milios}} & \multicolumn{1}{|c|}{} &  \\ 
@@ -59,8 +59,8 @@ Huang and Zhang \cite{2019Huang1} & Pallotta et al. \cite{2013Pallotta1} & \mult
 \multicolumn{1}{|c|}{} & \multicolumn{1}{|c|}{} &  \\ 
 \hline 
 \multicolumn{3}{|c|}{Unusual AIS behavior} & \multicolumn{1}{|c|}{Illegal zone entry} & \multicolumn{1}{|c|}{Unusual AIS behavior+Unusual vessel trajectories} & \multicolumn{1}{|c|}{Unusual stop} \\ \hline 
-d'Afflisio et al. \cite{2018d'Afflisio1} & Ford et al. \cite{2018Ford} & \multicolumn{1}{c|}{Kowalska and Peel \cite{2012Kowalska}} & \multicolumn{1}{|c|}{Ford et al. \cite{Ford2018LoiteringWI}} & \multicolumn{1}{|c|}{Shahir et al. \cite{2019Shahir}} & Varlamis et al. \cite{Varlamis2019ANA} \\ 
-Mazzarella et al. \cite{MAZZARELLA2017110} & Milios et al. \cite{2019Milios} & \multicolumn{1}{c|}{Singh and Heymann \cite{2020Singh}} & \multicolumn{1}{|c|}{Marzuki et al. \cite{2018Marzuki}} & \multicolumn{1}{|c|}{Prasad et al. \cite{2021Prasad}} &  \\ 
+d'Afflisio et al. \cite{2018d'Afflisio1} & Ford et al. \cite{2018Ford} & \multicolumn{1}{c|}{Kowalska and Peel \cite{2012Kowalska}} & \multicolumn{1}{|c|}{Ford et al. \cite{Ford2018LoiteringWI}} & \multicolumn{1}{|c|}{Prasad et al. \cite{2021Prasad}} & Varlamis et al. \cite{Varlamis2019ANA} \\ 
+Mazzarella et al. \cite{MAZZARELLA2017110} & Milios et al. \cite{2019Milios} & \multicolumn{1}{c|}{Singh and Heymann \cite{2020Singh}} & \multicolumn{1}{|c|}{Marzuki et al. \cite{2018Marzuki}} & \multicolumn{1}{|c|}{Shahir et al. \cite{2019Shahir}} &  \\ 
 Young \cite{2019Young} & Singh and Heymann \cite{2020Singh1} & \multicolumn{1}{c|}{d’Afflisio et al. \cite{2021d’Afflisio}} & \multicolumn{1}{|c|}{Woodill et al. \cite{Woodill2020PredictingIF}} & \multicolumn{1}{|c|}{} &  \\ 
 d’Afflisio et al. \cite{2021d’Afflisio1} &  & \multicolumn{1}{c|}{} & \multicolumn{1}{|c|}{} & \multicolumn{1}{|c|}{} &  \\ 
 \multicolumn{1}{|c|}{} & \multicolumn{1}{|c|}{} &  \\ 
@@ -71,12 +71,12 @@ d’Afflisio et al. \cite{2021d’Afflisio1} &  & \multicolumn{1}{c|}{} & \multi
 \multicolumn{1}{|c|}{} & \multicolumn{1}{|c|}{} &  \\ 
 \hline 
 \multicolumn{3}{|c|}{Illegal zone entry} & \multicolumn{1}{|c|}{Unusual AIS behavior+Unusual vessel trajectories} & \multicolumn{1}{|c|}{Unusual stop} & \multicolumn{1}{|c|}{Loitering} \\ \hline 
-Ford et al. \cite{Ford2018LoiteringWI} & Marzuki et al. \cite{2018Marzuki} & \multicolumn{1}{c|}{Woodill et al. \cite{Woodill2020PredictingIF}} & \multicolumn{1}{|c|}{Shahir et al. \cite{2019Shahir}} & \multicolumn{1}{|c|}{Varlamis et al. \cite{Varlamis2019ANA}} & Cazzanti and Pallotta \cite{2015Cazzanti} \\ 
-\multicolumn{1}{|c|}{Prasad et al. \cite{2021Prasad}} & \multicolumn{1}{|c|}{} &  \\ 
+Ford et al. \cite{Ford2018LoiteringWI} & Marzuki et al. \cite{2018Marzuki} & \multicolumn{1}{c|}{Woodill et al. \cite{Woodill2020PredictingIF}} & \multicolumn{1}{|c|}{Prasad et al. \cite{2021Prasad}} & \multicolumn{1}{|c|}{Varlamis et al. \cite{Varlamis2019ANA}} & Cazzanti and Pallotta \cite{2015Cazzanti} \\ 
+\multicolumn{1}{|c|}{Shahir et al. \cite{2019Shahir}} & \multicolumn{1}{|c|}{} &  \\ 
 \multicolumn{1}{|c|}{} & \multicolumn{1}{|c|}{} &  \\ 
 \hline 
 \multicolumn{3}{|c|}{Unusual AIS behavior+Unusual vessel trajectories} & \multicolumn{1}{|c|}{Unusual stop} & \multicolumn{1}{|c|}{Loitering} & \multicolumn{1}{|c|}{Illegal zone entry+Unusual vessel trajectories} \\ \hline 
-Shahir et al. \cite{2019Shahir} & Prasad et al. \cite{2021Prasad} & \multicolumn{1}{c|}{} & \multicolumn{1}{|c|}{Varlamis et al. \cite{Varlamis2019ANA}} & \multicolumn{1}{|c|}{Cazzanti and Pallotta \cite{2015Cazzanti}} & Nguyen et al. \cite{2018Nguyen} \\ 
+Prasad et al. \cite{2021Prasad} & Shahir et al. \cite{2019Shahir} & \multicolumn{1}{c|}{} & \multicolumn{1}{|c|}{Varlamis et al. \cite{Varlamis2019ANA}} & \multicolumn{1}{|c|}{Cazzanti and Pallotta \cite{2015Cazzanti}} & Nguyen et al. \cite{2018Nguyen} \\ 
 \multicolumn{1}{|c|}{} & \multicolumn{1}{|c|}{} &  \\ 
 \hline 
 \multicolumn{3}{|c|}{Unusual stop} & \multicolumn{1}{|c|}{Loitering} & \multicolumn{1}{|c|}{Illegal zone entry+Unusual vessel trajectories} & \multicolumn{1}{|c|}{U turn+Unusual stop} \\ \hline 

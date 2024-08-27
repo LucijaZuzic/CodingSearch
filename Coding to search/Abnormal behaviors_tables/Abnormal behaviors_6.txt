@@ -19,7 +19,7 @@ Young \cite{2019Young} & Singh and Heymann \cite{2020Singh1} & d’Afflisio et a
 Ford et al. \cite{Ford2018LoiteringWI} & Marzuki et al. \cite{2018Marzuki} & Woodill et al. \cite{Woodill2020PredictingIF} &  &  &  \\ 
 \hline 
 \multicolumn{6}{|c|}{Unusual AIS behavior+Unusual vessel trajectories} \\ \hline 
-Shahir et al. \cite{2019Shahir} & Prasad et al. \cite{2021Prasad} &  &  &  &  \\ 
+Prasad et al. \cite{2021Prasad} & Shahir et al. \cite{2019Shahir} &  &  &  &  \\ 
 \hline 
 \multicolumn{6}{|c|}{Unusual stop} \\ \hline 
 Varlamis et al. \cite{Varlamis2019ANA} &  &  &  &  &  \\ 
