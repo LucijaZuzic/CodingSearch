@@ -346,6 +346,18 @@ def make_a_plot_years_sizes(dict_multi, name_plot):
     maxx = 0
     miny = 0
     maxy = 0
+    new_dimensions = {"Not applicable": [[1, (10, 10), "upper left"], [1, (10, 10), "upper left"]],
+                "Intents": [[1, (11, 10), "upper left"], [1, (10, 10), "upper left"]],
+                "Abnormal activities": [[1, (10, 10), "upper left"], [1, (10, 12), "upper right"]],
+                "Abnormal behaviors": [[1, (10, 20), "upper left"], [1, (10, 12), "upper left"]],
+                "Data source": [[1, (10, 10), "upper left"], [1, (10, 10), "upper left"]],
+                "Extracting information": [[1, (10, 13), "upper left"], [1, (10, 10), "upper left"]],
+                "Unsupervised": [[2, (15, 15), "upper left"], [2, (15, 15), "upper left"]],
+                "Supervised": [[2, (15, 15), "upper left"], [2, (15, 15), "upper left"]],
+                "Variables": [[1, (10, 10), "upper left"], [1, (10, 10), "upper left"]],
+                "Algorithm": [[2, (20, 20), "upper left"], [2, (20, 20), "upper left"]],
+                "Behavior": [[2, (25, 25), "upper left"], [2, (20, 25), "upper left"]],
+                }
     #colors_use_original = ["#000000", "#E69F00", "#56B4E9", "#009E73", "#F0E442", "#0072B2", "#D55E00", "#CC79A7"]
     colors_use_original = ["#E69F00", "#56B4E9", "#009E73", "#F0E442", "#0072B2", "#D55E00", "#CC79A7"]
     #colors_use = random_colors(len(dict_multi))
@@ -388,14 +400,14 @@ def make_a_plot_years_sizes(dict_multi, name_plot):
             maxy = max(heights_so_far[year_one - minx], maxy)
         stuff_to_plot.append(heights_so_far.copy())
         counter_var += 1
-    plt.figure(figsize = (20, 25), dpi = 600)  
+    sizes_use = new_dimensions[name_plot][0][1]
+    plt.figure(figsize = sizes_use, dpi = 600)
     plt.rcParams.update({'font.size': 20})  
     dict_multi_colors = dict() 
     dict_multi_patterns = dict() 
     maxlabellen = 0
-    ncols = 2
-    if "gorithm" not in name_plot and "Behavior" not in name_plot:
-        ncols = 1
+    ncols = new_dimensions[name_plot][0][0]
+    locs = new_dimensions[name_plot][0][2]
     lblnms = dict()
     lblnms_no_num = dict()
     for current_plt_num in range(len(stuff_to_plot)):
@@ -419,11 +431,7 @@ def make_a_plot_years_sizes(dict_multi, name_plot):
                 hatch = patterns_use_final[current_plt_num],
                 label = lbl_no_num)
         maxlabellen = max(maxlabellen, len(str(current_plt_num + 1) + " " + list(dict_multi.keys())[len(stuff_to_plot) - 1 - current_plt_num]))
-    if len(dict_multi) > 1: 
-        if "gorithm" not in name_plot and "Behavior" not in name_plot:
-            plt.legend(ncol = ncols, loc = 'upper left')
-        else:
-            plt.legend(ncol = ncols, loc = 'upper left')
+    plt.legend(ncol = ncols, loc = locs)
     plt.yticks(range(miny, maxy + 1), range(miny, maxy + 1))
     plt.xticks(range(minx, maxx + 1), range(minx, maxx + 1))
     plt.xlabel("Year")
@@ -437,7 +445,10 @@ def make_a_plot_years_sizes(dict_multi, name_plot):
     #plt.show() 
     plt.close()
     
-    plt.figure(figsize = (20, 25), dpi = 600) 
+    sizes_use = new_dimensions[name_plot][1][1]
+    ncols = new_dimensions[name_plot][1][0]
+    locs = new_dimensions[name_plot][1][2]
+    plt.figure(figsize = sizes_use, dpi = 600) 
     plt.rcParams.update({'font.size': 20})  
     sizes_dict_entries = [] 
     width_bar = len(str(len(stuff_to_plot)))
@@ -465,11 +476,7 @@ def make_a_plot_years_sizes(dict_multi, name_plot):
     step_size = 1
     if max(sizes_dict_entries) > 40:
         step_size = 3
-    if len(dict_multi) > 1: 
-        if "gorithm" not in name_plot and "Behavior" not in name_plot:
-            plt.legend(ncol = ncols, loc = 'upper left')
-        else:
-            plt.legend(ncol = ncols, loc = 'upper left')
+    plt.legend(ncol = ncols, loc = locs)
     plt.yticks(range(0, max(sizes_dict_entries) + 1, step_size),  range(0, max(sizes_dict_entries) + 1, step_size))
     plt.xticks(range(1, 1 + len(dict_multi_names) * width_bar, width_bar), range(1, 1 + len(dict_multi_names), 1))
     plt.xlabel("Category")
